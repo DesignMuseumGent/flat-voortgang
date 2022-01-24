@@ -10,13 +10,9 @@ const csv = await readCSV(filename)
 console.log(csv)
 
 // Step 2: Filter specific data we want to keep and write to a new JSON file
-const currencyRates = Object.values(json.bpi); // convert property values into an array
-const filteredCurrencyRates = currencyRates.map(rate => ({ 
-    currency: rate.description,
-    bitcoinRate: rate.rate
-}));
+const currencyRates = {'foo': 'bar'}
 
 // Step 3. Write a new JSON file with our filtered data
 const newFilename = `voortgang-postprocessed.csv` // name of a new file to be saved
-await writeJSON(newFilename, filteredCurrencyRates) // create a new JSON file with just the Bitcoin price
+await writeJSON(newFilename, currencyRates) // create a new JSON file with just the Bitcoin price
 console.log("Wrote a post process file")
