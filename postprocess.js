@@ -54,9 +54,9 @@ for(let l in list) {
   }
 
   if(list[l]['publicatie op erfgoedinzicht'].search("geklaard") || list[l]['publicatie op erfgoedinzicht'].search("ok") || list[l]['publicatie op erfgoedinzicht'].search("OK")) {
-    list[l]['status']['publicatieEuropeana'] = 'groen';
+    list[l]['status']['publicatieErfgoedinzicht'] = 'groen';
   } else {
-    list[l]['status']['publicatieEuropeana'] = 'rood';
+    list[l]['status']['publicatieErfgoedinzicht'] = 'rood';
   }
 
   let naam = list[l]['naam'];
