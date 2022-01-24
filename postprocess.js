@@ -5,7 +5,7 @@
 import { readCSV, writeJSON } from 'https://deno.land/x/flat@0.0.11/mod.ts'
 
 // Step 1: Read the downloaded_filename JSON
-const filename = Deno.args[0]; // "voortgang.csv"; //Deno.args[0]; // Same name as downloaded_filename `const filename = 'btc-price.json';`
+const filename = Deno.args[0]; //# "voortgang.csv"; //Deno.args[0]; // Same name as downloaded_filename `const filename = 'btc-price.json';`
 const csv = await readCSV(filename)
 let list = []
 
