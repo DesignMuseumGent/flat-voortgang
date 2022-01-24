@@ -61,7 +61,9 @@ for(let l in list) {
 
   let naam = list[l]['naam'];
   let objectnummer = list[l]['objectnummer']
-  list[l] = {'naam': naam, 'objectnummer': objectnummer, 'status': list[l].status}
+  list[l] = list[l].status
+  list[l].naam = naam;
+  list[l].objectnummer = objectnummer;
 
 }
 
