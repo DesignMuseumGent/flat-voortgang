@@ -5,7 +5,7 @@
 import { readCSV, writeJSON } from 'https://deno.land/x/flat@0.0.11/mod.ts'
 
 // Step 1: Read the downloaded_filename JSON
-const filename = Deno.args[0]; // Same name as downloaded_filename `const filename = 'btc-price.json';`
+const filename = Deno.args[0]; // "voortgang.csv"; //Deno.args[0]; // Same name as downloaded_filename `const filename = 'btc-price.json';`
 const csv = await readCSV(filename)
 let list = []
 
@@ -47,13 +47,13 @@ for(let l in list) {
     list[l]['status']['auteursrechten'] = 'rood';
   }
 
-  if(list[l]['publicatie op coghent (via europeana)'].search("geklaard") || list[l]['publicatie op coghent (via europeana)'].search("ok") || list[l]['publicatie op coghent (via europeana)'].search("OK")) {
+  if(list[l]['publicatie op coghent (via europeana)'].search("geklaard") > -1 || list[l]['publicatie op coghent (via europeana)'].search("ok") > -1 || list[l]['publicatie op coghent (via europeana)'].search("OK") > -1) {
     list[l]['status']['publicatieEuropeana'] = 'groen';
   } else {
     list[l]['status']['publicatieEuropeana'] = 'rood';
   }
 
-  if(list[l]['publicatie op erfgoedinzicht'].search("geklaard") || list[l]['publicatie op erfgoedinzicht'].search("ok") || list[l]['publicatie op erfgoedinzicht'].search("OK")) {
+  if(list[l]['publicatie op erfgoedinzicht'].search("geklaard") > -1 || list[l]['publicatie op erfgoedinzicht'].search("ok") > -1 || list[l]['publicatie op erfgoedinzicht'].search("OK") > -1) {
     list[l]['status']['publicatieErfgoedinzicht'] = 'groen';
   } else {
     list[l]['status']['publicatieErfgoedinzicht'] = 'rood';
