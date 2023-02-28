@@ -1,4 +1,4 @@
-naam,invalshoeken,objectnummer,niveau van ontsluiting,beelden ontsluiten voor publiek?,inhoudelijke registratie koepel en deelnummers,waardering,foto-overleg,beelden klaar,staat te ontsluiten beeld op de R-schijf in groot formaat?,naam beeld(en),te contacteren vervaardigers voor rechten,toestemming auteursrecht,attributie,publicatie op ldes (via europeana),publicatie op erfgoedinzicht,opmerkingen
+2019-11-13,invalshoeken,objectnummer,niveau van ontsluiting,beelden ontsluiten voor publiek?,inhoudelijke registratie koepel en deelnummers,waardering,foto-overleg,beelden klaar,staat te ontsluiten beeld op de R-schijf in groot formaat?,naam beeld(en),te contacteren vervaardigers voor rechten,toestemming auteursrecht,attributie,publicatie op ldes (via europeana),publicatie op erfgoedinzicht,opmerkingen
 ,,,enkelvoudig object,publiek,ok,GROEN,ok,ok,ok,,,ok,,,,
 ,,,set,,mee bezig,ORANJE,draaien/photoshoppen,x (opgenomen in flow fotografie),"ja, maar klein formaat",,,aangevraagd,,,,
 ,,,ensemble,niet-publiek,niet klaar,ROOD (collectieprofiel/museumwaardig),foto nemen,,nee,,,geweigerd,,,,
@@ -863,8 +863,8 @@ Marie,kantoor (binnen- en buitenshuis),DMG_T_00103_ORANJE,enkelvoudig object,pub
 Marie,kantoor (binnen- en buitenshuis),DMG_T_00111_ORANJE,enkelvoudig object,publiek,mee bezig,,photoshoppen,,ok,DMG_T_00111_ORANJE,,,,,,
 ,,,,,,,,,,,#N/A,,,,,
 Marie,jaren 1960,0124,enkelvoudig object,publiek,ok,x,,ok,ok,0124,"Baert, Paul*Baert, Paul",ok,Paul Baert,ok 14-1,ok 14-1,batikspecialist Rita Trefois bevragen
-Marie,jaren 1970,0436,enkelvoudig object,publiek,ok,x,,ok,ok,0436$1,"Ōhi Toyasai, Toshirō*Ōhi Toyasai, Toshirō",ok,Toshirō Ōhi Toyasai,,,
-Marie,jaren 1970,0437,enkelvoudig object,publiek,ok,x,,ok,ok,0437$2,"Ōhi Toyasai, Toshirō*Ōhi Toyasai, Toshirō",ok,Toshirō Ōhi Toyasai,,,keramiekspecialist Frank Huygens bevragen
+Marie,jaren 1970,0436,enkelvoudig object,publiek,ok,x,,ok,ok,0436$1,"Ōhi Toyasai, Toshirō*Ōhi Toyasai, Toshirō",ok,Toshirō Ōhi Toyasai,ok 2023-02-27,ok 2023-02-27,
+Marie,jaren 1970,0437,enkelvoudig object,publiek,ok,x,,ok,ok,0437$2,"Ōhi Toyasai, Toshirō*Ōhi Toyasai, Toshirō",ok,Toshirō Ōhi Toyasai,ok 2023-02-27,ok 2023-02-27,keramiekspecialist Frank Huygens bevragen
 Marie,jaren 1970,1974-0010,enkelvoudig object,publiek,ok,x,,ok,ok,1974-0010,"Vanden Berghe, Bob*Van Den Berghe-Pauvers",ok,Bob Vanden Berghe,ok,ok,
 Marie,jaren 1970,1975-0080,enkelvoudig object,publiek,ok (zonder beschrijving),,,ok,ok,1975-0080$1,"Bonduel, Roger*Bonduel, Roger",,,,,
 Marie,jaren 1960,1976-0206,enkelvoudig object,publiek,ok,,,ok,ok,1976-0206$1,"Maréchal, Joost*Maréchal, Joost",ok,Joost Maréchal,ok 2022-08-16,ok 2022-08-16,
@@ -900,7 +900,7 @@ Marie,jaren 1970,1978-0102_3-5,enkelvoudig object,niet-publiek,ok,,,ok,ok,1978-0
 Marie,jaren 1970,1978-0102_4-5,enkelvoudig object,niet-publiek,ok,,,ok,ok,1978-0102_4-5$1,"Pauwels, Achiel",ok,Achiel Pauwels,ok 16-2-2022,nvt 16-2-2022,
 Marie,jaren 1970,1978-0102_5-5,enkelvoudig object,niet-publiek,ok,,,ok,ok,1978-0102_5-5$1,"Pauwels, Achiel",ok,Achiel Pauwels,ok 16-2-2022,nvt 16-2-2022,
 Marie,jaren 1970,1978-0103,enkelvoudig object,publiek,ok,x,,ok,ok,1978-0103$1,"Dionyse, Carmen*Dionyse, Carmen",ok,Carmen Dionyse,ok 27-9,ok 27-9,
-Marie,jaren 1970,1978-0104,enkelvoudig object ,publiek,ok,x,,ok,ok,1978-0104$2,"Dionyse, Carmen*Dionyse, Carmen",ok,Carmen Dionyse,,,
+Marie,jaren 1970,1978-0104,enkelvoudig object ,publiek,ok,x,,ok,ok,1978-0104$2,"Dionyse, Carmen*Dionyse, Carmen",ok,Carmen Dionyse,ok 2023-02-27,ok 2023-02-27,
 Marie,jaren 1970,1979-0003,enkelvoudig object ,publiek,ok,,,ok,ok,1979-0003$3,"Lauwaert, Yvette*Lauwaert, Yvette",ok,Yvette Lauwaert,ok 26-10-2022,ok 26-10-2022,
 Marie,jaren 1970,1979-0004,enkelvoudig object,publiek,ok,,,ok,ok,1979-0004$3,"Lauwaert, Yvette*Lauwaert, Yvette",ok,Yvette Lauwaert,ok 26-10-2022,ok 26-10-2022,
 Marie,jaren 1970,1979-0005,enkelvoudig object,publiek,ok,x,,ok,ok,1979-0005$6,"Veranneman, Emiel*De Coene Decor",,,,,
@@ -1493,7 +1493,7 @@ Marie,jaren 1970,2005-0001,enkelvoudig object,publiek,ok,,ok (maar foto van open
 Marie,jaren 1960,2005-0003,enkelvoudig object,publiek,ok,,BEELD NIET IN MAP,x,,,"Vodder, Arne*Sibast furniture",aangevraagd,Arne Vodder,,,
 Marie,jaren 1960,2005-0004,enkelvoudig object,publiek,ok,ok,,ok,ok,2005-0004,"Franck, Kaj Gabriel*Juurikkala, Anja*Arabia",,,,,
 Marie,jaren 1970,2005-0005,enkelvoudig object,publiek,ok,,,ok,ok,2005-0005,mB,ok,mB,ok 2022-06-01,ok 2022-06-01,
-Marie,jaren 1970,2005-0006,enkelvoudig object,publiek,ok,ok,,ok,ok,2005-0006$1;2005-0006$2,"Rams, Dieter*Braun",,,,,
+Marie,jaren 1970,2005-0006,enkelvoudig object,publiek,ok,ok,,ok,ok,2005-0006$1;2005-0006$2,"Rams, Dieter*Braun",ok,Braun; Dieter Rams,ok 2023-02-27,ok 2023-02-27,
 Marie,jaren 1960,2005-0022,enkelvoudig object,publiek,ok,,,ok,ok,2005-0022$2;2005-0022$1,Kalorik*ACEC,aangevraagd,,,,
 Marie,jaren 1960,2005-0027,enkelvoudig object,publiek,ok,,,ok,ok,2005-0027,Kalorik,aangevraagd,,,,
 Marie,jaren 1970,2005-0028,enkelvoudig object,publiek,ok,,,ok,ok,2005-0028$1;2005-0028$2,Melitta,ok,Melitta,ok 2022-10-14,ok 2022-10-14,
@@ -1595,7 +1595,7 @@ Marie,jaren 1960,2009-0011_09-10,enkelvoudig object,niet-publiek,ok,ok,klein for
 Marie,jaren 1960,2009-0011_10-10,enkelvoudig object,niet-publiek,ok,ok,klein formaat,x,,,Tupperware,ok,Tupperware,,,
 Marie,jaren 1970,2009-0019,enkelvoudig object,publiek,ok,,ok,ok,ok,2009-0019,onbekend*onbekend,ok,,ok 2022-07-14,ok 2022-07-14,
 Marie,jaren 1970,2009-0020,enkelvoudig object,publiek,ok,,ok,ok,ok,2009-0020,Telenorma,ok,Avaya,ok 2022-07-14,ok 2022-07-14,
-Marie,jaren 1960,2009-0023,enkelvoudig object,publiek,ok,,klein formaat (2272x1704),x,klein formaat (2272x1704),2009-0023$1;2009-0023$2,"Müller, Gerd Alfred*Braun",,,,,
+Marie,jaren 1960,2009-0023,enkelvoudig object,publiek,ok,,klein formaat (2272x1704),x,klein formaat (2272x1704),2009-0023$1;2009-0023$2,"Müller, Gerd Alfred*Braun",ok,Braun; Gerd Alfred Müller,,,
 Marie,jaren 1960,2009-0026,enkelvoudig object,publiek,ok,,ok,ok,ok,2009-0026,"Linke, Norbert*Sacchi, Giovanni*Philco-Ford",ok,Norbert Linke,ok 08-03-22,ok 08-03-22,
 Marie,jaren 1970,2009-0030_00-26,set,publiek,ok,ok,ok,ok,ok,2009-0030_00-26$1;2009-0030_00-26$2,"Still, Nanny*Iittala",,,,,
 Marie,jaren 1970,2009-0030_01-26,enkelvoudig object,niet-publiek,ok,ok,ok,ok,ok,2009-0030_01-26,"Still, Nanny*Iittala",,,,,
@@ -1715,10 +1715,10 @@ Marie,jaren 1970,2010-0028_70-72,enkelvoudig object,niet-publiek,ok,,ok,ok,ok,20
 Marie,jaren 1970,2010-0028_71-72,enkelvoudig object,niet-publiek,ok,,ok,ok,ok,2010-0028_71-72,"Cardin, Pierre*Porcelaine Lafarge & Cie",ok,,ok 2022-12-06,nvt,
 Marie,jaren 1970,2010-0028_72-72,enkelvoudig object,niet-publiek,ok,,ok,ok,ok,2010-0028_72-72,"Cardin, Pierre*Porcelaine Lafarge & Cie",ok,,ok 2022-12-06,nvt,
 Marie,jaren 1960,2010-0030,enkelvoudig object,niet-publiek,ok,ok,ok,ok,ok,2010-0030,"Scarpa, Tobia*Venini",,,,,
-Marie,jaren 1960,2010-0064_0-3,set,publiek,ok,ok,ok,ok,ok,2010-0064,"Rams, Dieter*Braun",,,,,
-Marie,jaren 1960,2010-0064_1-3,enkelvoudig object,niet-publiek,ok,ok,ok,ok,ok,2010-0064_1-3$1,"Rams, Dieter*Braun",,,,,
-Marie,jaren 1960,2010-0064_2-3,enkelvoudig object,niet-publiek,ok,ok,ok,ok,ok,2010-0064_2-3,"Rams, Dieter*Braun",,,,,
-Marie,jaren 1960,2010-0064_3-3,enkelvoudig object,niet-publiek,ok,ok,ok,ok,ok,2010-0064_3-3,"Rams, Dieter*Braun",,,,,
+Marie,jaren 1960,2010-0064_0-3,set,publiek,ok,ok,ok,ok,ok,2010-0064,"Rams, Dieter*Braun",ok,Braun; Dieter Rams,ok 2023-02-27,ok 2023-02-27,
+Marie,jaren 1960,2010-0064_1-3,enkelvoudig object,niet-publiek,ok,ok,ok,ok,ok,2010-0064_1-3$1,"Rams, Dieter*Braun",ok,Braun; Dieter Rams,ok 2023-02-27,nvt,
+Marie,jaren 1960,2010-0064_2-3,enkelvoudig object,niet-publiek,ok,ok,ok,ok,ok,2010-0064_2-3,"Rams, Dieter*Braun",ok,Braun; Dieter Rams,ok 2023-02-27,nvt,
+Marie,jaren 1960,2010-0064_3-3,enkelvoudig object,niet-publiek,ok,ok,ok,ok,ok,2010-0064_3-3,"Rams, Dieter*Braun",ok,Braun; Dieter Rams,ok 2023-02-27,nvt,
 Marie,jaren 1960,2010-0096_0-5,ensemble,publiek,ok,ok,ok,ok,ok,2010-0096_0-5,"Still, Nanny*Cerabel - Porcelaine de Baudour",,,,,
 Marie,jaren 1960,2010-0096_1-5,enkelvoudig object,niet-publiek,ok,ok,ok,ok,ok,2010-0096_1-5,"Still, Nanny*Cerabel - Porcelaine de Baudour",,,,,
 Marie,jaren 1960,2010-0096_2-5,enkelvoudig object,niet-publiek,ok,ok,ok,ok,ok,2010-0096_2-5,"Still, Nanny*Cerabel - Porcelaine de Baudour",,,,,
@@ -2003,23 +2003,23 @@ Marie,jaren 1960,3965_18-21,enkelvoudig object,niet-publiek,verwerving?,ok,ok,ok
 Marie,jaren 1960,3965_19-21,enkelvoudig object,niet-publiek,verwerving?,ok,ok,ok,ok,3965_19-21,"Wirkkala, Tapio*Rosenthal",aangevraagd,Tapio Wirkkala,,,
 Marie,jaren 1960,3965_20-21,enkelvoudig object,niet-publiek,verwerving?,ok,ok,ok,ok,3965_20-21,"Wirkkala, Tapio*Rosenthal",aangevraagd,Tapio Wirkkala,,,
 Marie,jaren 1960,3965_21-21,enkelvoudig object,niet-publiek,verwerving?,ok,ok,ok,ok,3965_21-21,"Wirkkala, Tapio*Rosenthal",aangevraagd,Tapio Wirkkala,,,
-Marie,jaren 1970,3967,enkelvoudig object,publiek,ok,,ok,ok,ok,3967,Miele,ok,Miele,,,
+Marie,jaren 1970,3967,enkelvoudig object,publiek,ok,,ok,ok,ok,3967,Miele,ok,Miele,ok 2023-02-27,ok 2023-02-27,
 Marie,jaren 1960,3970_0-2,set,publiek,ok,ok,photoshoppen,x,ok,3970_0-2,"Albinson, Don*Knoll International",ok,Don Albinson; Knoll International,,,
 Marie,jaren 1960,3970_1-2,enkelvoudig object,niet-publiek,ok,ok,photoshoppen,x,ok,3970_1-2,"Albinson, Don*Knoll International",ok,Don Albinson; Knoll International,,,
 Marie,jaren 1960,3970_2-2,enkelvoudig object,niet-publiek,ok,ok,photoshoppen,x,ok,3970_2-2,"Albinson, Don*Knoll",ok,Don Albinson; Knoll International,,,
 Marie,jaren 1960,3991,enkelvoudig object,publiek,ok,ok,ok,ok,ok,3991$5,"Panton, Verner*Herman Miller*Vitra",aangevraagd,Verner Panton,,,
-Marie,jaren 1970,4405,enkelvoudig object,niet-publiek,ok,,ok,ok,ok,4405,onbekend,ok,,,,
+Marie,jaren 1970,4405,enkelvoudig object,publiek,ok,,ok,ok,ok,4405,onbekend,ok,,ok 2023-02-27,ok 2023-02-27,
 Marie,jaren 1960,4533,enkelvoudig object,niet-publiek,ok,,foto nemen,x,,,"Sarfatti, Gino*Arteluce",aangevraagd,Gino Sarfatti,,,
 Marie,jaren 1970,4534,enkelvoudig object,niet-publiek,ok,,foto nemen,x,,,"Sarfatti, Gino*Arteluce",aangevraagd,Gino Sarfatti,,,
-Marie,jaren 1970,4536,enkelvoudig object,niet-publiek,ok,ok,ok,ok,ok,4536,"Larsen, Jack Lenor*Jack Lenor Larsen",ok,Jack Lenor Larsen,,,
-Marie,jaren 1970,4537_0-2,set,publiek,ok,ok,ok,ok,ok,4537_0-2,"Larsen, Jack Lenor*Jack Lenor Larsen",ok,Jack Lenor Larsen,,,
-Marie,jaren 1970,4537_1-2,enkelvoudig object,niet-publiek,ok,ok,ok,ok,ok,4537_1-2,"Larsen, Jack Lenor*Jack Lenor Larsen",ok,Jack Lenor Larsen,,,
-Marie,jaren 1970,4537_2-2,enkelvoudig object,niet-publiek,ok,ok,ok,ok,ok,4537_2-2,"Larsen, Jack Lenor*Jack Lenor Larsen",ok,Jack Lenor Larsen,,,
-Marie,jaren 1970,4538_0-2,set,publiek,ok,ok,ok,ok,ok,4538_0-2,"Larsen, Jack Lenor*Jack Lenor Larsen",ok,Jack Lenor Larsen,,,
+Marie,jaren 1970,4536,enkelvoudig object,publiek,ok,ok,ok,ok,ok,4536,"Larsen, Jack Lenor*Jack Lenor Larsen",ok,Jack Lenor Larsen,ok 2023-02-27,ok 2023-02-27,
+Marie,jaren 1970,4537_0-2,set,publiek,ok,ok,ok,ok,ok,4537_0-2,"Larsen, Jack Lenor*Jack Lenor Larsen",ok,Jack Lenor Larsen,ok 2023-02-27,ok 2023-02-27,
+Marie,jaren 1970,4537_1-2,enkelvoudig object,niet-publiek,ok,ok,ok,ok,ok,4537_1-2,"Larsen, Jack Lenor*Jack Lenor Larsen",ok,Jack Lenor Larsen,ok 2023-02-27,nvt,
+Marie,jaren 1970,4537_2-2,enkelvoudig object,niet-publiek,ok,ok,ok,ok,ok,4537_2-2,"Larsen, Jack Lenor*Jack Lenor Larsen",ok,Jack Lenor Larsen,ok 2023-02-27,nvt,
+Marie,jaren 1970,4538_0-2,set,publiek,ok,ok,ok,ok,ok,4538_0-2,"Larsen, Jack Lenor*Jack Lenor Larsen",ok,Jack Lenor Larsen,ok 2023-02-27,ok 2023-02-27,
 Marie,jaren 1970,4538_1-2,enkelvoudig object,niet-publiek,ok,ok,foto nemen,x,,,"Larsen, Jack Lenor*Jack Lenor Larsen",ok,Jack Lenor Larsen,,,
-Marie,jaren 1970,4538_2-2,enkelvoudig object,niet-publiek,ok,ok,ok,ok,ok,4538_2-2,"Larsen, Jack Lenor*Jack Lenor Larsen",ok,Jack Lenor Larsen,,,
-Marie,jaren 1970,4539,enkelvoudig object,publiek,ok,ok,ok,ok,ok,4539,"Larsen, Jack Lenor*Jack Lenor Larsen",ok,Jack Lenor Larsen,,,
-Marie,jaren 1970,4540,enkelvoudig object,publiek,ok,ok,ok,ok,ok,4540,"Larsen, Jack Lenor*Jack Lenor Larsen*onbekend",ok,Jack Lenor Larsen,,,
+Marie,jaren 1970,4538_2-2,enkelvoudig object,niet-publiek,ok,ok,ok,ok,ok,4538_2-2,"Larsen, Jack Lenor*Jack Lenor Larsen",ok,Jack Lenor Larsen,ok 2023-02-27,nvt,
+Marie,jaren 1970,4539,enkelvoudig object,publiek,ok,ok,ok,ok,ok,4539,"Larsen, Jack Lenor*Jack Lenor Larsen",ok,Jack Lenor Larsen,ok 2023-02-27,ok 2023-02-27,
+Marie,jaren 1970,4540,enkelvoudig object,publiek,ok,ok,ok,ok,ok,4540,"Larsen, Jack Lenor*Jack Lenor Larsen*onbekend",ok,Jack Lenor Larsen,ok 2023-02-27,ok 2023-02-27,
 Marie,jaren 1970,4541_0-3,set,publiek,beschrijving (Jack Lenor Larsen),ok,ok,ok,ok,4541_0-3,"Larsen, Jack Lenor*Jack Lenor Larsen",ok,Jack Lenor Larsen,,,
 Marie,jaren 1970,4541_1-3,enkelvoudig object,niet-publiek,beschrijving (Jack Lenor Larsen),ok,ok,ok,ok,4541_1-3,"Larsen, Jack Lenor*Jack Lenor Larsen*onbekend",ok,Jack Lenor Larsen,,,
 Marie,jaren 1970,4541_2-3,enkelvoudig object,niet-publiek,beschrijving (Jack Lenor Larsen),ok,ok,ok,ok,4541_2-3,"Larsen, Jack Lenor*Jack Lenor Larsen",ok,Jack Lenor Larsen,,,
@@ -2030,7 +2030,7 @@ Marie,jaren 1970,4549_1-2,enkelvoudig object,niet-publiek,beschrijving (Jack Len
 Marie,jaren 1970,4549_2-2,enkelvoudig object,niet-publiek,beschrijving (Jack Lenor Larsen),ok,ok,ok,ok,4549_2-2,"Larsen, Jack Lenor*Jack Lenor Larsen*onbekend",ok,Jack Lenor Larsen,,,
 Marie,jaren 1970,4550,enkelvoudig object,publiek,beschrijving (Jack Lenor Larsen),ok,ok,ok,ok,4550,"Larsen, Jack Lenor*Jack Lenor Larsen*onbekend",ok,Jack Lenor Larsen,,,
 Marie,jaren 1970,4554,enkelvoudig object,publiek,beschrijving (Jack Lenor Larsen),,ok,ok,ok,4554,"Larsen, Jack Lenor*Jack Lenor Larsen",ok,Jack Lenor Larsen,,,
-Marie,jaren 1970,4557,enkelvoudig object,publiek,ok,ok,foto draaien,ok,ok,4557,"Larsen, Jack Lenor*Jack Lenor Larsen",ok,Jack Lenor Larsen,,,
+Marie,jaren 1970,4557,enkelvoudig object,publiek,ok,ok,foto draaien,ok,ok,4557,"Larsen, Jack Lenor*Jack Lenor Larsen",ok,Jack Lenor Larsen,ok 2023-02-27,ok 2023-02-27,
 Marie,jaren 1970,4671,enkelvoudig object,publiek,ok,ok,ok,ok,ok,4671$1,"Lauwaert, Yvette",ok,Yvette Lauwaert,ok 26-10-2022,ok 26-10-2022,papieren fiche zoek?
 Marie,jaren 1970,4672,enkelvoudig object,publiek,ok,ok,ok,ok,ok,4672$1,"Lauwaert, Yvette",ok,Yvette Lauwaert,ok 26-10-2022,ok 26-10-2022,papieren fiche zoek?
 Marie,jaren 1970,4675,enkelvoudig object,publiek,ok,ok,ok,ok,ok,4675$1,"Lauwaert, Yvette*Collier, Susan*Campbell, Sarah*Liberty & Co.",deels geklaard,Yvette Lauwaert,ok 26-10-2022,ok 26-10-2022,papieren fiche zoek?
@@ -2049,8 +2049,8 @@ Marie,jaren 1970,4707_1-4,enkelvoudig object,niet-publiek,ok,,betere foto nemen,
 Marie,jaren 1970,4707_2-4,enkelvoudig object,niet-publiek,ok,,foto nemen,x,nee,,"Kleykens, Janine*Solintex",,,,,
 Marie,jaren 1970,4707_3-4,enkelvoudig object,niet-publiek,ok,,betere foto nemen,x,ok,,"Kleykens, Janine*Solintex",,,,,
 Marie,jaren 1970,4707_4-4,enkelvoudig object,niet-publiek,ok,,betere foto nemen,x,ok,,"Kleykens, Janine*Solintex",,,,,
-Marie,jaren 1960,4915,enkelvoudig object,publiek,ok (zonder beschrijving),ok,ok,ok,ok,4915$1,onbekend,ok,,,,
-Marie,jaren 1960,5195,enkelvoudig object,publiek,ok,ok,ok,ok,ok,5195,onbekend*onbekend,ok,,,,
+Marie,jaren 1960,4915,enkelvoudig object,publiek,ok (zonder beschrijving),ok,ok,ok,ok,4915$1,onbekend,ok,,ok 2023-02-27,ok 2023-02-27,
+Marie,jaren 1960,5195,enkelvoudig object,publiek,ok,ok,ok,ok,ok,5195,onbekend*onbekend,ok,,ok 2023-02-27,ok 2023-02-27,
 Marie,jaren 1970,5661,enkelvoudig object,publiek,ok,ok,beeld te klein,x,ok,5661$1,"Squires, Eddie*Warner & Sons",ok,Eddie Squires; Warner & Sons,,,papieren fiche ontbreekt
 Marie,jaren 1960,5719_0-3,set,publiek,ok,,koepelfoto nemen,x,nee,,onbekend,ok,,,,papieren fiche ontbreekt
 Marie,jaren 1960,5719_1-3,enkelvoudig object,niet-publiek,ok,,foto nemen,x,nee,,onbekend,ok,,,,papieren fiche ontbreekt
@@ -2060,52 +2060,52 @@ Marie,jaren 1960,5720,enkelvoudig object,publiek,ok,,foto nemen,x,nee,,onbekend,
 Marie,jaren 1960,5721_0-2,set,publiek,ok,,koepelfoto nemen,x,nee,,onbekend,ok,,,,papieren fiche ontbreekt
 Marie,jaren 1960,5721_1-2,enkelvoudig object,niet-publiek,ok,,foto nemen ,x,nee,,onbekend,ok,,,,papieren fiche ontbreekt
 Marie,jaren 1960,5721_2-2,enkelvoudig object,niet-publiek,ok,,foto nemen ,x,nee,,onbekend,ok,,,,papieren fiche ontbreekt
-Marie,jaren 1960,5770,enkelvoudig object,publiek,ok,ok,ok,ok,ok,5770,onbekend,ok,,,,papieren fiche ontbreekt
+Marie,jaren 1960,5770,enkelvoudig object,publiek,ok,ok,ok,ok,ok,5770,onbekend,ok,,ok 2023-02-27,ok 2023-02-27,papieren fiche ontbreekt
 Marie,jaren 1970,5772,enkelvoudig object,publiek,opschrift,ok,ok,ok,ok,5772,onbekend,ok,,,,papieren fiche ontbreekt
-Marie,jaren 1960,5781,enkelvoudig object,publiek,ok,ok,ok,ok,ok,5781,onbekend,ok,,,,papieren fiche ontbreekt
+Marie,jaren 1960,5781,enkelvoudig object,publiek,ok,ok,ok,ok,ok,5781,onbekend,ok,,ok 2023-02-27,ok 2023-02-27,papieren fiche ontbreekt
 Marie,jaren 1970,5789_0-2,ensemble,publiek,ok,ok,ok,ok,ok,5789_0-2$1,"Lauwaert, Yvette",ok,Yvette Lauwaert,ok 26-10-2022,ok 26-10-2022,papieren fiche ontbreekt
 Marie,jaren 1970,5789_1-2,enkelvoudig object,niet-publiek,ok,ok,ok,ok,ok,5789_1-2$3,"Lauwaert, Yvette",ok,Yvette Lauwaert,ok 26-10-2022,nvt,papieren fiche ontbreekt
 Marie,jaren 1970,5789_2-2,enkelvoudig object,niet-publiek,ok,ok,ok,ok,ok,5789_2-2$3,"Lauwaert, Yvette",ok,Yvette Lauwaert,ok 26-10-2022,nvt,papieren fiche ontbreekt
-Marie,jaren 1960,5792,enkelvoudig object,publiek,ok,,ok,ok,ok,5792$1,onbekend,ok,,,,papieren fiche ontbreekt
-Marie,jaren 1970,5794,enkelvoudig object,publiek,ok,,ok,ok,ok,5794$1,"Kievari, Maila*E. Helenius",ok,Maila Kievari,,,papieren fiche ontbreekt
-Marie,jaren 1960,5795,enkelvoudig object,publiek,ok,,ok,ok,ok,5795$1,onbekend,ok,,,,papieren fiche ontbreekt
-Marie,jaren 1970,5796,enkelvoudig object,publiek,ok,,ok,ok,ok,5796$1,"Kievari, Maila*E. Helenius",ok,Maila Kievari,,,papieren fiche ontbreekt
-Marie,jaren 1960,5797,enkelvoudig object,publiek,ok,,ok,ok,ok,5797$1,onbekend,ok,,,,papieren fiche ontbreekt
-Marie,jaren 1960,5798,enkelvoudig object,publiek,ok,,ok,ok,ok,5798$1,onbekend,ok,,,,papieren fiche ontbreekt
-Marie,jaren 1960,5799,enkelvoudig object,publiek,ok,,ok,ok,ok,5799,"Bernstiel, Heidi*Stuttgarter Gardinenfabrik",ok,Heidi Bernstiel,,,papieren fiche ontbreekt
-Marie,jaren 1960,5801,enkelvoudig object,publiek,ok,,ok,ok,ok,5801$1,onbekend,ok,,,,papieren fiche ontbreekt
+Marie,jaren 1960,5792,enkelvoudig object,publiek,ok,,ok,ok,ok,5792$1,onbekend,ok,,ok 2023-02-27,ok 2023-02-27,papieren fiche ontbreekt
+Marie,jaren 1970,5794,enkelvoudig object,publiek,ok,,ok,ok,ok,5794$1,"Kievari, Maila*E. Helenius",ok,Maila Kievari,ok 2023-02-27,ok 2023-02-27,papieren fiche ontbreekt
+Marie,jaren 1960,5795,enkelvoudig object,publiek,ok,,ok,ok,ok,5795$1,onbekend,ok,,ok 2023-02-27,ok 2023-02-27,papieren fiche ontbreekt
+Marie,jaren 1970,5796,enkelvoudig object,publiek,ok,,ok,ok,ok,5796$1,"Kievari, Maila*E. Helenius",ok,Maila Kievari,ok 2023-02-27,ok 2023-02-27,papieren fiche ontbreekt
+Marie,jaren 1960,5797,enkelvoudig object,publiek,ok,,ok,ok,ok,5797$1,onbekend,ok,,ok 2023-02-27,ok 2023-02-27,papieren fiche ontbreekt
+Marie,jaren 1960,5798,enkelvoudig object,publiek,ok,,ok,ok,ok,5798$1,onbekend,ok,,ok 2023-02-27,ok 2023-02-27,papieren fiche ontbreekt
+Marie,jaren 1960,5799,enkelvoudig object,publiek,ok,,ok,ok,ok,5799,"Bernstiel, Heidi*Stuttgarter Gardinenfabrik",ok,Heidi Bernstiel,ok 2023-02-27,ok 2023-02-27,papieren fiche ontbreekt
+Marie,jaren 1960,5801,enkelvoudig object,publiek,ok,,ok,ok,ok,5801$1,onbekend,ok,,ok 2023-02-27,ok 2023-02-27,papieren fiche ontbreekt
 Marie,jaren 1960,5802,enkelvoudig object,publiek,ok,,foto goed genoeg?,x,ok,5802$1,Strömma,ok,Strömma,,,papieren fiche ontbreekt
-Marie,jaren 1960,5803_0-2,set,publiek,ok,,ok,ok,ok,5803_0-2,Strömma,ok,Strömma,,,papieren fiche ontbreekt
-Marie,jaren 1960,5803_1-2,enkelvoudig object,niet-publiek,ok,,ok,ok,ok,5803_1-2,Strömma,ok,Strömma,,,papieren fiche ontbreekt
-Marie,jaren 1960,5803_2-2,enkelvoudig object,niet-publiek,ok,,ok,ok,ok,5803_2-2,Strömma,ok,Strömma,,,papieren fiche ontbreekt
-Marie,jaren 1960,5804,enkelvoudig object,publiek,ok,,ok,ok,ok,5804,Jab-Stoffe,ok,Jab-Stoffe,,,papieren fiche ontbreekt
-Marie,jaren 1960,5805,enkelvoudig object,publiek,ok,,ok,ok,ok,5805$1,"Olsen, Carola*Olsen, Daniel*Heal's Fabrics",ok,Carola Olsen; Daniel Olsen; Heal's Fabrics,,,papieren fiche ontbreekt
-Marie,jaren 1960,5808,enkelvoudig object,publiek,ok,,ok,ok,ok,5808$1,"Bernstiel, Heidi*Stuttgarter Gardinenfabrik",ok,Heidi Bernstiel,,,papieren fiche ontbreekt
+Marie,jaren 1960,5803_0-2,set,publiek,ok,,ok,ok,ok,5803_0-2,Strömma,ok,Strömma,ok 2023-02-27,ok 2023-02-27,papieren fiche ontbreekt
+Marie,jaren 1960,5803_1-2,enkelvoudig object,niet-publiek,ok,,ok,ok,ok,5803_1-2,Strömma,ok,Strömma,ok 2023-02-27,nvt,papieren fiche ontbreekt
+Marie,jaren 1960,5803_2-2,enkelvoudig object,niet-publiek,ok,,ok,ok,ok,5803_2-2,Strömma,ok,Strömma,ok 2023-02-27,nvt,papieren fiche ontbreekt
+Marie,jaren 1960,5804,enkelvoudig object,publiek,ok,,ok,ok,ok,5804,Jab-Stoffe,ok,Jab-Stoffe,ok 2023-02-27,ok 2023-02-27,papieren fiche ontbreekt
+Marie,jaren 1960,5805,enkelvoudig object,publiek,ok,,ok,ok,ok,5805$1,"Olsen, Carola*Olsen, Daniel*Heal's Fabrics",ok,Carola Olsen; Daniel Olsen; Heal's Fabrics,ok 2023-02-27,ok 2023-02-27,papieren fiche ontbreekt
+Marie,jaren 1960,5808,enkelvoudig object,publiek,ok,,ok,ok,ok,5808$1,"Bernstiel, Heidi*Stuttgarter Gardinenfabrik",ok,Heidi Bernstiel,ok 2023-02-27,ok 2023-02-27,papieren fiche ontbreekt
 Marie,jaren 1970,5817,enkelvoudig object,publiek,ok,,ok,ok,ok,5817$1,"Albert Van Havere*Hilgert, Marcel",,,,,papieren fiche ontbreekt
-Marie,jaren 1970,5818,enkelvoudig object,publiek,ok,ok,ok,ok,ok,5818$1,"Metsovaara, Marjatta*Albert Van Havere*Hilgert, Marcel",ok,Marjatta Metsovaara,,,papieren fiche ontbreekt
-Marie,jaren 1970,5819,enkelvoudig object,publiek,ok,ok,ok,ok,ok,5819$1,"Metsovaara, Marjatta*Albert Van Havere*Hilgert, Marcel",ok,Marjatta Metsovaara,,,papieren fiche ontbreekt
-Marie,jaren 1970,5820,enkelvoudig object,publiek,ok,,ok,ok,ok,5820,onbekend,ok,,,,papieren fiche ontbreekt
+Marie,jaren 1970,5818,enkelvoudig object,publiek,ok,ok,ok,ok,ok,5818$1,"Metsovaara, Marjatta*Albert Van Havere*Hilgert, Marcel",ok,Marjatta Metsovaara,ok 2023-02-27,ok 2023-02-27,papieren fiche ontbreekt
+Marie,jaren 1970,5819,enkelvoudig object,publiek,ok,ok,ok,ok,ok,5819$1,"Metsovaara, Marjatta*Albert Van Havere*Hilgert, Marcel",ok,Marjatta Metsovaara,ok 2023-02-27,ok 2023-02-27,papieren fiche ontbreekt
+Marie,jaren 1970,5820,enkelvoudig object,publiek,ok,,ok,ok,ok,5820,onbekend,ok,,ok 2023-02-27,ok 2023-02-27,papieren fiche ontbreekt
 Marie,jaren 1970,5824,enkelvoudig object,publiek,ok,,ok,ok,ok,5824$1,Les tissus d'aujourd'hui,ok,Les tissus d'aujourd'hui,ok 2022-05-16,ok 2022-05-16,papieren fiche ontbreekt
-Marie,jaren 1970,5825,enkelvoudig object,publiek,ok,,ok,ok,ok,5825$1,Jab-Stoffe,ok,Jab-Stoffe,,,papieren fiche ontbreekt
+Marie,jaren 1970,5825,enkelvoudig object,publiek,ok,,ok,ok,ok,5825$1,Jab-Stoffe,ok,Jab-Stoffe,ok 2023-02-27,ok 2023-02-27,papieren fiche ontbreekt
 Marie,jaren 1970,5826,enkelvoudig object,publiek,opschrift,,ok,ok,ok,5826$1,SA H CO,ok,SA H CO,,,papieren fiche ontbreekt
 Marie,jaren 1960,5827,enkelvoudig object,publiek,ok,ok,ok,ok,ok,5827$1,"Fieldsend, Jeanine*Fieldsend, Michael*Heal's Fabrics",ok,Michael Fieldsend; Jeanine Fieldsend; Heal's Fabrics,ok 2022-05-16,ok 2022-05-16,papieren fiche ontbreekt
-Marie,jaren 1970,5830,enkelvoudig object,publiek,ok,ok,ok,ok,ok,5830$1,"Bartle, David*Heal's Fabrics",ok,David Bartle; Heal's Fabrics,,,papieren fiche ontbreekt
+Marie,jaren 1970,5830,enkelvoudig object,publiek,ok,ok,ok,ok,ok,5830$1,"Bartle, David*Heal's Fabrics",ok,David Bartle; Heal's Fabrics,ok 2023-02-27,ok 2023-02-27,papieren fiche ontbreekt
 Marie,jaren 1960,5831,enkelvoudig object,publiek,ok,,ok,ok,ok,5831$1,"Malmström-Bladini, Annika*Strömma",ok,Annika Malmström-Bladini,ok 2022-05-16,ok 2022-05-16,papieren fiche ontbreekt
 Marie,jaren 1970,5832,enkelvoudig object,publiek,ok,,ok,ok,ok,5832$1,"Brenner, Barbara*Intair",ok,Barbara Brenner,ok 03-01,ok 03-01,papieren fiche ontbreekt
-Marie,jaren 1970,5835,enkelvoudig object,publiek,ok,ok,ok,ok,ok,5835$1,"Sullivan, Grace*Heal's Fabrics",ok,Grace Sullivan; Heal's Fabrics,,,papieren fiche ontbreekt
+Marie,jaren 1970,5835,enkelvoudig object,publiek,ok,ok,ok,ok,ok,5835$1,"Sullivan, Grace*Heal's Fabrics",ok,Grace Sullivan; Heal's Fabrics,ok 2023-02-27,ok 2023-02-27,papieren fiche ontbreekt
 Marie,jaren 1970,5836,enkelvoudig object,publiek,ok,ok,ok,ok,ok,5836,"Campbell, Sarah*Collier, Susan*Liberty & Co.",aangevraagd,Sarah Campbell: Susan Collier,,,papieren fiche ontbreekt
-Marie,jaren 1960,5839,enkelvoudig object,publiek,ok,,ok,ok,ok,5839,onbekend,ok,,,,papieren fiche ontbreekt
-Marie,jaren 1960,5840,enkelvoudig object,publiek,ok,,ok,ok,ok,5840,onbekend,ok,,,,papieren fiche ontbreekt
-Marie,jaren 1970,5845,enkelvoudig object,publiek,ok,,ok,ok,ok,5845,"Bernstiel, Heidi*Stuttgarter Gardinenfabrik",ok,Heidi Bernstiel,,,papieren fiche ontbreekt
-Marie,jaren 1960,5846,enkelvoudig object,publiek,ok,,ok,ok,ok,5846,onbekend,ok,,,,papieren fiche ontbreekt
-Marie,jaren 1960,6000,enkelvoudig object,publiek,ok,,ok,ok,ok,6000$1,onbekend,ok,,,,papieren fiche ontbreekt
-Marie,jaren 1970,6001,enkelvoudig object,publiek,ok,,ok,ok,ok,6001$1,Ljungbergs Factory,ok,Ljungbergs Factory,,,papieren fiche ontbreekt
-Marie,jaren 1970,6002,enkelvoudig object,publiek,ok,,ok,ok,ok,6002$1,"Latvateikari-Valkama, Pirkko*E. Helenius",ok,Pirkko Latvateikari-Valkama,,,papieren fiche ontbreekt
-Marie,jaren 1970,6003,enkelvoudig object,publiek,ok,,ok,ok,ok,6003$1,Lianto*Jab-Stoffe,ok,Lianto; Jab-Stoffe,,,papieren fiche ontbreekt
-Marie,jaren 1970,6004,enkelvoudig object,publiek,ok,,ok,ok,ok,6004$1,Lianto*Jab-Stoffe,ok,Lianto; Jab-Stoffe,,,papieren fiche ontbreekt
-Marie,jaren 1970,6005,enkelvoudig object,publiek,ok,,ok,ok,ok,6005$1,onbekend,ok,,,,papieren fiche ontbreekt
-Marie,jaren 1970,6006,enkelvoudig object,publiek,ok,,ok,ok,ok,6006,onbekend,ok,,,,papieren fiche ontbreekt
-Marie,jaren 1970,6007,enkelvoudig object,publiek,ok,ok,ok,ok,ok,6007,"Sandy, Jane*Heal's Fabrics",ok,Jane Sandy; Heal's Fabrics,,,papieren fiche ontbreekt
+Marie,jaren 1960,5839,enkelvoudig object,publiek,ok,,ok,ok,ok,5839,onbekend,ok,,ok 2023-02-27,ok 2023-02-27,papieren fiche ontbreekt
+Marie,jaren 1960,5840,enkelvoudig object,publiek,ok,,ok,ok,ok,5840,onbekend,ok,,ok 2023-02-27,ok 2023-02-27,papieren fiche ontbreekt
+Marie,jaren 1970,5845,enkelvoudig object,publiek,ok,,ok,ok,ok,5845,"Bernstiel, Heidi*Stuttgarter Gardinenfabrik",ok,Heidi Bernstiel,ok 2023-02-27,ok 2023-02-27,papieren fiche ontbreekt
+Marie,jaren 1960,5846,enkelvoudig object,publiek,ok,,ok,ok,ok,5846,onbekend,ok,,ok 2023-02-27,ok 2023-02-27,papieren fiche ontbreekt
+Marie,jaren 1960,6000,enkelvoudig object,publiek,ok,,ok,ok,ok,6000$1,onbekend,ok,,ok 2023-02-27,ok 2023-02-27,papieren fiche ontbreekt
+Marie,jaren 1970,6001,enkelvoudig object,publiek,ok,,ok,ok,ok,6001$1,Ljungbergs Factory,ok,Ljungbergs Factory,ok 2023-02-27,ok 2023-02-27,papieren fiche ontbreekt
+Marie,jaren 1970,6002,enkelvoudig object,publiek,ok,,ok,ok,ok,6002$1,"Latvateikari-Valkama, Pirkko*E. Helenius",ok,Pirkko Latvateikari-Valkama,ok 2023-02-27,ok 2023-02-27,papieren fiche ontbreekt
+Marie,jaren 1970,6003,enkelvoudig object,publiek,ok,,ok,ok,ok,6003$1,Lianto*Jab-Stoffe,ok,Lianto; Jab-Stoffe,ok 2023-02-27,ok 2023-02-27,papieren fiche ontbreekt
+Marie,jaren 1970,6004,enkelvoudig object,publiek,ok,,ok,ok,ok,6004$1,Lianto*Jab-Stoffe,ok,Lianto; Jab-Stoffe,ok 2023-02-27,ok 2023-02-27,papieren fiche ontbreekt
+Marie,jaren 1970,6005,enkelvoudig object,publiek,ok,,ok,ok,ok,6005$1,onbekend,ok,,ok 2023-02-27,ok 2023-02-27,papieren fiche ontbreekt
+Marie,jaren 1970,6006,enkelvoudig object,publiek,ok,,ok,ok,ok,6006,onbekend,ok,,ok 2023-02-27,ok 2023-02-27,papieren fiche ontbreekt
+Marie,jaren 1970,6007,enkelvoudig object,publiek,ok,ok,ok,ok,ok,6007,"Sandy, Jane*Heal's Fabrics",ok,Jane Sandy; Heal's Fabrics,ok 2023-02-27,ok 2023-02-27,papieren fiche ontbreekt
 Marie,jaren 1960,6008,enkelvoudig object,publiek,vervaardiger,,ok,ok,ok,6008,,,,,,papieren fiche ontbreekt
 Marie,jaren 1960,6120,enkelvoudig object,publiek,ok,,opkuisen,x,klein formaat,6120,onbekend,ok,,,,papieren fiche ontbreekt
 Marie,jaren 1970,6459,enkelvoudig object,publiek,ok,,ok,x,klein formaat,6459,Gandaflex,ok,Winsol,,,papieren fiche ontbreekt
@@ -4201,10 +4201,10 @@ Marie,"van de Velde, Henry",2009-0027_1-2,enkelvoudig object,niet-publiek,"verwe
 Marie,"van de Velde, Henry",2009-0027_2-2,enkelvoudig object,niet-publiek,ok,,foto koppelen aan adlib,ok,ok,2009-0027_2-2$1,"van de Velde, Henry*Koch & Bergfeld",,,,,
 Marie,"van de Velde, Henry",2010-0032,enkelvoudig object,publiek,ok,,ok,ok,ok,2010-0032,"Reinhold, Hugo*Reinhold & Co",ok,,ok 2023-02-16,ok 2023-02-16,
 Marie,"van de Velde, Henry",2021-0056,enkelvoudig object,publiek,beschrijving,,foto maken,x,,,"van de Velde, Henry",,,,,
-Marie,"van de Velde, Henry",2945_0-3,set,publiek ,pf; verwerving-datum,,foto maken,x,,,"van de Velde, Henry*Tissage de velours",,,,,
-Marie,"van de Velde, Henry",2945_1-3,enkelvoudig object,niet-publiek,pf; verwerving-datum,,foto maken,x,,,"van de Velde, Henry*Tissage de velours",,,,,
-Marie,"van de Velde, Henry",2945_2-3,enkelvoudig object,niet-publiek,pf; verwerving-datum,,foto maken,x,,,"van de Velde, Henry*Tissage de velours",,,,,
-Marie,"van de Velde, Henry",2945_3-3,enkelvoudig object,niet-publiek,pf; verwerving-datum,,foto maken,x,,,"van de Velde, Henry*Tissage de velours",,,,,
+Marie,"van de Velde, Henry",2945_0-3,set,publiek ,pf; verwerving-datum,,foto maken > ok,ok,,2945_0-3$1,"van de Velde, Henry*Tissage de velours",,,,,
+Marie,"van de Velde, Henry",2945_1-3,enkelvoudig object,niet-publiek,pf; verwerving-datum,,foto maken > ok,ok,,2945_1-3$1,"van de Velde, Henry*Tissage de velours",,,,,
+Marie,"van de Velde, Henry",2945_2-3,enkelvoudig object,niet-publiek,pf; verwerving-datum,,foto maken > ok,ok,,2945_2-3$1,"van de Velde, Henry*Tissage de velours",,,,,
+Marie,"van de Velde, Henry",2945_3-3,enkelvoudig object,niet-publiek,pf; verwerving-datum,,foto maken > ok,ok,,2945_3-3$1,"van de Velde, Henry*Tissage de velours",,,,,
 Marie,"van de Velde, Henry",FH-0080,enkelvoudig object,publiek,ok,,ok,ok,ok,FH-0080$1,"van de Velde, Henry*Müller, Theodor",,,,,
 Marie,"van de Velde, Henry",FH-0081,enkelvoudig object,publiek,ok,,ok,ok,ok,FH-0081$1,"van de Velde, Henry*Koch & Bergfeld",,,,,
 Marie,"van de Velde, Henry",5740,enkelvoudig object,publiek,pf; verwerving-datum,,te klein,x,ok,5740,"van de Velde, Henry*onbekend",,,,,
@@ -4263,33 +4263,33 @@ Marie,art nouveau,FH-0052_0-2,set,publiek,beschrijving,,ok,ok,ok,FH-0052_0-2,"Da
 Marie,art nouveau,FH-0052_1-2,enkelvoudig object ,niet-publiek,beschrijving,,ok,ok,ok,FH-0052_1-2,"Daum Frères*Lefebvre, Eugene",ok,,,,
 Marie,art nouveau,FH-0052_2-2,enkelvoudig object ,niet-publiek,beschrijving,,ok,ok,ok,FH-0052_2-2,"Daum Frères*Lefebvre, Eugene",ok,,,,
 Marie,,2022-0085,,,,,groepsfoto maken,x,,,,,,,,
-Marie,art nouveau,1401,enkelvoudig object,publiek,ok,,ok,ok,ok,1401$4,Kato Kaisuke Masaharu*Shinano,ok,,,,
-Marie,art nouveau,1403,enkelvoudig object,publiek,ok,,ok,ok,ok,1403$1,L. Hjorth,ok,,,,
+Marie,art nouveau,1401,enkelvoudig object,publiek,ok,,ok,ok,ok,1401$4,Kato Kaisuke Masaharu*Shinano,ok,,ok 2023-02-27,ok 2023-02-27,
+Marie,art nouveau,1403,enkelvoudig object,publiek,ok,,ok,ok,ok,1403$1,L. Hjorth,ok,,ok 2023-02-27,ok 2023-02-27,
 Marie,art nouveau,1414,enkelvoudig object,publiek,"beschrijving (Scribe, catalogus 1923 bekijken)",,ok,ok,ok,1414,onbekend*onbekend,,,,,
-Marie,art nouveau,1417,enkelvoudig object,publiek,ok,,beeld aan te passen,x,ok,1417,"Rumèbe, Fernand*Rumèbe, Fernand",ok,,,,
+Marie,art nouveau,1417,enkelvoudig object,publiek,ok,,beeld aan te passen > ok,ok,ok,1417$1,"Rumèbe, Fernand*Rumèbe, Fernand",ok,,,,
 Marie,art nouveau,1425,enkelvoudig object,publiek,"datering, beschrijving (Gallé)",,ok,ok,ok,1425,"Gallé, Emile*Gallé, Emile",ok,,,,
-Marie,art nouveau,0657,enkelvoudig object,publiek,ok (zonder beschrijving),,ok,ok,ok,0657,onbekend*onbekend,ok,,,,
+Marie,art nouveau,0657,enkelvoudig object,publiek,ok (zonder beschrijving),,ok,ok,ok,0657,onbekend*onbekend,ok,,ok 2023-02-27,ok 2023-02-27,
 Marie,art nouveau,0537,enkelvoudig object,publiek,"beschrijving, datering, vervaardiger",,ok,ok,ok,0537,onbekend,,,,,
 Marie,art nouveau,1432,enkelvoudig object,publiek,beschrijving (Art et Décoration 1907),,ok,ok,ok,1432,"Liisberg, Carl Frederik*Royal Copenhagen",ok,,,,
 Marie,art nouveau,1455,enkelvoudig object,niet-publiek,ok ,,,x,,,Maes (Sint-Amandsberg),ok,,,,
 Marie,art nouveau,1457,enkelvoudig object,publiek,"beschrijving, datering, merk aanwezig?",,ok,ok,ok,1457,onbekend*onbekend,,,,,
-Marie,art nouveau,1478,enkelvoudig object,publiek,ok ,,ok,ok,ok,1478$1,"Delaherche, Auguste*Delaherche, Auguste",ok,,,,
+Marie,art nouveau,1478,enkelvoudig object,publiek,ok ,,ok,ok,ok,1478$1,"Delaherche, Auguste*Delaherche, Auguste",ok,,ok 2023-02-27,ok 2023-02-27,
 Marie,art nouveau,1520,enkelvoudig object,publiek,oud nummer (opzoeken in papieren fiche),,ok,ok,ok,1520$1,"Delaherche, Auguste*Delaherche, Auguste",ok,,,,
-Marie,art nouveau,1574,enkelvoudig object,publiek,ok ,,ok ,ok,ok,1574,"Sandier, Alexandre*Manufacture nationale de Sèvres",ok,,,,
-Marie,art nouveau,1979-0014,enkelvoudig object,publiek,beschrijving (literatuur),,te klein,x,klein formaat?,1979-0014,"Dalpayrat, Pierre Adrien*Dalpayrat, Pierre Adrien",ok,,,,
+Marie,art nouveau,1574,enkelvoudig object,publiek,ok ,,ok ,ok,ok,1574,"Sandier, Alexandre*Manufacture nationale de Sèvres",ok,,ok 2023-02-27,ok 2023-02-27,
+Marie,art nouveau,1979-0014,enkelvoudig object,publiek,beschrijving (literatuur),,te klein: nieuwe foto ok,ok,klein formaat?,1979-0014$1,"Dalpayrat, Pierre Adrien*Dalpayrat, Pierre Adrien",ok,,,,
 Marie,art nouveau,1979-0015,enkelvoudig object,publiek,beschrijving (literatuur),,ok ,ok,ok ,1979-0015$1,"Dalpayrat, Pierre Adrien*Dalpayrat, Pierre Adrien",ok,,,,
 Marie,art nouveau,2003-0101,enkelvoudig object,publiek,ok,,ok ,ok,ok ,2003-0101$1;2003-0101$2,"Colonna, Edouard*Colonna, Edouard*Dalpayrat, Pierre Adrien",ok,,ok,ok,al online want partage plus
 Marie,art nouveau,1997-0091,enkelvoudig object,publiek,beschrijving (literatuur),,ok ,ok,ok ,1997-0091$5,"Guérin, Roger*Guérin, Roger",,,,,
 Marie,art nouveau,1984-0016,enkelvoudig object,publiek,ok ,,ok ,ok,ok ,1984-0016$1,"Schleiss-Simandl, Emilie*Schleiss",,,,,
 Marie,art nouveau,1984-0018,enkelvoudig object,publiek,"datering, beschrijving (literatuur)",,ok ,ok,ok ,1984-0018$1,Zsolnay Porseleinmanufactuur,,,,,
-Marie,art nouveau,1987-1173,enkelvoudig object,publiek,ok ,,ok ,ok,ok ,1987-1173$1,"Rozenburg*van Rossum, Jacob Willem",ok,,,,
-Marie,art nouveau,1597,enkelvoudig object,publiek,ok ,,ok ,ok,ok ,1597,"Ingels, Domien*Ingels, Domien*Verbanck,  Geo",ok,,,,
+Marie,art nouveau,1987-1173,enkelvoudig object,publiek,ok ,,ok ,ok,ok ,1987-1173$1,"Rozenburg*van Rossum, Jacob Willem",ok,,ok 2023-02-27,ok 2023-02-27,
+Marie,art nouveau,1597,enkelvoudig object,publiek,ok ,,ok ,ok,ok ,1597,"Ingels, Domien*Ingels, Domien*Verbanck,  Geo",ok,,ok 2023-02-27,ok 2023-02-27,
 Marie,art nouveau,1987-1225,,publiek,beschrijving; merk aanwezig?,,ok ,ok,ok ,1987-1225,,,,,,
 Marie,art nouveau,1987-1274_0-2,set,publiek,beschrijving (literatuur),,ok ,ok,ok ,1987-1274_0-2,"Rozenburg*Schellinck, Samuel",,,,,
 Marie,art nouveau,1987-1274_1-2,enkelvoudig object,publiek,beschrijving (literatuur),,ok ,ok,ok ,1987-1274_1-2,"Rozenburg*Schellinck, Samuel",,,,,
 Marie,art nouveau,1987-1274_2-2,enkelvoudig object,publiek,beschrijving (literatuur),,foto draaien,ok,ok ,1987-1274_2-2,"Rozenburg*Schellinck, Samuel",,,,,
 Marie,art nouveau,1987-1276,enkelvoudig object,publiek,beschrijving (literatuur),,foto ok? (object lijkt vuil) > ok,ok,ok ,1987-1276$2,Plateelbakkerij Zuid-Holland,,,,,
-Marie,art nouveau,1987-1282,enkelvoudig object,publiek,ok,,ok ,ok,ok ,1987-1282,"Lanooy, Christiaan Johannes*Lanooy, Christiaan Johannes*Plateelbakkerij Zuid-Holland",ok,,,,
+Marie,art nouveau,1987-1282,enkelvoudig object,publiek,ok,,ok ,ok,ok ,1987-1282,"Lanooy, Christiaan Johannes*Lanooy, Christiaan Johannes*Plateelbakkerij Zuid-Holland",ok,,ok 2023-02-27,ok 2023-02-27,
 Marie,art nouveau,1987-1292_0-2,,publiek,beschrijving (literatuur),,ok ,ok,ok ,1987-1292_0-2,Plateelbakkerij Zuid-Holland,,,,,
 Marie,art nouveau,1987-1292_1-2,,niet-publiek,beschrijving (literatuur),,ok ,ok,ok ,1987-1292_1-2$2,Plateelbakkerij Zuid-Holland,,,,,
 Marie,art nouveau,1987-1292_2-2,,niet-publiek,beschrijving (literatuur),,ok ,ok,ok ,1987-1292_2-2$2,Plateelbakkerij Zuid-Holland,,,,,
@@ -4297,13 +4297,13 @@ Marie,art nouveau,1987-1313_0-2,,publiek,beschrijving (literatuur),,ok ,ok,ok ,1
 Marie,art nouveau,1987-1313_1-2,,niet-publiek,beschrijving (literatuur),,ok ,ok,ok ,1987-1313_1-2$1,Plateelbakkerij Zuid-Holland,,,,,
 Marie,art nouveau,1987-1313_2-2,,niet-publiek,beschrijving (literatuur),,ok ,ok,ok ,1987-1313_2-2$1,Plateelbakkerij Zuid-Holland,,,,,
 Marie,art nouveau,1987-1329,,publiek,beschrijving (literatuur),,ok ,ok,ok ,1987-1329$1,Plateelbakkerij Zuid-Holland,,,,,
-Marie,art nouveau,1987-1371,,publiek,ok,,ok ,ok,,1987-1371$1,"Laeuger, Max*Tonwerke Kandern",ok,,,,
+Marie,art nouveau,1987-1371,,publiek,ok,,ok ,ok,,1987-1371$1,"Laeuger, Max*Tonwerke Kandern",ok,,ok 2023-02-27,ok 2023-02-27,
 Marie,art nouveau,1987-1379,enkelvoudig object,publiek,beschrijving (literatuur),,ok ,ok,ok ,1987-1379$1,Rozenburg,ok,,,,
 Marie,art nouveau,1987-1392,,publiek,"beschrijving, vervaardiger (zie merk)",,ok ,ok,,1987-1392$1,,,,,,
-Marie,art nouveau,1987-1393,,publiek,ok,,ok ,ok,,1987-1393$1,"Mehlem, Franz Anton*Liberty & Co.",ok,,,,
+Marie,art nouveau,1987-1393,,publiek,ok,,ok ,ok,,1987-1393$1,"Mehlem, Franz Anton*Liberty & Co.",ok,,ok 2023-02-27,ok 2023-02-27,
 Marie,art nouveau,1987-1400,enkelvoudig object,publiek,"beschrijving, merken (interpretatie)",,ok ,ok,,1987-1400$4,Rozenburg,ok,,,,
 Marie,art nouveau,1987-1402,,publiek,beschrijving (object fysiek bekijken),,ok ,ok,,1987-1402$1,Swaine & Co.,ok,,,,
-Marie,art nouveau,1987-1417,,publiek,ok,,ok ,ok,,1987-1417$1,"Senf, Leon*De Porceleyne Fles",ok,,,,
+Marie,art nouveau,1987-1417,,publiek,ok,,ok ,ok,,1987-1417$1,"Senf, Leon*De Porceleyne Fles",ok,,ok 2023-02-27,ok 2023-02-27,
 Marie,art nouveau,1987-1434,,,,,ok ,ok,,1987-1434$2,Plateelbakkerij Zuid-Holland,,,,,
 Marie,art nouveau,1987-1441_00-15,set,publiek,beschrijving,,ok ,ok,ok ,1987-1441_00-15$1,Rosenthal,ok,,,,
 Marie,art nouveau,1987-1441_01-15,enkelvoudig object,niet-publiek,beschrijving,,"ok , maar net iets te klein",ok,ok ,1987-1441_01-15$1,Rosenthal,ok,,,,
@@ -4340,7 +4340,7 @@ Marie,art nouveau,1987-1477,enkelvoudig object,publiek,ok ,,ok ,ok,ok ,1987-1477
 Marie,art nouveau,1993-0008_0-2,enkelvoudig object,publiek,vervaardiger (Laigneil ook ontwerper?); beschrijving (literatuur),,ok ,ok,ok ,1993-0008_0-2$1,"Laigneil, Pieter-Jozef*Kortrijksche Kunstpotterij",ok,,,,
 Marie,art nouveau,1993-0008_1-2,deel,niet-publiek,vervaardiger (Laigneil ook ontwerper?); beschrijving (literatuur),,ok ,ok,ok ,1993-0008_1-2$1,"Laigneil, Pieter-Jozef*Kortrijksche Kunstpotterij",ok,,,,
 Marie,art nouveau,1993-0008_2-2,deel,niet-publiek,vervaardiger (Laigneil ook ontwerper?); beschrijving (literatuur),,ok ,ok,ok ,1993-0008_2-2$1,"Laigneil, Pieter-Jozef*Kortrijksche Kunstpotterij",ok,,,,
-Marie,art nouveau,1998-0026,enkelvoudig object,publiek,ok ,,ok ,ok,ok ,1998-0026,"Wallander, Alf*Rörstrand",ok,,,,
+Marie,art nouveau,1998-0026,enkelvoudig object,publiek,ok ,,ok ,ok,ok ,1998-0026,"Wallander, Alf*Rörstrand",ok,,ok 2023-02-27,ok 2023-02-27,
 Marie,art nouveau,3556,enkelvoudig object,publiek,"beschrijving (welk soort bloem), merk aanwezig?",,tegel ondersteboven > ok,ok,ok ,3556,Produits Céramiques de la Dyle,,,,,
 Marie,art nouveau,3557,enkelvoudig object,publiek,beschrijving (villeroy en boch,,ok ,ok,ok ,3557,Villeroy & Boch,,,,,
 Marie,art nouveau,3559_0-3,set,publiek,"beschrijving, vervaardiger, merk aanwezig?",,ok ,ok,ok ,3559_0-3,Villeroy & Boch,,,,,
@@ -4356,14 +4356,14 @@ Marie,art nouveau,FH-0060,enkelvoudig object,publiek,beschrijving (Craco),,ok ,o
 Marie,art nouveau,FH-0071,enkelvoudig object,publiek,beschrijving; vervaardiger,,ok ,ok,ok ,FH-0071$1,"Engelhardt, Valdemar*Royal Copenhagen",ok,,,,
 Marie,art nouveau,FH-0085,enkelvoudig object,publiek,beschrijving (dierenfiguren),,ok ,ok,ok ,FH-0085$1,"Lindström, Waldemar*Rörstrand",ok,,,,
 Marie,art nouveau,FH-0086,enkelvoudig object,publiek,beschrijving (dierenfiguren),,ok ,ok,ok ,FH-0086,"Lindström, Waldemar*Rörstrand",ok,,,,
-Marie,art nouveau,1492,enkelvoudig object,publiek,ok,,ok,ok,ok,1492,onbekend*onbekend,ok,,,,
-Marie,art nouveau,1473,enkelvoudig object,publiek,ok,,ok,ok,ok,1473$4,"Kähler, Hermann August*Kähler, Hermann August",ok,,,,
-Marie,art nouveau,1477,enkelvoudig object,publiek,ok,,ok,ok,ok,1477$5,"Kähler, Hermann August*Kähler, Hermann August",ok,,,,
+Marie,art nouveau,1492,enkelvoudig object,publiek,ok,,ok,ok,ok,1492,onbekend*onbekend,ok,,ok 2023-02-27,ok 2023-02-27,
+Marie,art nouveau,1473,enkelvoudig object,publiek,ok,,ok,ok,ok,1473$4,"Kähler, Hermann August*Kähler, Hermann August",ok,,ok 2023-02-27,ok 2023-02-27,
+Marie,art nouveau,1477,enkelvoudig object,publiek,ok,,ok,ok,ok,1477$5,"Kähler, Hermann August*Kähler, Hermann August",ok,,ok 2023-02-27,ok 2023-02-27,
 Marie,art nouveau,1514,enkelvoudig object,publiek,beschrijving (Bing & Grondahl),,ok,ok,ok,1514$1,"Olsen, Cathinka*Bing & Grøndahl",ok,,,,
 Marie,art nouveau,1434,enkelvoudig object,publiek,beschrijving (Daum); merken fysiek bekijken,,ok,ok,ok,1434,"Daum Frères*Remy, Maria",ok,,,,
 Marie,art nouveau,1974-0002,enkelvoudig object,publiek,merken bekijken; vervaardiger,,ok,ok,ok,1974-0002,"Besançon, H.*Muller Frères",ok,,,,
-Marie,art nouveau,1577,enkelvoudig object,publiek,ok,,ok,ok,ok,1577$1,"Moore, Bernard*Moore, Bernard",ok,,,,
-Marie,art nouveau,1443,,publiek,ok,,ok,ok,,1443$1,"Lalique, René*Lalique, René",ok,,,,
+Marie,art nouveau,1577,enkelvoudig object,publiek,ok,,ok,ok,ok,1577$1,"Moore, Bernard*Moore, Bernard",ok,,ok 2023-02-27,ok 2023-02-27,
+Marie,art nouveau,1443,,publiek,ok,,ok,ok,,1443$1,"Lalique, René*Lalique, René",ok,,ok 2023-02-27,ok 2023-02-27,
 Marie,art nouveau,1497,,,,,ok,ok,,1497$1,Val-Saint-Lambert,,,,,
 Marie,art nouveau,1541,,publiek,beschrijving (materiaal),,ok,ok,,1541$1,onbekend,,,,,
 Marie,art nouveau,1976-0232,,,,,ok,ok,,1976-0232$1,,,,,,
@@ -4372,7 +4372,7 @@ Marie,art nouveau,1978-0032,,,,,nieuwe foto bovenaanzicht,x,,,Rey-Ainé,,,,,
 Marie,art nouveau,1978-0033,,,,,nieuwe foto bovenaanzicht,x,,,Rey-Ainé,,,,,
 Marie,art nouveau,1981-0043,,publiek,beschrijving,,"foto koppelen aan adlib; ok, maar nummering veranderd; vraag Sam",x,,,onbekend*onbekend,,,,,
 Marie,art nouveau,1987-0746,,publiek,beschrijving; merken bekijken,,ok,ok,,1987-0746$2,"Lefebvre, Eugene",ok,,,,
-Marie,art nouveau,1987-1125,,publiek,ok,,ok,ok,,1987-1125$1,"Voet, Elias*Voet, Elias",ok,,,,
+Marie,art nouveau,1987-1125,,publiek,ok,,ok,ok,,1987-1125$1,"Voet, Elias*Voet, Elias",ok,,ok 2023-02-27,ok 2023-02-27,
 Marie,art nouveau,1987-1133,,publiek,beschrijving (niëllo koper),,ok,ok,,1987-1133$1,"Huisenga, Meine*Daalderop",ok,,,,
 Marie,art nouveau,1987-1160,,publiek,ok,,ok,ok,,1987-1160,"Gradl, Hermann*Orivit-Metallwarenfabrik",,,,,
 Marie,art nouveau,1987-1198,,,,,ok,ok,,1987-1198$1,"Scheid, George Adam",ok,,,,
@@ -4389,13 +4389,13 @@ Marie,art nouveau,4530,,publiek,ok,,standplaats kazerne,x,,,"Hamesse, Paul",,,,,
 Marie,art nouveau,4531_0-2,,publiek,ok,,ok,ok,,4531_0-2,"Hamesse, Paul",,,,,
 Marie,art nouveau,4531_1-2,,niet-publiek,ok,,ok,ok,,4531_1-2,"Hamesse, Paul",,,,,
 Marie,art nouveau,4531_2-2,,niet-publiek,ok,,ok,ok,,4531_2-2,"Hamesse, Paul",,,,,
-Marie,art nouveau,FH-0066_0-6,,publiek,ok,,omzetten naar jpg en photoshop,x,,FH-0066_0-6$1,"Montald, Constant*onbekend",ok,,ok,ok,al online want partage plus
-Marie,art nouveau,FH-0066_1-6,,niet-publiek,ok,,photoshoppen?,x,,FH-0066_1-6,"Montald, Constant*onbekend",ok,,ok,nvt,
-Marie,art nouveau,FH-0066_2-6,,niet-publiek,ok,,photoshoppen?,x,,FH-0066_2-6,"Montald, Constant*onbekend",ok,,ok,nvt,
-Marie,art nouveau,FH-0066_3-6,,niet-publiek,ok,,photoshoppen?,x,,FH-0066_3-6,"Montald, Constant*onbekend",ok,,ok,nvt,
-Marie,art nouveau,FH-0066_4-6,,niet-publiek,ok,,photoshoppen?,x,,FH-0066_4-6,"Montald, Constant*onbekend",ok,,ok,nvt,
-Marie,art nouveau,FH-0066_5-6,,niet-publiek,ok,,photoshoppen?,x,,FH-0066_5-6,"Montald, Constant*onbekend",ok,,ok,nvt,
-Marie,art nouveau,FH-0066_6-6,,niet-publiek,ok,,photoshoppen?,x,,FH-0066_6-6,"Montald, Constant*onbekend",ok,,ok,nvt,
+Marie,art nouveau,FH-0066_0-6,,publiek,ok,,omzetten naar jpg en photoshop > ok,ok,,FH-0066_0-6$4,"Montald, Constant*onbekend",ok,,ok,ok,al online want partage plus
+Marie,art nouveau,FH-0066_1-6,,niet-publiek,ok,,photoshoppen> ok,ok,,FH-0066_1-6$1,"Montald, Constant*onbekend",ok,,ok,nvt,
+Marie,art nouveau,FH-0066_2-6,,niet-publiek,ok,,photoshoppen> ok,ok,,FH-0066_2-6$1,"Montald, Constant*onbekend",ok,,ok,nvt,
+Marie,art nouveau,FH-0066_3-6,,niet-publiek,ok,,photoshoppen> ok,ok,,FH-0066_3-6$1,"Montald, Constant*onbekend",ok,,ok,nvt,
+Marie,art nouveau,FH-0066_4-6,,niet-publiek,ok,,photoshoppen> ok,ok,,FH-0066_4-6$1,"Montald, Constant*onbekend",ok,,ok,nvt,
+Marie,art nouveau,FH-0066_5-6,,niet-publiek,ok,,photoshoppen> ok,ok,,FH-0066_5-6$1,"Montald, Constant*onbekend",ok,,ok,nvt,
+Marie,art nouveau,FH-0066_6-6,,niet-publiek,ok,,photoshoppen> ok,ok,,FH-0066_6-6$1,"Montald, Constant*onbekend",ok,,ok,nvt,
 Marie,art nouveau,FH-0096_0-3,,,zie mail annelies 13/1,,ok,ok,,FH-0096_0-3$1,"Wolfers, Philippe*Louis Wolfers Père et Fils",ok,,ok,ok,al online want partage plus
 Marie,art nouveau,FH-0096_1-3,,,,,ok,ok,,FH-0096_1-3,"Wolfers, Philippe*Louis Wolfers Père et Fils",ok,,ok,nvt,
 Marie,art nouveau,FH-0096_2-3,,,,,ok,ok,,FH-0096_2-3,"Wolfers, Philippe*Louis Wolfers Père et Fils",ok,,ok,nvt,
@@ -4417,9 +4417,9 @@ Marie,art nouveau,2796,,publiek,ok,,ok,ok,,2796$1,onbekend*onbekend,,,,,
 Marie,art nouveau,2005-0047,,,,,ok,ok,,2005-0047,Rindskopf,,,,,
 Marie,art nouveau,1994-0060,,,,,ok,ok,,1994-0060$1,Juventa,,,,,
 Marie,art nouveau,1987-1483,,publiek,ok,,ok,ok,,1987-1483$1; 1987-1483$2,onbekend*onbekend,,,,,
-Marie,art nouveau,1978-0050_0-2,,publiek,ok,,ok,ok,,1978-0050_0-2,"de Feure, Georges*de Feure, Georges",ok,,,,
-Marie,art nouveau,1978-0050_1-2,,niet-publiek,ok,,ok,ok,,1978-0050_1-2,"de Feure, Georges*de Feure, Georges",ok,,,,
-Marie,art nouveau,1978-0050_2-2,,niet-publiek,ok,,ok,ok,,1978-0050_2-2,"de Feure, Georges*de Feure, Georges",ok,,,,
+Marie,art nouveau,1978-0050_0-2,,publiek,ok,,ok,ok,,1978-0050_0-2,"de Feure, Georges*de Feure, Georges",ok,,ok 2023-02-27,ok 2023-02-27,
+Marie,art nouveau,1978-0050_1-2,,niet-publiek,ok,,ok,ok,,1978-0050_1-2,"de Feure, Georges*de Feure, Georges",ok,,ok 2023-02-27,nvt,
+Marie,art nouveau,1978-0050_2-2,,niet-publiek,ok,,ok,ok,,1978-0050_2-2,"de Feure, Georges*de Feure, Georges",ok,,ok 2023-02-27,nvt,
 ,,,,,,,,,,,#N/A,,,,,
 ,,,,,,,,,,,#N/A,,,,,
 ,,,,,,,,,,,#N/A,,,,,
@@ -4686,7 +4686,7 @@ Sam,meubels,1994,enkelvoudig object,publiek,ok,RF - OK,ok,ok,ok,1994,onbekend*on
 Sam,meubels,1995,enkelvoudig object,publiek,ok,RF - OK,ok,ok,ok,1995$1,onbekend*onbekend,ok,,ok 23-11,ok 23-11,
 Sam,meubels,1998,enkelvoudig object,publiek,ok,RF - OK,"nieuwe foto, nu werkfoto in fiche",x,nee,,onbekend*onbekend,ok,,,,
 Sam,meubels,2012-0001,enkelvoudig object,publiek,ok,RF - OK,beeld photoshoppen,ok,ok,2012-0001,onbekend*onbekend,ok,,ok 6-12,ok 6-12,
-Sam,meubels,2017-0138,enkelvoudig object,publiek,ok,niet meegenomen want standplaats was onbekend,ok,ok,ok,2017-0138$1,onbekend,ok,,,,
+Sam,meubels,2017-0138,enkelvoudig object,publiek,ok,niet meegenomen want standplaats was onbekend,ok,ok,ok,2017-0138$1,onbekend,ok,,ok 2023-02-27,ok 2023-02-27,
 Sam,meubels,2750,enkelvoudig object,publiek,textiel,RF,ok,ok,ok,2750$1,onbekend*onbekend,ok,,,,
 Sam,meubels,2751,enkelvoudig object,publiek,textiel,RF,Nieuwe foto nemen; huidige is foto van 2750,ok,ok,2751$1,onbekend*onbekend,ok,,,,
 Sam,meubels,3013,enkelvoudig object,publiek,ok,RF - OK,aanpassen? zonder schaduw,ok,ok,3013,onbekend*onbekend,ok,,ok 2022-09-23,ok 2022-09-23,
@@ -5585,28 +5585,28 @@ Sam,meubels,DMG_T_01159_ORANJE,enkelvoudig object,publiek,datering?,GE - ok,ok,o
 Sam,meubels,DMG_T_01369,bulk,publiek,ok,GE - ok,nieuwe foto,x,,,onbekend*onbekend,,,,,
 Sam,meubels,DMG_T_01372,bulk,publiek,datering?,GE - ok,nieuwe foto,x,,,onbekend*onbekend,,,,,
 Sam,meubels,DMG_T_01373,bulk,publiek,datering?,GE - ok,nieuwe foto,x,,,onbekend*onbekend,,,,,
-Sam,Chapuis-Thonet-Kohn;meubels,3168,enkelvoudig object,publiek,ok,SJ,ok,ok,ok,3168,"Thonet, Michael*Gebrüder Thonet",ok,,ok 2022-08-02,ok 2022-09-29,gepubliceerd voor stoelenverhaal
+Sam,Chapuis-Thonet-Kohn;meubels,3168,enkelvoudig object,publiek,bekijken,SJ,ok,ok,ok,3168,"Thonet, Michael*Gebrüder Thonet",ok,,ok 2022-08-02,ok 2022-09-29,gepubliceerd voor stoelenverhaal
 Sam,Chapuis-Thonet-Kohn;meubels,3180,enkelvoudig object,niet-publiek,etiket? - datering,SJ,foto nemen,x,nee,,Gebrüder Thonet*Gebrüder Thonet,ok,,,,
-Sam,Chapuis-Thonet-Kohn;meubels,3057_A,enkelvoudig object,publiek,ok,SJ,ok,ok,ok,3057_A,Gebrüder Thonet*Gebrüder Thonet,ok,,,,
-Sam,Chapuis-Thonet-Kohn;meubels,3057_B,deel,niet-publiek,ok,SJ,ok,ok,ok,3057_B,Gebrüder Thonet*Gebrüder Thonet,ok,,,,
-Sam,Chapuis-Thonet-Kohn;meubels,1976-0162,enkelvoudig object,publiek,ok,SJ,foto nemen,x,nee,,Gebrüder Thonet*Gebrüder Thonet,ok,,,,
+Sam,Chapuis-Thonet-Kohn;meubels,3057_A,enkelvoudig object,publiek,bekijken,SJ,ok,ok,ok,3057_A,Gebrüder Thonet*Gebrüder Thonet,ok,,,,
+Sam,Chapuis-Thonet-Kohn;meubels,3057_B,deel,niet-publiek,bekijken,SJ,ok,ok,ok,3057_B,Gebrüder Thonet*Gebrüder Thonet,ok,,,,
+Sam,Chapuis-Thonet-Kohn;meubels,1976-0162,enkelvoudig object,publiek,bekijken,SJ,foto nemen,x,nee,,Gebrüder Thonet*Gebrüder Thonet,ok,,,,
 Sam,Chapuis-Thonet-Kohn;meubels,2017-0100,enkelvoudig object,publiek,datering?,SJ,photoshoppen,ok,ok,2017-0100$1,Fischel Söhne*Fischel Söhne,ok,,,,
-Marie,art nouveau;Chapuis-Thonet-Kohn;kantoor (binnen- en buitenshuis) - meubels,1998-0013,enkelvoudig object,publiek,ok,SJ,klein formaat (1692x1543),ok,ok,1998-0013$3,"Wagner, Otto*Gebrüder Thonet",ok,,,,
-Sam,art nouveau;Chapuis-Thonet-Kohn;meubels,FH-0067,enkelvoudig object,publiek,ok,SJ,foto met kussens,ok,ok,FH-0067$1,"Hoffmann, Josef*Jacob & Josef Kohn",ok,Josef Hoffmann,,,
-Sam,Chapuis-Thonet-Kohn;meubels,3056,enkelvoudig object,publiek,ok,SJ,ok,ok,ok,3056,Jacob & Josef Kohn*Jacob & Josef Kohn,ok,,,,
+Marie,art nouveau;Chapuis-Thonet-Kohn;kantoor (binnen- en buitenshuis) - meubels,1998-0013,enkelvoudig object,publiek,ok,SJ,klein formaat (1692x1543),ok,ok,1998-0013$3,"Wagner, Otto*Gebrüder Thonet",ok,,ok 2023-02-27,ok 2023-02-27,
+Sam,art nouveau;Chapuis-Thonet-Kohn;meubels,FH-0067,enkelvoudig object,publiek,ok,SJ,foto met kussens,ok,ok,FH-0067$1,"Hoffmann, Josef*Jacob & Josef Kohn",ok,Josef Hoffmann,ok 2023-02-27,ok 2023-02-27,
+Sam,Chapuis-Thonet-Kohn;meubels,3056,enkelvoudig object,publiek,b'ekijken,SJ,ok,ok,ok,3056,Jacob & Josef Kohn*Jacob & Josef Kohn,ok,,,,
 Sam,Chapuis-Thonet-Kohn;meubels,2017-0224,enkelvoudig object,publiek,"(Kohn?), datering?",SJ,ok,ok,ok,2017-0224,Jacob & Josef Kohn*Jacob & Josef Kohn,ok,,,,
-Sam,art nouveau;Chapuis-Thonet-Kohn;meubels,1988-0016_0-2,ensemble,publiek,ok,SJ,ok,ok,ok,1988-0016_0-2,"Hoffmann, Josef*Jacob & Josef Kohn",ok,Josef Hoffmann,,,
-Sam,art nouveau;Chapuis-Thonet-Kohn;meubels,1988-0016_1-2,enkelvoudig object,niet-publiek,ok,SJ,ok,ok,ok,1988-0016_1-2,"Hoffmann, Josef*Jacob & Josef Kohn",ok,Josef Hoffmann,,,
-Sam,art nouveau;Chapuis-Thonet-Kohn;meubels,1988-0016_2-2,enkelvoudig object,niet-publiek,ok,SJ,ok,ok,ok,1988-0016_2-2,"Hoffmann, Josef*Jacob & Josef Kohn",ok,Josef Hoffmann,,,
-Sam,art nouveau;Chapuis-Thonet-Kohn;meubels,1986-0056_0-4,ensemble,publiek,ok,SJ,"groepsfoto nemen op termijn, voorlopige photoshop ok",ok,ok,1986-0056_0-4$1,"Siegel, Gustav*Jacob & Josef Kohn",ok,Gustav Siegel,,,
-Sam,art nouveau;Chapuis-Thonet-Kohn;meubels,1986-0056_1-4,enkelvoudig object,niet-publiek,ok,SJ,leesbaar maken,ok,ok,1986-0056_1-4,"Siegel, Gustav*Jacob & Josef Kohn",ok,Gustav Siegel,,,
-Sam,art nouveau;Chapuis-Thonet-Kohn;meubels,1986-0056_2-4,enkelvoudig object,niet-publiek,ok,SJ,spiegel oke?,ok,ok,1986-0056_2-4$1,"Siegel, Gustav*Jacob & Josef Kohn",ok,Gustav Siegel,,,
-Sam,art nouveau;Chapuis-Thonet-Kohn;meubels,1986-0056_3-4,enkelvoudig object,niet-publiek,ok,SJ,ok,ok,ok,1986-0056_3-4,"Siegel, Gustav*Jacob & Josef Kohn",ok,Gustav Siegel,,,
-Sam,art nouveau;Chapuis-Thonet-Kohn;meubels,1986-0056_4-4,enkelvoudig object,niet-publiek,ok,SJ,leesbaar maken / spiegel,ok,ok,1986-0056_4-4,"Siegel, Gustav*Jacob & Josef Kohn",ok,Gustav Siegel,,,
+Sam,art nouveau;Chapuis-Thonet-Kohn;meubels,1988-0016_0-2,ensemble,publiek,ok,SJ,ok,ok,ok,1988-0016_0-2,"Hoffmann, Josef*Jacob & Josef Kohn",ok,Josef Hoffmann,ok 2023-02-27,ok 2023-02-27,
+Sam,art nouveau;Chapuis-Thonet-Kohn;meubels,1988-0016_1-2,enkelvoudig object,niet-publiek,ok,SJ,ok,ok,ok,1988-0016_1-2,"Hoffmann, Josef*Jacob & Josef Kohn",ok,Josef Hoffmann,ok 2023-02-27,nvt,
+Sam,art nouveau;Chapuis-Thonet-Kohn;meubels,1988-0016_2-2,enkelvoudig object,niet-publiek,ok,SJ,ok,ok,ok,1988-0016_2-2,"Hoffmann, Josef*Jacob & Josef Kohn",ok,Josef Hoffmann,ok 2023-02-27,nvt,
+Sam,art nouveau;Chapuis-Thonet-Kohn;meubels,1986-0056_0-4,ensemble,publiek,ok,SJ,"groepsfoto nemen op termijn, voorlopige photoshop ok",ok,ok,1986-0056_0-4$1,"Siegel, Gustav*Jacob & Josef Kohn",ok,Gustav Siegel,ok 2023-02-27,ok 2023-02-27,
+Sam,art nouveau;Chapuis-Thonet-Kohn;meubels,1986-0056_1-4,enkelvoudig object,niet-publiek,ok,SJ,leesbaar maken,ok,ok,1986-0056_1-4,"Siegel, Gustav*Jacob & Josef Kohn",ok,Gustav Siegel,ok 2023-02-27,nvt,
+Sam,art nouveau;Chapuis-Thonet-Kohn;meubels,1986-0056_2-4,enkelvoudig object,niet-publiek,ok,SJ,spiegel oke?,ok,ok,1986-0056_2-4$1,"Siegel, Gustav*Jacob & Josef Kohn",ok,Gustav Siegel,ok 2023-02-27,nvt,
+Sam,art nouveau;Chapuis-Thonet-Kohn;meubels,1986-0056_3-4,enkelvoudig object,niet-publiek,ok,SJ,ok,ok,ok,1986-0056_3-4,"Siegel, Gustav*Jacob & Josef Kohn",ok,Gustav Siegel,ok 2023-02-27,nvt,
+Sam,art nouveau;Chapuis-Thonet-Kohn;meubels,1986-0056_4-4,enkelvoudig object,niet-publiek,ok,SJ,leesbaar maken / spiegel,ok,ok,1986-0056_4-4,"Siegel, Gustav*Jacob & Josef Kohn",ok,Gustav Siegel,ok 2023-02-27,nvt,
 Sam,Chapuis-Thonet-Kohn;meubels,1981-0039,enkelvoudig object,publiek,datering?,SJ - in History and Collections - in papieren dossier verwijzingen naar gelijkaardige stoelen ,nieuwe foto,ok,ok,1981-0039$1,"Chapuis, Jean-Joseph*Chapuis, Jean-Joseph",ok,,,,
 Sam,Chapuis-Thonet-Kohn;meubels,1950,enkelvoudig object,publiek,datering? - herkomst/waarde?,SJ,ok,ok,ok,1950,"Chapuis, Jean-Joseph*Chapuis, Jean-Joseph",ok,,,,
 Sam,Chapuis-Thonet-Kohn;meubels,1894,enkelvoudig object,publiek,signatuur? - herkomst/waarde?,SJ,ok,ok,ok,1894,"Chapuis, Jean-Joseph*Chapuis, Jean-Joseph",ok,,,,
-Sam,Chapuis-Thonet-Kohn;meubels,2020-0001,enkelvoudig object,publiek,ok,SJ,kleuren moeilijk te zien,ok,ok,2020-0001$2,"Chapuis, Jean-Joseph*Chapuis, Jean-Joseph",ok,,,,
+Sam,Chapuis-Thonet-Kohn;meubels,2020-0001,enkelvoudig object,publiek,bekijken,SJ,kleuren moeilijk te zien,ok,ok,2020-0001$2,"Chapuis, Jean-Joseph*Chapuis, Jean-Joseph",ok,,,,
 Sam,meubels,1976-0237_0-7,set ,publiek,ok,WA,nieuwe koepelfoto,x,,,"van de Velde, Henry*De Cunsel",,,,,
 Sam,meubels,1976-0237_1-7,enkelvoudig object,niet-publiek,ok,WA,voor restauratie> nieuwe genomen,ok,ok,1976-0237_1-7$1,"van de Velde, Henry*De Cunsel",,,,,
 Sam,meubels,1976-0237_2-7,enkelvoudig object,niet-publiek,ok,WA,ok,ok,ok,1976-0237_2-7,"van de Velde, Henry*De Cunsel",,,,,
@@ -5852,7 +5852,7 @@ Sam,meubels,3150_B,deel,publiek,verwerving? (+associatie),extern,foto draaien,ok
 Sam,meubels,3150_C,deel,publiek,verwerving? (+associatie),extern,foto draaien,ok,ok,3150_C,"Van huffel, Albert*L'Art Décoratif Céline Dangotte",ok,,,,
 Sam,meubels,1999-0092,enkelvoudig object,publiek,ok,extern,foto nemen,x,nee,,"Van huffel, Albert*L'Art Décoratif Céline Dangotte",ok,,,,
 Sam,meubels,3393,enkelvoudige object,publiek,is dit het tafeltje uit de woning Behn zoals de titel op de papieren fiche zegt? - verwerving te achterhalen?,extern,ok,ok,groot genoeg?,3393,"Van huffel, Albert*onbekend*L'Art Décoratif Céline Dangotte",ok,,,,
-Sam,meubels,3087,enkelvoudige object,publiek,ok,extern,photoshoppen,ok,photoshoppen,3087$1,"Van huffel, Albert*L'Art Décoratif Céline Dangotte",ok,,,,
+Sam,meubels,3087,enkelvoudige object,publiek,ok,extern,photoshoppen,ok,photoshoppen,3087$1,"Van huffel, Albert*L'Art Décoratif Céline Dangotte",ok,,ok 2023-02-27,ok 2023-02-27,
 Sam,meubels,2002-0012_0-2,set,publiek,ok,extern,foto nemen,x,nee,,"Van huffel, Albert*L'Art Décoratif Céline Dangotte",ok,,,,
 Sam,meubels,2002-0012_1-2,enkelvoudig object,niet-publiek,ok,extern,bewerken,x,,,"Van huffel, Albert*L'Art Décoratif Céline Dangotte",ok,,,,
 Sam,meubels,2002-0012_2-2,enkelvoudig object,niet-publiek,ok,extern,bewerken,x,,,"Van huffel, Albert*L'Art Décoratif Céline Dangotte",ok,,,,
@@ -5860,11 +5860,11 @@ Sam,meubels,3403_0-3,set,publiek,verwerving? (verwijzingen naar correspondentie 
 Sam,meubels,3403_1-3,enkelvoudige object,niet-publiek,verwerving? (verwijzingen naar correspondentie met Dangotte of de dochters bij verwervingen?),extern,bewerken,ok,,3403_1-3$1,"Van huffel, Albert*L'Art Décoratif Céline Dangotte",ok,,,,
 Sam,meubels,3403_2-3,enkelvoudige object,niet-publiek,verwerving? (verwijzingen naar correspondentie met Dangotte of de dochters bij verwervingen?),extern,bewerken,ok,,3403_2-3$1,"Van huffel, Albert*L'Art Décoratif Céline Dangotte",ok,,,,
 Sam,meubels,3403_3-3,enkelvoudige object,niet-publiek,verwerving? (verwijzingen naar correspondentie met Dangotte of de dochters bij verwervingen?),extern,bewerken,ok,,3403_3-3$1,"Van huffel, Albert*L'Art Décoratif Céline Dangotte",ok,,,,
-Sam,meubels,1999-0091,enkelvoudig object,publiek,ok,extern,bewerken,ok,,1999-0091$1,"Van huffel, Albert*L'Art Décoratif Céline Dangotte",ok,,,,
-Sam,meubels,0936,enkelvoudig object,publiek,ok,extern,ok,ok,?,0936,"Van huffel, Albert*Keuller, H. F.*L'Art Décoratif Céline Dangotte",ok,,,,
-Sam,meubels,1996-0016_0-2,set,publiek,ok,extern,ok,ok,ok,1996-0016_0-2,"Van huffel, Albert*Albijn, Arthur*L'Art Décoratif Céline Dangotte",ok,,,,
-Sam,meubels,1996-0016_1-2,enkelvoudig object,niet-publiek,ok,extern,ok,ok,ok,1996-0016_1-2,"Van huffel, Albert*Albijn, Arthur*L'Art Décoratif Céline Dangotte",ok,,,,
-Sam,meubels,1996-0016_2-2,enkelvoudig object,niet-publiek,ok,extern,ok,ok,ok,1996-0016_2-2,"Van huffel, Albert*Albijn, Arthur*L'Art Décoratif Céline Dangotte",ok,,,,
+Sam,meubels,1999-0091,enkelvoudig object,publiek,ok,extern,bewerken,ok,,1999-0091$1,"Van huffel, Albert*L'Art Décoratif Céline Dangotte",ok,,ok 2023-02-27,ok 2023-02-27,
+Sam,meubels,0936,enkelvoudig object,publiek,ok,extern,ok,ok,?,0936,"Van huffel, Albert*Keuller, H. F.*L'Art Décoratif Céline Dangotte",ok,,ok 2023-02-27,ok 2023-02-27,
+Sam,meubels,1996-0016_0-2,set,publiek,ok,extern,ok,ok,ok,1996-0016_0-2,"Van huffel, Albert*Albijn, Arthur*L'Art Décoratif Céline Dangotte",ok,,ok 2023-02-27,ok 2023-02-27,
+Sam,meubels,1996-0016_1-2,enkelvoudig object,niet-publiek,ok,extern,ok,ok,ok,1996-0016_1-2,"Van huffel, Albert*Albijn, Arthur*L'Art Décoratif Céline Dangotte",ok,,ok 2023-02-27,nvt,
+Sam,meubels,1996-0016_2-2,enkelvoudig object,niet-publiek,ok,extern,ok,ok,ok,1996-0016_2-2,"Van huffel, Albert*Albijn, Arthur*L'Art Décoratif Céline Dangotte",ok,,ok 2023-02-27,nvt,
 Sam,meubels,1981-0040,enkelvoudig object,publiek,originele titel? 'De Zee (Mer)',extern,foto verbeterd,ok,,1981-0040$1,"Van huffel, Albert*Studio de Saedeleer",ok,,,,
 Sam,meubels,1995-0046_0-6,ensemble,publiek,ok,extern,foto nemen,x,,,"Van huffel, Albert*onbekend",ok,,,,
 Sam,meubels,1995-0046_1-6,enkelvoudig object,niet-publiek,ok,extern,ok,ok,ok,1995-0046_1-6,"Van huffel, Albert*onbekend",ok,,,,
@@ -5878,7 +5878,7 @@ Sam,meubels,1988-0029_1-4,enkelvoudig object,niet-publiek,ok,extern,beeld te kle
 Sam,meubels,1988-0029_2-4,enkelvoudig object,niet-publiek,ok,extern,beeld te klein,x,te klein?,,"Van huffel, Albert*Sint-Lukas",ok,,,,
 Sam,meubels,1988-0029_3-4,enkelvoudig object,niet-publiek,ok,extern,beeld te klein,x,te klein?,,"Van huffel, Albert*Sint-Lukas",ok,,,,
 Sam,meubels,1988-0029_4-4,enkelvoudig object,niet-publiek,ok,extern,beeld te klein,x,te klein?,,"Van huffel, Albert*Sint-Lukas",ok,,,,
-Sam,meubels,1981-0041,enkelvoudig object,publiek,ok,extern,ok,ok,ok,1981-0041,"Van huffel, Albert*Studio de Saedeleer",ok,,,,
+Sam,meubels,1981-0041,enkelvoudig object,publiek,ok,extern,ok,ok,ok,1981-0041,"Van huffel, Albert*Studio de Saedeleer",ok,,ok 2023-02-27,ok 2023-02-27,
 Sam,meubels,1995-0012_0-8,ensemble,publiek,ok,extern,foto nemen,x,,,"Van huffel, Albert*onbekend",ok,,,,
 Sam,meubels,1995-0012_1-8,enkelvoudig object,publiek,ok,extern,ok,x,ok,1995-0012_1-8,"Van huffel, Albert*onbekend",ok,,,,
 Sam,meubels,1995-0012_2-8,enkelvoudig object,niet-publiek,ok,extern,ok,x,ok,1995-0012_2-8,"Van huffel, Albert*Van huffel, Albert",ok,,,,
@@ -5897,18 +5897,18 @@ Sam,meubels,2017-0047_1-3,deel,niet-publiek,ok,extern,foto nemen,x,,,"Van huffel
 Sam,meubels,2017-0047_2-3,deel,niet-publiek,ok,extern,ok,x,ok,2017-0047_2-3$1,"Van huffel, Albert*Debeuf, Jozef*L'Art Décoratif Céline Dangotte",ok,,,,
 Sam,meubels,2017-0047_3-3,deel,niet-publiek,ok,extern,ok,x,ok,2017-0047_3-3,"Van huffel, Albert*Debeuf, Jozef*L'Art Décoratif Céline Dangotte",ok,,,,
 Sam,meubels,1999-0093,enkelvoudig object,publiek,ok,extern,bewerken,x,ok,1999-0093,"Van huffel, Albert*L'Art Décoratif Céline Dangotte",ok,,,,
-Sam,meubels,2017-0048,enkelvoudig object,publiek,ok,extern,ok,ok,ok,2017-0048,"Van huffel, Albert*onbekend",ok,,,,
-Sam,meubels,2017-0051,enkelvoudig object,publiek,ok,extern,ok,ok,ok,2017-0051,"Van huffel, Albert*onbekend",ok,,,,
+Sam,meubels,2017-0048,enkelvoudig object,publiek,ok,extern,ok,ok,ok,2017-0048,"Van huffel, Albert*onbekend",ok,,ok 2023-02-27,ok 2023-02-27,
+Sam,meubels,2017-0051,enkelvoudig object,publiek,ok,extern,ok,ok,ok,2017-0051,"Van huffel, Albert*onbekend",ok,,ok 2023-02-27,ok 2023-02-27,
 Sam,meubels,2017-0053,enkelvoudig object,publiek,ok,extern,onscherp; nieuwe foto,x,ok,,"Van huffel, Albert*onbekend",ok,,,,
-Sam,meubels,2017-0183,enkelvoudig object,publiek,ok,extern,ok,ok,ok,2017-0183,"Van huffel, Albert*onbekend",ok,,,,
-Sam,meubels,2017-0184,enkelvoudig object,publiek,ok,extern,ok,ok,ok,2017-0184,"Van huffel, Albert*onbekend",ok,,,,
-Sam,meubels,2017-0185,enkelvoudig object,publiek,ok,extern,ok,ok,ok,2017-0185,"Van huffel, Albert*onbekend",ok,,,,
-Sam,meubels,2017-0192,enkelvoudig object,publiek,ok,extern,ok,ok,ok,2017-0192,"Van huffel, Albert*onbekend",ok,,,,
-Sam,meubels,2017-0193,enkelvoudig object,publiek,ok,extern,ok,ok,ok,2017-0193,"Van huffel, Albert*onbekend",ok,,,,
-Sam,meubels,2017-0194,enkelvoudig object,publiek,ok,extern,ok,ok,ok,2017-0194,"Van huffel, Albert*onbekend",ok,,,,
-Sam,meubels,2017-0195,enkelvoudig object,publiek,ok,extern,ok,ok,ok,2017-0195,"Van huffel, Albert*onbekend",ok,,,,
-Sam,meubels,2017-0197,enkelvoudig object,publiek,ok,extern,ok,ok,ok,2017-0197,"Van huffel, Albert*Albijn, Arthur",ok,,,,
-Sam,meubels,2017-0188,enkelvoudig object,publiek,ok,extern,"ok, maar net te klein",ok,ok,2017-0188$1,"Van huffel, Albert*Albijn, Arthur",ok,,,,
+Sam,meubels,2017-0183,enkelvoudig object,publiek,ok,extern,ok,ok,ok,2017-0183,"Van huffel, Albert*onbekend",ok,,ok 2023-02-27,ok 2023-02-27,
+Sam,meubels,2017-0184,enkelvoudig object,publiek,ok,extern,ok,ok,ok,2017-0184,"Van huffel, Albert*onbekend",ok,,ok 2023-02-27,ok 2023-02-27,
+Sam,meubels,2017-0185,enkelvoudig object,publiek,ok,extern,ok,ok,ok,2017-0185,"Van huffel, Albert*onbekend",ok,,ok 2023-02-27,ok 2023-02-27,
+Sam,meubels,2017-0192,enkelvoudig object,publiek,ok,extern,ok,ok,ok,2017-0192,"Van huffel, Albert*onbekend",ok,,ok 2023-02-27,ok 2023-02-27,
+Sam,meubels,2017-0193,enkelvoudig object,publiek,ok,extern,ok,ok,ok,2017-0193,"Van huffel, Albert*onbekend",ok,,ok 2023-02-27,ok 2023-02-27,
+Sam,meubels,2017-0194,enkelvoudig object,publiek,ok,extern,ok,ok,ok,2017-0194,"Van huffel, Albert*onbekend",ok,,ok 2023-02-27,ok 2023-02-27,
+Sam,meubels,2017-0195,enkelvoudig object,publiek,ok,extern,ok,ok,ok,2017-0195,"Van huffel, Albert*onbekend",ok,,ok 2023-02-27,ok 2023-02-27,
+Sam,meubels,2017-0197,enkelvoudig object,publiek,ok,extern,ok,ok,ok,2017-0197,"Van huffel, Albert*Albijn, Arthur",ok,,ok 2023-02-27,ok 2023-02-27,
+Sam,meubels,2017-0188,enkelvoudig object,publiek,ok,extern,"ok, maar net te klein",ok,ok,2017-0188$1,"Van huffel, Albert*Albijn, Arthur",ok,,ok 2023-02-27,ok 2023-02-27,
 Sam,meubels,2017-0166,enkelvoudig object,publiek,winkel Dangotte? ,extern,ok,ok,ok,2017-0166,"Van huffel, Albert",ok,,,,
 Sam,meubels,2017-0167,enkelvoudig object,publiek,winkel Dangotte?,extern,ok,ok,ok,2017-0167,"Van huffel, Albert",ok,,,,
 Sam,meubels,2017-0170,enkelvoudig object,publiek,winkel Dangotte?,extern,ok,ok,ok,2017-0170,,,,,,
@@ -6069,9 +6069,16 @@ Sam,meubels,1995-0017_20,,niet-publiek,ok,extern,nieuwe foto nemen,,,,"Lippens, 
 Sam,meubels,1995-0017_21,,niet-publiek,ok,extern,nieuwe foto nemen,,,,"Lippens, Jules",,,,,
 Sam,meubels,1995-0017_22,,niet-publiek,ok,extern,nieuwe foto nemen,,,,"Lippens, Jules",,,,,
 Sam,meubels,1995-0017_23,,niet-publiek,ok,extern,nieuwe foto nemen,x,,,"Lippens, Jules",,,,,
-Sam,meubels,0028,enkelvoudig object,publiek,modernisme,extern,,,,,"Boulez, Jules",,,,,
-Sam,meubels,0937,enkelvoudig object,publiek,zie papieren dossier,extern,,,,,"Boulez, Jules",,,,,
-Marie,kantoor (binnen- en buitenshuis) - meubels ,0938,enkelvoudig object,publiek,mee bezig (NDK bekijken),extern,foto nemen,,nee,,"Boulez, Jules",,,,,
+Sam,meubels,0028,enkelvoudig object,publiek,verwerving? (zeker dat het uit de eigen woning kopmt?),extern,ok,,,0028,"Boulez, Jules",,,,,
+Sam,meubels,0937,enkelvoudig object,publiek,verwerving? (zeker dat het uit de eigen woning kopmt?),extern,ok,,,0937,"Boulez, Jules",,,,,
+Marie,kantoor (binnen- en buitenshuis) - meubels ,0938,enkelvoudig object,publiek,verwerving? (zeker dat het uit de eigen woning kopmt?),extern,foto bewerken,,nee,,"Boulez, Jules",,,,,
+Sam,meubels,2017-0042_0-2,enkelvoudig object,publiek,zie foto in eigen doc art deco -waarom is dit een kaptafel?,extern,ok,,,2017-0042,"Obozinski, Yvan*Wolfers, Marcel*Manufacture générale de meubles Stevens",,,,,
+Sam,meubels,2017-0042_1-2,deel,niet-publiek,,extern,zonder matje?,,,2017-0042_1-2,"Obozinski, Yvan*Wolfers, Marcel",,,,,
+Sam,meubels,2017-0042_2-2,deel,niet-publiek,,extern,ok,,,2017-0042_2-2,"Obozinski, Yvan*Wolfers, Marcel",,,,,
+Sam,meubels,2017-0236_0,,publiek,,extern,nieuwe foto,,,,Vanhaecke,,,,,
+Sam,meubels,2017-0236_1,,niet-publiek,,extern,nieuwe foto,,,,Vanhaecke,,,,,
+Sam,meubels,2017-0236_2,,niet-publiek,,extern,nieuwe foto,,,,,,,,,
+Sam,meubels,2020-0030,enkelvoudig object,publiek,ok,extern,ok,,,2020-0030$1,"Van den Hoeck, Séraphin*Van den Hoeck, Séraphin",,,,,
 Sam,meubels,2003-0118_0-8,,publiek,,extern,,,,,"Langaskens, Rutger",,,,,
 Sam,meubels,2003-0118_1-8,,niet-publiek,,extern,,,,,"Langaskens, Rutger",,,,,
 Sam,meubels,2003-0118_2-8,,niet-publiek,,extern,,,,,"Langaskens, Rutger",,,,,
@@ -6081,10 +6088,6 @@ Sam,meubels,2003-0118_5-8,,niet-publiek,,extern,,,,,"Langaskens, Rutger",,,,,
 Sam,meubels,2003-0118_6-8,,niet-publiek,,extern,,,,,"Langaskens, Rutger",,,,,
 Sam,meubels,2003-0118_7-8,,niet-publiek,,extern,,,,,"Langaskens, Rutger",,,,,
 Sam,meubels,2003-0118_8-8,,niet-publiek,,extern,,,,,"Langaskens, Rutger",,,,,
-Sam,meubels,2017-0042_0-2,enkelvoudig object,publiek,zie foto in eigen doc art deco,extern,,,,,"Obozinski, Yvan*Wolfers, Marcel*Manufacture générale de meubles Stevens",,,,,
-Sam,meubels,2017-0042_1-2,deel,niet-publiek,,extern,,,,,"Obozinski, Yvan*Wolfers, Marcel",,,,,
-Sam,meubels,2017-0042_2-2,deel,niet-publiek,,extern,,,,,"Obozinski, Yvan*Wolfers, Marcel",,,,,
-Sam,meubels,2020-0030,enkelvoudig object,publiek,collectiemap,extern,,,,,"Van den Hoeck, Séraphin*Van den Hoeck, Séraphin",,,,,
 Sam,meubels,1997-0011_0-2,enkelvoudig object,publiek,zie bij Marie,extern,,,,,onbekend*onbekend,,,,,
 Sam,meubels,1997-0011_1-2,deel,niet-publiek,zie bij Marie,extern,,,,,onbekend*onbekend,,,,,
 Sam,meubels,1997-0011_2-2,deel,niet-publiek,zie bij Marie,extern,,,,,onbekend*onbekend,,,,,
@@ -6093,9 +6096,6 @@ Sam,meubels,1980-0308_0-2,set,publiek,geen foto in dossier,extern,,,,,,,,,,
 Sam,meubels,1980-0308_1-2,enkelvoudig object,niet-publiek,,extern,,,,,,,,,,
 Sam,meubels,1980-0308_2-2,enkelvoudig object,niet-publiek,,extern,,,,,,,,,,
 Sam,meubels,2015-0064,enkelvoudig object,publiek,,extern,,,,,,,,,,
-Sam,meubels,2017-0236_0,,,geen papieren dossier,extern,,,,,Vanhaecke,,,,,
-Sam,meubels,2017-0236_1,,,,extern,,,,,Vanhaecke,,,,,
-Sam,meubels,2017-0236_2,,,,extern,,,,,,,,,,
 Sam,meubels,2021-0058,,publiek,,extern,,,,,,,,,,
 Sam,meubels,3062,enkelvoudige object,publiek,,extern,,,,,,,,,,
 Sam,meubels,3221,enkelvoudige object,publiek,,extern,,,,,,,,,,
@@ -6829,7 +6829,7 @@ Eva L.,schrijfmachines,2022-0049,enkelvoudig object,publiek,beschrijving,,ok,ok,
 Eva L.,schrijfmachines,2022-0050,enkelvoudig object,publiek,beschrijving,,ok,ok,ok,2022-0050$1;2022-0050$2,The Royal Typewriter Company,,,,,
 Eva L.,schrijfmachines,DES.1995.08,enkelvoudig object,publiek,ok,,ok,ok,ok,DES.1995.08$1;DES.1995.08$3,"Sottsass, Ettore (junior)*King, Perry*Olivetti",deels geklaard,Ettore Sottsass Jr.,,,
 ,,,,,,,,,,,#N/A,,,,,
-Thijs,,1978-0106_15-22,enkelvoudig object,publiek,ok,,,ok,ok,1978-0106_15-22,"Eysselinck, Gaston*Defauw, Theofiel",ok,Gaston Eysselinck,ok 2022-08-24,,"voor vitrine en story CoGent, weer offline 9/02/2023"
+Thijs,,1978-0106_15-22,enkelvoudig object,publiek,ok,,,ok,ok,1978-0106_15-22,"Eysselinck, Gaston*Defauw, Theofiel",ok,Gaston Eysselinck,ok 2022-08-24,nvt,"voor vitrine en story CoGent, weer offline 9/02/2023"
 Thijs,,2016-0010_0-2,enkelvoudig object,publiek,ok,,,ok,ok,2016-0010,"Klarenbeek, Eric*Dros, Maartje",ok,Eric Klarenbeek; Maartje Dros,ok 2023-02-13,ok 2023-02-13,
 Thijs,,2003-0004,,publiek,ok,,,ok,,2003-0004,"Weyers, Hans*Borms, Klaas*Weyers & Borms",ok,Weyers & Borms,ok 2023-02-16,ok 2023-02-16,
 Thijs,Tupperware,1999-0011_0-6,,publiek,,,,ok,"ja, maar klein formaat",1999-0011_0-6,"Cautereels, Vic*Tupperware",ok,Tupperware,,,
