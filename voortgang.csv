@@ -1,4 +1,4 @@
-2019-11-13,invalshoeken,objectnummer,niveau van ontsluiting,beelden ontsluiten voor publiek?,inhoudelijke registratie koepel en deelnummers,waardering,foto-overleg,beelden klaar,staat te ontsluiten beeld op de R-schijf in groot formaat?,naam beeld(en),te contacteren vervaardigers voor rechten,toestemming auteursrecht,Attributie,publicatie op ldes (via europeana),publicatie op erfgoedinzicht,opmerkingen
+naam,invalshoeken,objectnummer,niveau van ontsluiting,beelden ontsluiten voor publiek?,inhoudelijke registratie koepel en deelnummers,waardering,foto-overleg,beelden klaar,staat te ontsluiten beeld op de R-schijf in groot formaat?,naam beeld(en),te contacteren vervaardigers voor rechten,toestemming auteursrecht,Attributie,publicatie op ldes (via europeana),publicatie op erfgoedinzicht,opmerkingen
 ,,,enkelvoudig object,publiek,ok,GROEN,ok,ok,ok,,,ok,,,,
 ,,,set,,mee bezig,ORANJE,draaien/photoshoppen,x (opgenomen in flow fotografie),"ja, maar klein formaat",,,aangevraagd,,,,
 ,,,ensemble,niet-publiek,niet klaar,ROOD (collectieprofiel/museumwaardig),foto nemen,y (niet op te lossen probleem),nee,,,geweigerd,,,,
@@ -4364,7 +4364,7 @@ Marie,art nouveau,1987-1445_1-2,enkelvoudig object,niet-publiek,beschrijving,,"o
 Marie,art nouveau,1987-1445_2-2,enkelvoudig object,niet-publiek,beschrijving,,ok ,ok,foto wat wazig?,1987-1445_2-2$1,Rosenthal,ok,,,,
 Marie,art nouveau,1987-1447,enkelvoudig object,publiek,ok ,,ok ,ok,ok ,1987-1447$1,Porzellan-Manufaktur Burgau a.d. Saale Ferdinand Selle,ok,,ok 2023-03-16,ok 2023-03-16,
 Marie,art nouveau,1987-1477,enkelvoudig object,publiek,ok ,,ok ,ok,ok ,1987-1477,"Nienhuis, Lambertus*Nienhuis, Lambertus*Tegelbakkerij Lotus*Boch Frères Kéramis",aangevraagd,Lambertus Nienhuis,,,
-Marie,art nouveau,1993-0008_0-2,enkelvoudig object,publiek,vervaardiger (Laigneil ook ontwerper?); beschrijving (literatuur),,ok ,ok,ok ,1993-0008_0-2$1,"Laigneil, Pieter-Jozef*Kortrijksche Kunstpotterij",ok,,,,
+Marie,art nouveau,1993-0008_0-2,enkelvoudig object,publiek,vervaardiger (Laigneil ook ontwerper?); beschrijving (artikel Mario Baeck),,ok ,ok,ok ,1993-0008_0-2$1,"Laigneil, Pieter-Jozef*Kortrijksche Kunstpotterij",ok,,,,
 Marie,art nouveau,1993-0008_1-2,deel,niet-publiek,vervaardiger (Laigneil ook ontwerper?); beschrijving (literatuur),,ok ,ok,ok ,1993-0008_1-2$1,"Laigneil, Pieter-Jozef*Kortrijksche Kunstpotterij",ok,,,,
 Marie,art nouveau,1993-0008_2-2,deel,niet-publiek,vervaardiger (Laigneil ook ontwerper?); beschrijving (literatuur),,ok ,ok,ok ,1993-0008_2-2$1,"Laigneil, Pieter-Jozef*Kortrijksche Kunstpotterij",ok,,,,
 Marie,art nouveau,1998-0026,enkelvoudig object,publiek,ok ,,ok ,ok,ok ,1998-0026,"Wallander, Alf*Rörstrand",ok,,ok 2023-02-27,ok 2023-02-27,
@@ -4698,23 +4698,15 @@ Marie,art nouveau,1987-0273_2-2,,niet-publiek,beschrijving,,,,,,C.J. Begeer,ok,,
 Marie,art nouveau,1987-0279_0-2,,,,,,,,,C.J. Begeer,ok,,,,
 Marie,art nouveau,1987-0279_1-2,,,,,,,,,C.J. Begeer,ok,,,,
 Marie,art nouveau,1987-0279_2-2,,,,,,,,,C.J. Begeer,ok,,,,
-Marie,art nouveau,1987-0315,,,,,,,,,"Begeer, Cornelus Leonardus Johannes",ok,,,,
-Marie,art nouveau,1987-0326,,,,,,,,,"Begeer, Cornelus Leonardus Johannes",ok,,,,
-Marie,art nouveau,1987-0390_00-13,,,,,,,,,,,,,,
-Marie,art nouveau,1987-0390_01-13,,,,,,,,,C.J. Begeer,ok,,,,
-Marie,art nouveau,1987-0390_02-13,,,,,,,,,C.J. Begeer,ok,,,,
-Marie,art nouveau,1987-0390_03-13,,,,,,,,,C.J. Begeer,ok,,,,
-Marie,art nouveau,1987-0390_04-13,,,,,,,,,C.J. Begeer,ok,,,,
-Marie,art nouveau,1987-0390_05-13,,,,,,,,,C.J. Begeer,ok,,,,
-Marie,art nouveau,1987-0390_06-13,,,,,,,,,C.J. Begeer,ok,,,,
-Marie,art nouveau,1987-0390_07-13,,,,,,,,,C.J. Begeer,ok,,,,
-Marie,art nouveau,1987-0390_08-13,,,,,,,,,C.J. Begeer,ok,,,,
-Marie,art nouveau,1987-0390_09-13,,,,,,,,,C.J. Begeer,ok,,,,
-Marie,art nouveau,1987-0390_10-13,,,,,,,,,C.J. Begeer,ok,,,,
-Marie,art nouveau,1987-0390_11-13,,,,,,,,,C.J. Begeer,ok,,,,
-Marie,art nouveau,1987-0390_12-13,,,,,,,,,C.J. Begeer,ok,,,,
-Marie,art nouveau,1987-0390_13-13,,,,,,,,,C.J. Begeer,ok,,,,
-Marie,art nouveau,1987-0191,,,,,,,,,#N/A,,,,,
+Marie,art nouveau,1987-0315,,publiek,beschrijving,,,,,,"Begeer, Cornelus Leonardus Johannes",ok,,,,
+Marie,art nouveau,1987-0326,,publiek,beschrijving,,,,,,"Begeer, Cornelus Leonardus Johannes",ok,,,,
+Marie,art nouveau,1987-0191_0-6,,publiek,beschrijving,,,,,,"Eisenloeffel, Jan*Gero",,,,,
+Marie,art nouveau,1987-0191_1-6,,niet-publiek,,,,,,,,,,,,
+Marie,art nouveau,1987-0191_2-6,,niet-publiek,,,,,,,,,,,,
+Marie,art nouveau,1987-0191_3-6,,niet-publiek,,,,,,,,,,,,
+Marie,art nouveau,1987-0191_4-6,,niet-publiek,,,,,,,,,,,,
+Marie,art nouveau,1987-0191_5-6,,niet-publiek,,,,,,,,,,,,
+Marie,art nouveau,1987-0191_6-6,,niet-publiek,,,,,,,,,,,,
 Marie,art nouveau,1987-0218,,,,,,,,,"Blinxma, J.",,,,,
 Marie,art nouveau,1987-0384,,,,,,,,,#N/A,,,,,
 Marie,art nouveau,1987-0396,,,,,,,,,#N/A,,,,,
@@ -5917,14 +5909,14 @@ Sam,art nouveau;meubels,0811,enkelvoudig object,publiek,ok,WA - ok,"foto slecht 
 Sam,"Hankar, Paul;meubels",0812_0-2,set,publiek,ok,WA - ok,foto met en zonder rug en combo,x,,,"Hankar, Paul*onbekend",ok,,,,
 Sam,"Hankar, Paul;meubels",0812_1-2,enkelvoudig object,niet-publiek,ok,WA - ok,foto met en zonder rug en combo,x,,0812_1-2,"Hankar, Paul*onbekend",ok,,ok,nvt,al online want partage plus
 Sam,"Hankar, Paul;meubels",0812_2-2,enkelvoudig object,niet-publiek,ok,WA - ok,foto met en zonder rug en combo,x,,0812_2-2,"Hankar, Paul*onbekend",ok,,ok,nvt,al online want partage plus
-Sam,art nouveau;meubels,0910,enkelvoudig object,publiek,(GHE) (MB) bovenblad beter bekijken fysiek (clematismotief? zie Bouvier en Thomas 2009: 23),WA - ok,ok,ok,ok,0910,"Majorelle, Louis*Majorelle, Louis",ok,,,,
+Sam,art nouveau;meubels,0910,enkelvoudig object,publiek,ok,WA - ok,ok,ok,ok,0910,"Majorelle, Louis*Majorelle, Louis",ok,,,,
 Sam,meubels,0936,enkelvoudig object,publiek,ok,WA - ok ,ok,ok,?,0936,"Van huffel, Albert*Keuller, H. F.*L'Art Décoratif Céline Dangotte",ok,,ok 2023-02-27,ok 2023-02-27,
 Sam,meubels,0937,enkelvoudig object,publiek,ok,WA - ok ,ok,ok,,0937,"Boulez, Jules*onbekend",,,,,
 Marie,kantoor (binnen- en buitenshuis) - meubels ,0938,enkelvoudig object,publiek,ok,WA - ok ,foto bewerken > ok,ok,nee,0938$2,"Boulez, Jules*onbekend",,,,,
 Sam,"Horta, Victor;meubels",1975-0001_0-3,ensemble,publiek,ok,WA - ok,beeld te klein,x,te klein,1975-0001_0-3,"Horta, Victor*Menuiseries Pelseneer",ok,,,,
 Sam,"Horta, Victor;meubels",1975-0001_1-3,enkelvoudig object,niet-publiek,ok,WA - ok,beeld te klein,x,te klein,1975-0001_1-3,"Horta, Victor*Menuiseries Pelseneer",ok,,,,
 Sam,"Horta, Victor;meubels",1975-0001_2-3,enkelvoudig object,niet-publiek,ok,WA - ok,geen foto,x,,,"Horta, Victor*Menuiseries Pelseneer",ok,,,,
-Sam,"Horta, Victor;meubels",1975-0001_3-3,enkelvoudig object,niet-publiek,(GHE) datering onderkant? (opschriften),WA - ok,ok,ok,ok,1975-0001_3-3$1,"Horta, Victor*Menuiseries Pelseneer",ok,,,,
+Sam,"Horta, Victor;meubels",1975-0001_3-3,enkelvoudig object,niet-publiek,ok,WA - ok,ok,ok,ok,1975-0001_3-3$1,"Horta, Victor*Menuiseries Pelseneer",ok,,,,
 Sam,meubels,1975-0002,enkelvoudig object,publiek,ok,WA - ok,incompleet,x,,,"La Flandre*La Flandre*De Meyer, Richard",aangevraagd,Richard De Meyer,,,
 Sam,meubels,1975-0077,enkelvoudig object,publiek,ok,WA - ok,heel onduidelijk,x,,,"Smets, Philippe*La Flandre*De Meyer, Richard",aangevraagd,Richard De Meyer,,,
 Sam,Chapuis-Thonet-Kohn;meubels,1976-0162,enkelvoudig object,publiek,ok,ok - WA,foto nemen,x,nee,,Gebrüder Thonet*Gebrüder Thonet,ok,,,,
@@ -5995,7 +5987,7 @@ Sam,meubels,1978-0051_12-14_B,enkelvoudig object,niet-publiek,ok,WA - ok,ok,ok,,
 Sam,meubels,1978-0051_13-14,enkelvoudig object,niet-publiek,ok,WA - ok,ok,ok,,1978-0051_13-14,"Hoste, Huib*Hoste, Huib",ok,Huib Hoste,,,
 Sam,meubels,1978-0051_14-14,enkelvoudig object,niet-publiek,ok,WA - ok,ok,ok,,1978-0051_14-14$1,"Hoste, Huib*Hoste, Huib",ok,Huib Hoste,,,
 Sam,"Hankar, Paul;meubels",1979-0002,enkelvoudig object,publiek,ok,WA - ok,,x,,,"Hankar, Paul*onbekend",ok,,ok,ok,al online want partage plus
-Sam,"Horta, Victor;meubels",1979-0008_0-5,ensemble,publiek,"literatuur checken (Goslar), zie oplerking WA",WA - ok,koepelfoto nemen,x,,,"Horta, Victor*Menuiseries Pelseneer",ok,,,,
+Sam,"Horta, Victor;meubels",1979-0008_0-5,ensemble,publiek,ok,WA - ok,koepelfoto nemen,x,,,"Horta, Victor*Menuiseries Pelseneer",ok,,,,
 Sam,"Horta, Victor;meubels",1979-0008_1-5,enkelvoudig object,niet-publiek,ok,WA - ok,,ok,,1979-0008_1-5,"Horta, Victor*Menuiseries Pelseneer",ok,,,,
 Sam,"Horta, Victor;meubels",1979-0008_2-5,enkelvoudig object,niet-publiek,ok,WA - ok,,ok,,1979-0008_2-5,"Horta, Victor*Menuiseries Pelseneer",ok,,,,
 Sam,"Horta, Victor;meubels",1979-0008_3-5,enkelvoudig object,niet-publiek,ok,WA - ok,,ok,,1979-0008_3-5,"Horta, Victor*Menuiseries Pelseneer",ok,,,,
@@ -6244,7 +6236,7 @@ Sam,meubels,2003-0118_5-8,,niet-publiek,ok,WA - ok,iselke keer dezelfde stoel/fo
 Sam,meubels,2003-0118_6-8,,niet-publiek,ok,WA - ok,iselke keer dezelfde stoel/foto?,x,,,"Langaskens, Rutger*Speiser, Leo",,,,,
 Sam,meubels,2003-0118_7-8,,niet-publiek,ok,WA - ok,nieuwe foto,x,,,"Langaskens, Rutger*Speiser, Leo",,,,,
 Sam,meubels,2003-0118_8-8,,niet-publiek,ok,WA - ok,nieuwe foto,x,,,"Langaskens, Rutger*Speiser, Leo*onbekend",,,,,
-Sam,meubels,2004-0066,enkelvoudig object,publiek,(GHE) opschrift? - uitklaren of de kast van MG of MM is; Gustav Knauer? (beschrijving uitbreiden en titel),WA - ok ,,x,,,"van de Velde, Henry*Henry van de Velde, Société Anonyme. Industries d'art et d'ornementation",,,,,
+Sam,meubels,2004-0066,enkelvoudig object,publiek,(GHE) opschrift? - uitklaren of de kast van MG zelf was of werd verkocht via Maison M; Gustav Knauer? (beschrijving uitbreiden en titel) - zie mail Veerle mei 2023: later pas foto's mogelijk,WA - ok,,x,,,"van de Velde, Henry*Henry van de Velde, Société Anonyme. Industries d'art et d'ornementation",,,,,
 Sam,meubels,2006-0096,enkelvoudig object,publiek,ok,WA - ok ,ok,ok,ok,2006-0096$5,"van de Velde, Henry*Henry van de Velde, Société Anonyme. Industries d'art et d'ornementation",,,,,
 Sam,meubels,2010-0109_00-13,ensemble,publiek,ok,WA - ok ,nieuwe foto,x,,,"Deleu, Arthur*Kortrijkse Kunstwerkstede Gebroeders De Coene",,,,,
 Sam,meubels,2010-0109_01-13_0,enkelvoudig object,niet-publiek,ok,WA - ok ,nieuwe foto?,x,,,"Deleu, Arthur*Kortrijkse Kunstwerkstede Gebroeders De Coene",,,,,
@@ -6310,7 +6302,7 @@ Sam,meubels,2017-0195,enkelvoudig object,publiek,ok,WA - ok ,ok,ok,ok,2017-0195,
 Sam,meubels,2017-0197,enkelvoudig object,publiek,ok,WA - ok ,ok,ok,ok,2017-0197,"Van huffel, Albert*Albijn, Arthur",ok,,ok 2023-02-27,ok 2023-02-27,
 Sam,meubels,2017-0202,enkelvoudig object,publiek,winkel Dangotte?,,ok,ok,ok,2017-0202$1,"Van huffel, Albert",ok,,,,
 Sam,meubels,2017-0203,enkelvoudig object,publiek,winkel Dangotte?,,ok,ok,ok,2017-0203,"Van huffel, Albert",ok,,,,
-Sam,Chapuis-Thonet-Kohn;meubels,2017-0224,enkelvoudig object,publiek,datering?,WA - ok ,ok,ok,ok,2017-0224,Jacob & Josef Kohn*Jacob & Josef Kohn,ok,,,,
+Sam,Chapuis-Thonet-Kohn;meubels,2017-0224,enkelvoudig object,publiek,ok,WA - ok ,ok,ok,ok,2017-0224,Jacob & Josef Kohn*Jacob & Josef Kohn,ok,,,,
 Sam,meubels,2017-0225,enkelvoudig object,publiek,ok,WA - ok ,,ok,,2017-0225,onbekend*onbekend,ok,,ok 2023-05-12,ok 2023-05-12,
 Sam,meubels,2017-0226,enkelvoudig object,publiek,"(beschrijving) - Enigszins verwant aan ensemble Hobé – Pompe, maar behoort er niet toe, ca. 1910, te bevragen bij Bernadette DL.",WA - ok ,photoshoppen,ok,ok,2017-0226$1,"Sneyers, Léon*onbekend",,,,,
 Sam,"Hankar, Paul;meubels",2017-0228,enkelvoudig object,publiek,ok,WA - ok ,nieuwe foto,x,,,"Hankar, Paul*onbekend",ok,,,,
@@ -6378,7 +6370,7 @@ Sam,art nouveau;meubels,3148,enkelvoudig object,publiek,ok,WA - ok ,,ok,ok,3148,
 Sam,meubels,3150_A,enkelvoudige object,publiek,ok,WA - ok,photoshoppen,ok,ok,3150_A$1,"Van huffel, Albert*L'Art Décoratif Céline Dangotte",ok,,ok 2023-03-31,ok 2023-03-31,
 Sam,meubels,3150_B,deel,publiek,ok,WA - ok,foto draaien,ok,groot genoeg?,3150_B,"Van huffel, Albert*onbekend*L'Art Décoratif Céline Dangotte",ok,,ok 2023-03-31,ok 2023-03-31,
 Sam,meubels,3150_C,deel,publiek,ok,WA - ok,foto draaien,ok,ok,3150_C,"Van huffel, Albert*L'Art Décoratif Céline Dangotte",ok,,ok 2023-03-31,ok 2023-03-31,
-Sam,meubels,3151,enkelvoudig object,publiek,(GHE) opschrift,WA - ok ,,ok,ok,3151,"Dumas, Paul-Alexandre*Dumas, Paul-Alexandre",ok,,,,
+Sam,meubels,3151,enkelvoudig object,publiek,ok,WA - ok ,,ok,ok,3151,"Dumas, Paul-Alexandre*Dumas, Paul-Alexandre",ok,,,,
 Sam,Chapuis-Thonet-Kohn;meubels,3168,enkelvoudig object,publiek,ok,WA - OK,ok,ok,ok,3168,"Thonet, Michael*Gebrüder Thonet",ok,,ok 2022-08-02,ok 2022-09-29,
 Sam,meubels,3169,enkelvoudige object,publiek,ok,WA - ok,bewerken; ok,ok,ok,3169$2,"Van huffel, Albert*L'Art Décoratif Céline Dangotte",ok,,ok 2023-05-12,ok 2023-05-12,
 Sam,meubels,3172,enkelvoudige object,publiek,ok,WA - ok,bewerken; ok,ok,,3172$2,"Van huffel, Albert*L'Art Décoratif Céline Dangotte",ok,,ok 2023-05-12,ok 2023-05-12,
@@ -6399,7 +6391,7 @@ Sam,"Hankar, Paul;meubels",3395,enkelvoudig object,publiek,"beschrijving,  dater
 Sam,"Hankar, Paul;meubels",3398,enkelvoudig object,publiek,ok,WA - ok ,,ok,ok,3398,"Hankar, Paul*onbekend",ok,,ok 2023-02-01,ok 2023-02-01,
 Sam,"Hankar, Paul;meubels",3399,enkelvoudig object,publiek,datering,WA - ok ,achtergrond aanpassen,ok,,3399$1,"Hankar, Paul*onbekend",ok,,,,
 Sam,"Hankar, Paul;meubels",3400,enkelvoudig object,publiek,ok,WA - ok ,achtergrond aanpassen,x,,,"Hankar, Paul*onbekend",ok,,,,
-Sam,"Hankar, Paul;meubels",3401,enkelvoudig object,publiek,plannenschuifjes vanbinnen? beschrijving (MB) - foto open?,WA - ok ,foto onscherp,x,,3401$3,"Hankar, Paul*onbekend",ok,,,,
+Sam,"Hankar, Paul;meubels",3401,enkelvoudig object,publiek,ok,WA - ok ,foto onscherp,x,,3401$3,"Hankar, Paul*onbekend",ok,,,,
 Sam,meubels,3403_0-3,set,publiek,ok,WA - ok,bewerken,ok,,3403_0-3$1,"Van huffel, Albert*L'Art Décoratif Céline Dangotte",ok,,ok 2023-03-31,ok 2023-03-31,
 Sam,meubels,3403_1-3,enkelvoudige object,niet-publiek,ok,WA - ok,bewerken,ok,,3403_1-3$1,"Van huffel, Albert*L'Art Décoratif Céline Dangotte",ok,,ok 2023-03-31,nvt,
 Sam,meubels,3403_2-3,enkelvoudige object,niet-publiek,ok,WA - ok,bewerken,ok,,3403_2-3$1,"Van huffel, Albert*L'Art Décoratif Céline Dangotte",ok,,ok 2023-03-31,nvt,
@@ -6428,7 +6420,7 @@ Sam,"Hobé, Georges;meubels",DMG_T_01029_ORANJE,deel,niet-publiek,ok,ok,ok,ok,ok
 Sam,meubels,DMG_T_01206_ORANJE,,publiek,te weinig info,,nieuwe foto,x,,,,,,,,
 Sam,meubels,FH-0028,enkelvoudig object,publiek,ok,WA - ok,ok,ok,ok,FH-0028,"Serrurier-Bovy, Gustave*Serrurier & Cie",ok,,ok 2023-05-12,ok 2023-05-12,
 Sam,"Serrurier-Bovy, Gustave;meubels",FH-0042,enkelvoudig object,publiek,ok,WA - ok,ok,ok,ok,FH-0042,"Serrurier-Bovy, Gustave*Serrurier & Cie",ok,,ok 2023-05-12,ok 2023-05-12,
-Sam,meubels,FH-0061,enkelvoudig object,publiek,(GHE) nummer?,WA - ok,nieuwe foto,x,,,Maison Franck Frères*Maison Franck Frères,,,,,
+Sam,meubels,FH-0061,enkelvoudig object,publiek,ok,WA - ok,nieuwe foto,x,,,Maison Franck Frères*Maison Franck Frères,,,,,
 Sam,art nouveau;Chapuis-Thonet-Kohn;meubels,FH-0067,enkelvoudig object,publiek,ok,WA - ok ,foto met kussens,ok,ok,FH-0067$1,"Hoffmann, Josef*Jacob & Josef Kohn",ok,Josef Hoffmann,ok 2023-02-27,ok 2023-02-27,
 Sam,meubels,FH-0083,enkelvoudig object,publiek,ok,WA - ok ,,x,,FH-0083$1,"van de Velde, Henry*Henry van de Velde, Société Anonyme. Industries d'art et d'ornementation",,,,,
 Sam,"Hankar, Paul;meubels",IB-0033,enkelvoudig object,publiek,ok,WA - ok,ok,ok,,IB-0033$3,"Hankar, Paul*onbekend",ok,,ok 2023-02-01,ok 2023-02-01,
@@ -8203,47 +8195,47 @@ Reinout,telecommunicatie,DMG_T_00751_ORANJE,enkelvoudig object,publiek,ok,,ok,ok
 Reinout,telecommunicatie,DMG_T_00741_ORANJE,enkelvoudig object,publiek,ok,,ok,ok,ok,DMG_T_00741_ORANJE$1,Wega,ok,,ok 2023-02-01,ok 2023-02-01,
 Reinout,telecommunicatie,SCH-0120,,publiek,ok,,foto te nemen,x,,,"Starck, Philippe*Thomson",ok,Philippe Starck,,,
 ,,,,,,,,,,,#N/A,,,,,
-Eva VR,nieuwe aanwinsten,2016-0001_0-4,,,,,,,,,"Willenz, Sylvain*",Thijs,,,,
+Eva VR,nieuwe aanwinsten,2016-0001_0-4,,,,,,,,,"Willenz, Sylvain*",,,,,rechtenklaring Thijs
 Eva VR,nieuwe aanwinsten,2016-0001_1-4,,,,,,,,,"Willenz, Sylvain*",,,,,
 Eva VR,nieuwe aanwinsten,2016-0001_2-4,,,,,,,,,"Willenz, Sylvain*",,,,,
 Eva VR,nieuwe aanwinsten,2016-0001_3-4,,,,,,,,,"Willenz, Sylvain*",,,,,
 Eva VR,nieuwe aanwinsten,2016-0001_4-4,,,,,,,,,"Willenz, Sylvain*",,,,,
 Eva VR,nieuwe aanwinsten,2016-0002,,,,,,,,,"Van Loocke, Antoine*Knifeforging",,,,,
-Eva VR,nieuwe aanwinsten,2016-0003,,,,,,,,,"Vos, Roderick*Koninklijke Tichelaar Makkum",Thijs,,,,
-Eva VR,nieuwe aanwinsten,2016-0004_0-2,,,,,,,,,"Bautier, Marina*De La Espada",Thijs,,,,
+Eva VR,nieuwe aanwinsten,2016-0003,,,,,,,,,"Vos, Roderick*Koninklijke Tichelaar Makkum",,,,,rechtenklaring Thijs
+Eva VR,nieuwe aanwinsten,2016-0004_0-2,,,,,,,,,"Bautier, Marina*De La Espada",,,,,rechtenklaring Thijs
 Eva VR,nieuwe aanwinsten,2016-0004_1-2,,,,,,,,,"Bautier, Marina*De La Espada",,,,,
 Eva VR,nieuwe aanwinsten,2016-0004_2-2,,,,,,,,,"Bautier, Marina*De La Espada",,,,,
 Eva VR,nieuwe aanwinsten,2016-0005_1,,,,,,,,,Chevalier-Masson*51N4E,,,,,
 Eva VR,nieuwe aanwinsten,2016-0005_2,,,,,,,,,Chevalier-Masson*51N4E,,,,,
 Eva VR,nieuwe aanwinsten,2016-0006,,,,,,,,,"Chevalier-Masson*Chevalier, Eric*Masson, Anne*Steverlynck, Diane",,,,,
 Eva VR,nieuwe aanwinsten,2016-0007,,,,,,,,,"Baas, Maarten",,,,,
-Eva VR,nieuwe aanwinsten,2016-0008,,,,,,,,,"Gernay, Damien",Thijs,,,,
-Eva VR,nieuwe aanwinsten,2016-0009,,,,,,,,,"Hamacher, Kaspar*Hamacher, Kaspar",Thijs,,,,
+Eva VR,nieuwe aanwinsten,2016-0008,,,,,,,,,"Gernay, Damien",,,,,rechtenklaring Thijs
+Eva VR,nieuwe aanwinsten,2016-0009,,,,,,,,,"Hamacher, Kaspar*Hamacher, Kaspar",,,,,rechtenklaring Thijs
 Eva VR,nieuwe aanwinsten,2016-0011,,,,,,,,,"Lachaert, Sofie*d'Hanis, Luc",,,,,
 Eva VR,nieuwe aanwinsten,2016-0012,,,,,,,,,"Lachaert, Sofie*d'Hanis, Luc",,,,,
-Eva VR,nieuwe aanwinsten,2016-0013,,,,,,,,,"Somers, Wieki*van den Berg, Dylan*Studio Wieki Somers*Cor Unum",Thijs,,,,
-Eva VR,nieuwe aanwinsten,2016-0014,,,,,,,,,"van der Wiel, Jólan*van der Wiel, Jólan",Thijs,,,,
-Eva VR,nieuwe aanwinsten,2016-0015,,,,,,,,,"van Eijk, Niels*van der Lubbe, Miriam",Thijs,,,,
-Eva VR,nieuwe aanwinsten,2016-0016,,,,,,,,,"Vander Kooij, Dirk*Vander Kooij, Dirk",Thijs,,,,
-Eva VR,nieuwe aanwinsten,2016-0017,,,,,,,,,Unfold,Thijs,,,,
-Eva VR,nieuwe aanwinsten,2016-0018,,,,,,,,,"Ramael, Luc*Prandina",Thijs,,,,
-Eva VR,nieuwe aanwinsten,2016-0019_0-2,,,,,,,,,"Wand, Jeroen",Thijs,,,,
+Eva VR,nieuwe aanwinsten,2016-0013,,,,,,,,,"Somers, Wieki*van den Berg, Dylan*Studio Wieki Somers*Cor Unum",,,,,rechtenklaring Thijs
+Eva VR,nieuwe aanwinsten,2016-0014,,,,,,,,,"van der Wiel, Jólan*van der Wiel, Jólan",,,,,rechtenklaring Thijs
+Eva VR,nieuwe aanwinsten,2016-0015,,,,,,,,,"van Eijk, Niels*van der Lubbe, Miriam",,,,,rechtenklaring Thijs
+Eva VR,nieuwe aanwinsten,2016-0016,,,,,,,,,"Vander Kooij, Dirk*Vander Kooij, Dirk",,,,,rechtenklaring Thijs
+Eva VR,nieuwe aanwinsten,2016-0017,,,,,,,,,Unfold,,,,,rechtenklaring Thijs
+Eva VR,nieuwe aanwinsten,2016-0018,,,,,,,,,"Ramael, Luc*Prandina",,,,,rechtenklaring Thijs
+Eva VR,nieuwe aanwinsten,2016-0019_0-2,,,,,,,,,"Wand, Jeroen",,,,,rechtenklaring Thijs
 Eva VR,nieuwe aanwinsten,2016-0019_1-2,,,,,,,,,"Wand, Jeroen",,,,,
 Eva VR,nieuwe aanwinsten,2016-0019_2-2,,,,,,,,,"Wand, Jeroen",,,,,
-Eva VR,nieuwe aanwinsten,2016-0020,,,,,,,,,Unfold*Materialise*AJETO*Factum Arte,Thijs,,,,
+Eva VR,nieuwe aanwinsten,2016-0020,,,,,,,,,Unfold*Materialise*AJETO*Factum Arte,,,,,rechtenklaring Thijs
 Eva VR,nieuwe aanwinsten,2016-0021_0-2,,,,,,,,,"Hendrickx, Alfred*Belform",,,,,
 Eva VR,nieuwe aanwinsten,2016-0021_1-2,,,,,,,,,"Hendrickx, Alfred*Belform",,,,,
 Eva VR,nieuwe aanwinsten,2016-0021_2-2,,,,,,,,,"Hendrickx, Alfred*Belform",,,,,
 Eva VR,nieuwe aanwinsten,2016-0022,,,,,,,,,"Hendrickx, Alfred*Belform",,,,,
 Eva VR,nieuwe aanwinsten,2016-0023,,,,,,,,,"Hendrickx, Alfred*Meysmans, Willy*Belform",,,,,
-Eva VR,nieuwe aanwinsten,2016-0024,,,,,,,,,"Taverniers, R.",Thijs,,,,
-Eva VR,nieuwe aanwinsten,2016-0025_0-3,,,,,,,,,"Merckx-Verellen, Victor",Thijs,,,,
+Eva VR,nieuwe aanwinsten,2016-0024,,,,,,,,,"Taverniers, R.",,,,,rechtenklaring Thijs
+Eva VR,nieuwe aanwinsten,2016-0025_0-3,,,,,,,,,"Merckx-Verellen, Victor",,,,,rechtenklaring Thijs
 Eva VR,nieuwe aanwinsten,2016-0025_1-3,,,,,,,,,"Merckx-Verellen, Victor",,,,,
 Eva VR,nieuwe aanwinsten,2016-0025_2-3,,,,,,,,,"Merckx-Verellen, Victor",,,,,
 Eva VR,nieuwe aanwinsten,2016-0025_3-3,,,,,,,,,"Merckx-Verellen, Victor",,,,,
-Eva VR,nieuwe aanwinsten,2016-0026,,,,,,,,,"Wanders, Marcel*Flos",Thijs,,,,
-Eva VR,nieuwe aanwinsten,2016-0027,,,,,,,,,"Gilles, Alain*O'SUN",Thijs,,,,
-Eva VR,nieuwe aanwinsten,2016-0028,,,,,,,,,Pars Pro Toto*Hoppop-Dorel,Thijs,,,,
+Eva VR,nieuwe aanwinsten,2016-0026,,,,,,,,,"Wanders, Marcel*Flos",,,,,rechtenklaring Thijs
+Eva VR,nieuwe aanwinsten,2016-0027,,,,,,,,,"Gilles, Alain*O'SUN",,,,,rechtenklaring Thijs
+Eva VR,nieuwe aanwinsten,2016-0028,,,,,,,,,Pars Pro Toto*Hoppop-Dorel,,,,,rechtenklaring Thijs
 Eva VR,nieuwe aanwinsten,2016-0029_0-3,,,,,,,,,Maison Marie Mees Cathérine Biasino,,,,,
 Eva VR,nieuwe aanwinsten,2016-0029_1-3_1,,,,,,,,,Maison Marie Mees Cathérine Biasino,,,,,
 Eva VR,nieuwe aanwinsten,2016-0029_1-3_2,,,,,,,,,Maison Marie Mees Cathérine Biasino,,,,,
@@ -8259,41 +8251,41 @@ Eva VR,nieuwe aanwinsten,2016-0031_0-2,,,,,,,,,"Van Hee, Marie-José*",,,,,
 Eva VR,nieuwe aanwinsten,2016-0031_1-2,,,,,,,,,onbekend*onbekend,,,,,
 Eva VR,nieuwe aanwinsten,2016-0031_2-2,,,,,,,,,onbekend*onbekend,,,,,
 Eva VR,nieuwe aanwinsten,2016-0032,,,,,,,,,"Jacobsen, Arne*Fritz Hansen",aangevraagd,Arne Jacobsen,,,
-Eva VR,nieuwe aanwinsten,2016-0034_0-6,,,,,,,,,"Häberli, Alfredo*Iittala",Thijs,,,,
+Eva VR,nieuwe aanwinsten,2016-0034_0-6,,,,,,,,,"Häberli, Alfredo*Iittala",,,,,rechtenklaring Thijs
 Eva VR,nieuwe aanwinsten,2016-0034_1-6,,,,,,,,,"Häberli, Alfredo*Iittala",,,,,
 Eva VR,nieuwe aanwinsten,2016-0034_2-6,,,,,,,,,"Häberli, Alfredo*Iittala",,,,,
 Eva VR,nieuwe aanwinsten,2016-0034_3-6,,,,,,,,,"Häberli, Alfredo*Iittala",,,,,
 Eva VR,nieuwe aanwinsten,2016-0034_4-6,,,,,,,,,"Häberli, Alfredo*Iittala",,,,,
 Eva VR,nieuwe aanwinsten,2016-0034_5-6,,,,,,,,,"Häberli, Alfredo*Iittala",,,,,
 Eva VR,nieuwe aanwinsten,2016-0034_6-6,,,,,,,,,"Häberli, Alfredo*Iittala",,,,,
-Eva VR,nieuwe aanwinsten,2016-0035,,,,,,,,,"Rondelez, Katrien",Thijs,,,,
+Eva VR,nieuwe aanwinsten,2016-0035,,,,,,,,,"Rondelez, Katrien",,,,,rechtenklaring Thijs
 Eva VR,nieuwe aanwinsten,2016-0036,,,,,,,,,"Dewez, Nathalie*BISlighting",ok,Nathalie Dewez,,,
-Eva VR,nieuwe aanwinsten,2016-0037,,,,,,,,,Casimir,Thijs,,,,
-Eva VR,nieuwe aanwinsten,2016-0038,,,,,,,,,"De Bruycker, Tania",Thijs,,,,
-Eva VR,nieuwe aanwinsten,2016-0039,,,,,,,,,"De Pelsmacker, Hans",Thijs,,,,
-Eva VR,nieuwe aanwinsten,2016-0042,,,,,,,,,"Willenz, Sylvain",Thijs,,,,
-Eva VR,nieuwe aanwinsten,2016-0043,,,,,,,,,"Berteau, Alain*Bulo",Thijs,,,,
-Eva VR,nieuwe aanwinsten,2016-0044,,,,,,,,,"Sijmons, Erik*Samsonite",Thijs,,,,
-Eva VR,nieuwe aanwinsten,2017-0003,,,,,,,,,"De Backer, Pascale*Climar Lighting",Thijs,,,,
-Eva VR,nieuwe aanwinsten,2017-0015,,,,,,,,,"Dark*Duffeleer, Anthony",Thijs,,,,
-Eva VR,nieuwe aanwinsten,2017-0017,,,,,,,,,"Poletti, Guglielmo",Thijs,,,,
-Eva VR,nieuwe aanwinsten,2017-0018,,,,,,,,,"Monnens, Alain",Thijs,,,,
-Eva VR,nieuwe aanwinsten,2017-0019,,,,,,,,,,Thijs,,,,
-Eva VR,nieuwe aanwinsten,2017-0020,,,,,,,,,,Thijs,,,,
-Eva VR,nieuwe aanwinsten,2017-0021,,,,,,,,,"Melis, Jan*Oostrum, Ben*Dark",Thijs,,,,
+Eva VR,nieuwe aanwinsten,2016-0037,,,,,,,,,Casimir,,,,,rechtenklaring Thijs
+Eva VR,nieuwe aanwinsten,2016-0038,,,,,,,,,"De Bruycker, Tania",,,,,rechtenklaring Thijs
+Eva VR,nieuwe aanwinsten,2016-0039,,,,,,,,,"De Pelsmacker, Hans",,,,,rechtenklaring Thijs
+Eva VR,nieuwe aanwinsten,2016-0042,,,,,,,,,"Willenz, Sylvain",,,,,rechtenklaring Thijs
+Eva VR,nieuwe aanwinsten,2016-0043,,,,,,,,,"Berteau, Alain*Bulo",,,,,rechtenklaring Thijs
+Eva VR,nieuwe aanwinsten,2016-0044,,,,,,,,,"Sijmons, Erik*Samsonite",,,,,rechtenklaring Thijs
+Eva VR,nieuwe aanwinsten,2017-0003,,,,,,,,,"De Backer, Pascale*Climar Lighting",,,,,rechtenklaring Thijs
+Eva VR,nieuwe aanwinsten,2017-0015,,,,,,,,,"Dark*Duffeleer, Anthony",,,,,rechtenklaring Thijs
+Eva VR,nieuwe aanwinsten,2017-0017,,,,,,,,,"Poletti, Guglielmo",,,,,rechtenklaring Thijs
+Eva VR,nieuwe aanwinsten,2017-0018,,,,,,,,,"Monnens, Alain",,,,,rechtenklaring Thijs
+Eva VR,nieuwe aanwinsten,2017-0019,,,,,,,,,Dark*Co Twee,,,,,rechtenklaring Thijs
+Eva VR,nieuwe aanwinsten,2017-0020,,,,,,,,,"Dark*Vanooteghem, Peter",,,,,rechtenklaring Thijs
+Eva VR,nieuwe aanwinsten,2017-0021,,,,,,,,,"Melis, Jan*Oostrum, Ben*Dark",,,,,rechtenklaring Thijs
 Eva VR,nieuwe aanwinsten,2017-0022,,,,,,,,,"Dewez, Nathalie*BISlighting",ok,Nathalie Dewez,,,
 Eva VR,nieuwe aanwinsten,2017-0023,,,,,,,,,"Dewez, Nathalie*BISlighting",ok,Nathalie Dewez,,,
-Eva VR,nieuwe aanwinsten,2017-0024,,,,,,,,,"Venlet, Danny",Thijs,,,,
-Eva VR,nieuwe aanwinsten,2017-0025_0-2,,,,,,,,,MaisonCaro,Thijs,,,,
+Eva VR,nieuwe aanwinsten,2017-0024,,,,,,,,,#N/A,,,,,rechtenklaring Thijs
+Eva VR,nieuwe aanwinsten,2017-0025_0-2,,,,,,,,,MaisonCaro,,,,,rechtenklaring Thijs
 Eva VR,nieuwe aanwinsten,2017-0025_1-2,,,,,,,,,MaisonCaro,,,,,
 Eva VR,nieuwe aanwinsten,2017-0025_2-2,,,,,,,,,MaisonCaro,,,,,
 Eva VR,nieuwe aanwinsten,2017-0027,,,,,,,,,"Jacobsen, Arne*Hansen, Fritz",aangevraagd,Arne Jacobsen,,,
-Eva VR,nieuwe aanwinsten,2017-0028,,,,,,,,,"Laleman, Lut",Thijs,,,,
-Eva VR,nieuwe aanwinsten,2017-0029,,,,,,,,,Casimir,Thijs,,,,
-Eva VR,nieuwe aanwinsten,2017-0030,,,,,,,,,Casimir,Thijs,,,,
+Eva VR,nieuwe aanwinsten,2017-0028,,,,,,,,,"Laleman, Lut",,,,,rechtenklaring Thijs
+Eva VR,nieuwe aanwinsten,2017-0029,,,,,,,,,Casimir,,,,,rechtenklaring Thijs
+Eva VR,nieuwe aanwinsten,2017-0030,,,,,,,,,Casimir,,,,,rechtenklaring Thijs
 Eva VR,nieuwe aanwinsten,2017-0031,,,,,,,,,"Van Loocke, Antoine*Vanhee, Clem*L'ecluse, Ciska",,,,,
 Eva VR,nieuwe aanwinsten,2017-0032,,,,,,,,,"Van Loocke, Antoine*Vanhee, Clem*L'ecluse, Ciska",,,,,
-Eva VR,nieuwe aanwinsten,2017-0033,,,,,,,,,"Jouin, Patrick*Materialise",Thijs,,,,
+Eva VR,nieuwe aanwinsten,2017-0033,,,,,,,,,"Jouin, Patrick*Materialise",,,,,"rechtenklaring Thijs (best ook Materialise bevragen, gezien belangrijke rol...?)"
 Eva VR,nieuwe aanwinsten,2017-0034,,,,,,,,,"Gevers, Christophe",,,,,
 Eva VR,nieuwe aanwinsten,2017-0035_0-2,,,,,,,,,"Putzeys, César",,,,,
 Eva VR,nieuwe aanwinsten,2017-0035_1-2,,,,,,,,,"Putzeys, César",,,,,
@@ -8320,7 +8312,7 @@ Eva VR,nieuwe aanwinsten,2017-0039_10-13,,,,,,,,,"Lachaert, Sofie",,,,,
 Eva VR,nieuwe aanwinsten,2017-0039_11-13,,,,,,,,,"Lachaert, Sofie",,,,,
 Eva VR,nieuwe aanwinsten,2017-0039_12-13,,,,,,,,,"Lachaert, Sofie",,,,,
 Eva VR,nieuwe aanwinsten,2017-0039_13-13,,,,,,,,,"Lachaert, Sofie",,,,,
-Eva VR,nieuwe aanwinsten,2017-0040,,,,,,,,,"De Bruycker, Tania*MdSt",Thijs,,,,
+Eva VR,nieuwe aanwinsten,2017-0040,,,,,,,,,"De Bruycker, Tania*MdSt",,,,,rechtenklaring Thijs
 Eva VR,nieuwe aanwinsten,2017-0041_0-4,,,,,,,,,"Wolfers, Philippe",ok,,,,
 Eva VR,nieuwe aanwinsten,2017-0041_1-4,,,,,,,,,"Wolfers, Philippe",ok,,,,
 Eva VR,nieuwe aanwinsten,2017-0041_2-4,,,,,,,,,"Wolfers, Philippe",ok,,,,
@@ -8328,12 +8320,12 @@ Eva VR,nieuwe aanwinsten,2017-0041_3-4,,,,,,,,,"Wolfers, Philippe",ok,,,,
 Eva VR,nieuwe aanwinsten,2017-0041_4-4,,,,,,,,,"Wolfers, Philippe",ok,,,,
 Eva VR,nieuwe aanwinsten,2017-0056,,,,,,,,,"Van Hoe, Marc*Etrotex",,,,,
 Eva VR,nieuwe aanwinsten,2018-0001,,,,,,,,,Le Corbusier,,,,,
-Eva VR,nieuwe aanwinsten,2018-0006,,,,,,,,,mischer'traxler studio,Thijs,,,,
+Eva VR,nieuwe aanwinsten,2018-0006,,,,,,,,,mischer'traxler studio,,,,,rechtenklaring Thijs
 Eva VR,nieuwe aanwinsten,2018-0007_0-3,,,,,,,,,"Van Loocke, Antoine",,,,,
 Eva VR,nieuwe aanwinsten,2018-0007_1-3,,,,,,,,,"Van Loocke, Antoine",,,,,
 Eva VR,nieuwe aanwinsten,2018-0007_2-3,,,,,,,,,"Van Loocke, Antoine",,,,,
 Eva VR,nieuwe aanwinsten,2018-0007_3-3,,,,,,,,,"Van Loocke, Antoine",,,,,
-Eva VR,nieuwe aanwinsten,2018-0008_0-8,,,,,,,,,"Vandeweghe, Octave",Thijs,,,,
+Eva VR,nieuwe aanwinsten,2018-0008_0-8,,,,,,,,,"Vandeweghe, Octave",,,,,rechtenklaring Thijs
 Eva VR,nieuwe aanwinsten,2018-0008_1-8,,,,,,,,,"Vandeweghe, Octave",,,,,
 Eva VR,nieuwe aanwinsten,2018-0008_2-8,,,,,,,,,"Vandeweghe, Octave",,,,,
 Eva VR,nieuwe aanwinsten,2018-0008_3-8,,,,,,,,,"Vandeweghe, Octave",,,,,
@@ -8346,16 +8338,16 @@ Eva VR,nieuwe aanwinsten,2018-0009_0-2,,,,,,,,,"Van Loocke, Antoine*El-Asmar, Ne
 Eva VR,nieuwe aanwinsten,2018-0009_1-2,,,,,,,,,"Van Loocke, Antoine*El-Asmar, Nedda",,,,,
 Eva VR,nieuwe aanwinsten,2018-0009_2-2,,,,,,,,,"Van Loocke, Antoine*El-Asmar, Nedda",,,,,
 Eva VR,nieuwe aanwinsten,2018-0010,,,,,,,,,"Van der Biest, Francine",,,,,
-Eva VR,nieuwe aanwinsten,2018-0012,,,,,,,,,Glithero,Thijs,,,,
-Eva VR,nieuwe aanwinsten,2018-0013,,,,,,,,,"Bakker, Aldo*Graas, Rutger",Thijs,,,,
+Eva VR,nieuwe aanwinsten,2018-0012,,,,,,,,,,,,,,rechtenklaring Thijs
+Eva VR,nieuwe aanwinsten,2018-0013,,,,,,,,,"Bakker, Aldo*Graas, Rutger",,,,,rechtenklaring Thijs
 Eva VR,nieuwe aanwinsten,2018-0014,,,,,,,,,"Van Loocke, Antoine",,,,,
-Eva VR,nieuwe aanwinsten,2018-0015,,,,,,,,,"Lahidji, Roxane",Thijs,,,,
-Eva VR,nieuwe aanwinsten,2018-0016,,,,,,,,,"Rowley, Sophie",Thijs,,,,
-Eva VR,nieuwe aanwinsten,2018-0017,,,,,,,,,"Orjola, Tamara",Thijs,,,,
+Eva VR,nieuwe aanwinsten,2018-0015,,,,,,,,,"Lahidji, Roxane",,,,,rechtenklaring Thijs
+Eva VR,nieuwe aanwinsten,2018-0016,,,,,,,,,"Rowley, Sophie",,,,,rechtenklaring Thijs
+Eva VR,nieuwe aanwinsten,2018-0017,,,,,,,,,"Orjola, Tamara",,,,,rechtenklaring Thijs
 Eva VR,nieuwe aanwinsten,2018-0019_0-2,,,,,,,,,"Vanden Berghe, Bob*Van Den Berghe-Pauvers",ok,Bob Vanden Berghe,,,
 Eva VR,nieuwe aanwinsten,2018-0019_1-2,,,,,,,,,"Vanden Berghe, Bob*Van Den Berghe-Pauvers",ok,Bob Vanden Berghe,,,
 Eva VR,nieuwe aanwinsten,2018-0019_2-2,,,,,,,,,"Vanden Berghe, Bob*Van Den Berghe-Pauvers",ok,Bob Vanden Berghe,,,
-Eva VR,nieuwe aanwinsten,2018-0020,,,,,,,,,"Lamb, Max",Thijs,,,,
+Eva VR,nieuwe aanwinsten,2018-0020,,,,,,,,,"Lamb, Max",,,,,rechtenklaring Thijs
 Eva VR,nieuwe aanwinsten,2018-0022_00,,,,,,,,,"Van Steenbergen, Eduard",ok,,,,
 Eva VR,nieuwe aanwinsten,2018-0022_01,,,,,,,,,"Van Steenbergen, Eduard",ok,,,,
 Eva VR,nieuwe aanwinsten,2018-0022_02,,,,,,,,,"Van Steenbergen, Eduard",ok,,,,
@@ -8373,12 +8365,12 @@ Eva VR,nieuwe aanwinsten,2018-0022_13,,,,,,,,,"Van Steenbergen, Eduard",ok,,,,
 Eva VR,nieuwe aanwinsten,2018-0022_14,,,,,,,,,"Van Steenbergen, Eduard",ok,,,,
 Eva VR,nieuwe aanwinsten,2018-0022_15,,,,,,,,,"Van Steenbergen, Eduard",ok,,,,
 Eva VR,nieuwe aanwinsten,2018-0022_16,,,,,,,,,"Van Steenbergen, Eduard",ok,,,,
-Eva VR,nieuwe aanwinsten,2018-0023_0-4,,,,,,,,,DWA,Thijs,,,,
+Eva VR,nieuwe aanwinsten,2018-0023_0-4,,,,,,,,,DWA,,,,,rechtenklaring Thijs
 Eva VR,nieuwe aanwinsten,2018-0023_1-4,,,,,,,,,DWA,,,,,
 Eva VR,nieuwe aanwinsten,2018-0023_2-4,,,,,,,,,DWA,,,,,
 Eva VR,nieuwe aanwinsten,2018-0023_3-4,,,,,,,,,DWA,,,,,
 Eva VR,nieuwe aanwinsten,2018-0023_4-4,,,,,,,,,DWA,,,,,
-Eva VR,nieuwe aanwinsten,2018-0024,,,,,,,,,Nendo,Thijs,,,,
+Eva VR,nieuwe aanwinsten,2018-0024,,,,,,,,,Nendo,,,,,rechtenklaring Thijs
 Eva VR,nieuwe aanwinsten,2018-0363_0-3,,,,,,,,,,,,,,
 Eva VR,nieuwe aanwinsten,2018-0363_1-3,,,,,,,,,,,,,,
 Eva VR,nieuwe aanwinsten,2018-0363_2-3,,,,,,,,,,,,,,
@@ -8390,11 +8382,11 @@ Eva VR,nieuwe aanwinsten,2018-0423_2-4,,,,,,,,,"Gyselbrecht, Martine",,,,,
 Eva VR,nieuwe aanwinsten,2018-0423_3-4,,,,,,,,,"Gyselbrecht, Martine",,,,,
 Eva VR,nieuwe aanwinsten,2018-0423_4-4,,,,,,,,,"Gyselbrecht, Martine",,,,,
 Eva VR,nieuwe aanwinsten,2019-0001,,,,,,,,,"Bergmans, Jacques",,,,,
-Eva VR,nieuwe aanwinsten,2019-0002,,,,,,,,,"Holtrop, Anne*Institut Supérieur de Peinture Van der Kelen-Logelain",Thijs,,,,
-Eva VR,nieuwe aanwinsten,2019-0003,,,,,,,,,Nilfisk,Thijs,,,,
+Eva VR,nieuwe aanwinsten,2019-0002,,,,,,,,,"Holtrop, Anne*Institut Supérieur de Peinture Van der Kelen-Logelain",,,,,rechtenklaring Thijs
+Eva VR,nieuwe aanwinsten,2019-0003,,,,,,,,,Nilfisk,,,,,rechtenklaring Thijs
 Eva VR,nieuwe aanwinsten,2019-0004,,,,,,,,,Philips,ok,Philips,,,
-Eva VR,nieuwe aanwinsten,2019-0011,,,,,,,,,"Laureys, Anne Marie*Laureys, Anne Marie",Thijs,,,,
-Eva VR,nieuwe aanwinsten,2019-0012,,,,,,,,,"Murakami, Azusa*Groves, Alexander*Studio Swine",Thijs,,,,
+Eva VR,nieuwe aanwinsten,2019-0011,,,,,,,,,"Laureys, Anne Marie*Laureys, Anne Marie",,,,,rechtenklaring Thijs
+Eva VR,nieuwe aanwinsten,2019-0012,,,,,,,,,"Murakami, Azusa*Groves, Alexander*Studio Swine",,,,,rechtenklaring Thijs
 Eva VR,nieuwe aanwinsten,2019-0014_0-2,,,,,,,,,"Ibou, Paul",ok,Paul Ibou,,,
 Eva VR,nieuwe aanwinsten,2019-0014_1-2,,,,,,,,,"Ibou, Paul",ok,Paul Ibou,,,
 Eva VR,nieuwe aanwinsten,2019-0014_2-2,,,,,,,,,"Ibou, Paul",ok,Paul Ibou,,,
@@ -8445,7 +8437,7 @@ Eva VR,nieuwe aanwinsten,2019-0049_0-2,,,,,,,,,"Van Loocke, Antoine*Van Loocke, 
 Eva VR,nieuwe aanwinsten,2019-0049_1-2,,,,,,,,,"Van Loocke, Antoine*Van Loocke, Antoine",,,,,
 Eva VR,nieuwe aanwinsten,2019-0049_2-2,,,,,,,,,"Van Loocke, Antoine*Van Loocke, Antoine",,,,,
 Eva VR,nieuwe aanwinsten,2019-0052,,,,,,,,,"Goes, Wim*Lakkerij Verdonck*Casa Argentaurum",,,,,
-Eva VR,nieuwe aanwinsten,2019-0055,,,,,,,,,"Raacke, Peter",Thijs,,,,
+Eva VR,nieuwe aanwinsten,2019-0055,,,,,,,,,"Raacke, Peter",,,,,rechtenklaring Thijs
 Eva VR,nieuwe aanwinsten,2019-0056_0-2,,,,,,,,,"Servranckx, Victor*Aubusson",,,,,
 Eva VR,nieuwe aanwinsten,2019-0056_1-2,,,,,,,,,"Servranckx, Victor*Aubusson",,,,,
 Eva VR,nieuwe aanwinsten,2019-0056_2-2,,,,,,,,,"Servranckx, Victor*Aubusson",,,,,
@@ -8458,8 +8450,8 @@ Eva VR,nieuwe aanwinsten,2020-0005_1-4,,,,,,,,,"Altenloh, Robert",ok,,,,
 Eva VR,nieuwe aanwinsten,2020-0005_2-4,,,,,,,,,"Altenloh, Robert",ok,,,,
 Eva VR,nieuwe aanwinsten,2020-0005_3-4,,,,,,,,,"Altenloh, Robert",ok,,,,
 Eva VR,nieuwe aanwinsten,2020-0005_4-4,,,,,,,,,"Altenloh, Robert",ok,,,,
-Eva VR,nieuwe aanwinsten,2020-0006,,,,,,,,,"Tangelder, Linde Freya*Destroyers Builders",Thijs,,,,
-Eva VR,nieuwe aanwinsten,2020-0007,,,,,,,,,"Schepens, Helena*Schepens, Helena",Thijs,,,,
+Eva VR,nieuwe aanwinsten,2020-0006,,,,,,,,,"Tangelder, Linde Freya*Destroyers Builders",,,,,rechtenklaring Thijs
+Eva VR,nieuwe aanwinsten,2020-0007,,,,,,,,,"Schepens, Helena*Schepens, Helena",,,,,rechtenklaring Thijs
 Eva VR,nieuwe aanwinsten,2020-0008,,,,,,,,,"Van Loocke, Antoine*Van Loocke, Antoine",,,,,
 Eva VR,nieuwe aanwinsten,2020-0009,,,,,,,,,"Van Loocke, Antoine*Van Loocke, Antoine",,,,,
 Eva VR,nieuwe aanwinsten,2020-0010_0-7,,,,,,,,,"Van Loocke, Antoine*Van Loocke, Antoine",,,,,
@@ -8558,14 +8550,14 @@ Eva VR,nieuwe aanwinsten,2020-0024_45-48,,,,,,,,,Val-Saint-Lambert,,,,,
 Eva VR,nieuwe aanwinsten,2020-0024_46-48,,,,,,,,,Val-Saint-Lambert,,,,,
 Eva VR,nieuwe aanwinsten,2020-0024_47-48,,,,,,,,,Val-Saint-Lambert,,,,,
 Eva VR,nieuwe aanwinsten,2020-0024_48-48,,,,,,,,,Val-Saint-Lambert,,,,,
-Eva VR,nieuwe aanwinsten,2020-0025,,,,,,,,,"Silva, Bela",Thijs,,,,
+Eva VR,nieuwe aanwinsten,2020-0025,,,,,,,,,"Silva, Bela",,,,,rechtenklaring Thijs
 Eva VR,nieuwe aanwinsten,2020-0027_0-2,,,,,,,,,"Kieckens, Christian",ok,Christian Kieckens,,,
 Eva VR,nieuwe aanwinsten,2020-0027_1-2,,,,,,,,,"Kieckens, Christian",ok,Christian Kieckens,,,
 Eva VR,nieuwe aanwinsten,2020-0027_2-2,,,,,,,,,"Kieckens, Christian",ok,Christian Kieckens,,,
 Eva VR,nieuwe aanwinsten,2020-0028,,,,,,,,,"Braem, Renaat",,,,,
-Eva VR,nieuwe aanwinsten,2020-0029,,,,,,,,,"Boo, Bram",Thijs,,,,
+Eva VR,nieuwe aanwinsten,2020-0029,,,,,,,,,"Boo, Bram",,,,,rechtenklaring Thijs
 Eva VR,nieuwe aanwinsten,2020-0032,,,,,,,,,"Spaans, Annemie",,,,,
-Eva VR,nieuwe aanwinsten,2020-0033,,,,,,,,,"Vermeersch, Robin",Thijs,,,,
+Eva VR,nieuwe aanwinsten,2020-0033,,,,,,,,,"Vermeersch, Robin",,,,,rechtenklaring Thijs
 Eva VR,nieuwe aanwinsten,2020-0034,,,,,,,,,"Bo Bardi, Lina",,,,,
 Eva VR,nieuwe aanwinsten,2020-0035_00-16,,,,,,,,,Sabena,,,,,
 Eva VR,nieuwe aanwinsten,2020-0035_01-16,,,,,,,,,Sabena*Seltmann Weiden,,,,,
@@ -8600,12 +8592,12 @@ Eva VR,nieuwe aanwinsten,2020-0037_4-4,,,,,,,,,Sabena,,,,,
 Eva VR,nieuwe aanwinsten,2020-0038,,,,,,,,,Sabena*Villeroy & Boch,,,,,
 Eva VR,nieuwe aanwinsten,2020-0039,,,,,,,,,Sabena,,,,,
 Eva VR,nieuwe aanwinsten,2020-0041_0-3,,,,,,,,,"Kieckens, Christian",,,,,
-Eva VR,nieuwe aanwinsten,2021-0001,,,,,,,,,"Allaeys, Philippe",Thijs,,,,
-Eva VR,nieuwe aanwinsten,2021-0003,,,,,,,,,"van Saltbommel, Sofi*van Saltbommel, Sofi",Thijs,,,,
+Eva VR,nieuwe aanwinsten,2021-0001,,,,,,,,,"Allaeys, Philippe",,,,,rechtenklaring Thijs
+Eva VR,nieuwe aanwinsten,2021-0003,,,,,,,,,"van Saltbommel, Sofi*van Saltbommel, Sofi",,,,,rechtenklaring Thijs
 Eva VR,nieuwe aanwinsten,2021-0004,,,,,,,,,"Devriendt, Jos",,,,,
-Eva VR,nieuwe aanwinsten,2021-0007,,,,,,,,,"Urquiola, Patricia*Glas Italia",Thijs,,,,
-Eva VR,nieuwe aanwinsten,2021-0008,,,,,,,,,"Marcelis, Sabine*van Nerven, Brit*Studio Sabine Marcelis",Thijs,,,,
-Eva VR,nieuwe aanwinsten,2021-0009,,,,,,,,,"Shaw, James",Thijs,,,,
+Eva VR,nieuwe aanwinsten,2021-0007,,,,,,,,,"Urquiola, Patricia*Glas Italia",,,,,rechtenklaring Thijs
+Eva VR,nieuwe aanwinsten,2021-0008,,,,,,,,,"Marcelis, Sabine*van Nerven, Brit*Studio Sabine Marcelis",,,,,rechtenklaring Thijs
+Eva VR,nieuwe aanwinsten,2021-0009,,,,,,,,,"Shaw, James",,,,,rechtenklaring Thijs
 Eva VR,nieuwe aanwinsten,2021-0010_0-2,,,,,,,,,"Langaskens, Maurice*Woedstad, Gaston",ok,,,,
 Eva VR,nieuwe aanwinsten,2021-0010_1-2,,,,,,,,,"Langaskens, Maurice*Woedstad, Gaston",ok,,,,
 Eva VR,nieuwe aanwinsten,2021-0010_2-2,,,,,,,,,"Langaskens, Maurice*Langaskens, Maurice",ok,,,,
@@ -8638,10 +8630,10 @@ Eva VR,nieuwe aanwinsten,2021-0013_23-26,,,,,,,,,"Zeisel, Eva*Schramberger Majol
 Eva VR,nieuwe aanwinsten,2021-0013_24-26,,,,,,,,,"Zeisel, Eva*Schramberger Majolika-Fabrik",,,,,
 Eva VR,nieuwe aanwinsten,2021-0013_25-26,,,,,,,,,"Zeisel, Eva*Schramberger Majolika-Fabrik",,,,,
 Eva VR,nieuwe aanwinsten,2021-0013_26-26,,,,,,,,,"Zeisel, Eva*Schramberger Majolika-Fabrik",,,,,
-Eva VR,nieuwe aanwinsten,2021-0014,,,,,,,,,DWA Design Studio*Manuel Coltri,Thijs,,,,
-Eva VR,nieuwe aanwinsten,2021-0015,,,,,,,,,"Spoto, Antonino*Spoto, Antonino",Thijs,,,,
+Eva VR,nieuwe aanwinsten,2021-0014,,,,,,,,,DWA Design Studio*Manuel Coltri,,,,,rechtenklaring Thijs
+Eva VR,nieuwe aanwinsten,2021-0015,,,,,,,,,"Spoto, Antonino*Spoto, Antonino",,,,,rechtenklaring Thijs
 Eva VR,nieuwe aanwinsten,2021-0016,,,,,,,,,"Bouroullec, Ronan*Bouroullec, Erwan",,,,,
-Eva VR,nieuwe aanwinsten,2021-0017,,,,,,,,,"Veerman, Daan",Thijs,,,,
+Eva VR,nieuwe aanwinsten,2021-0017,,,,,,,,,"Veerman, Daan",,,,,rechtenklaring Thijs
 Eva VR,nieuwe aanwinsten,2021-0019_0-6,,,,,,,,,"Van huffel, Albert*Thiery, Henri*Maes (Sint-Amandsberg)",ok,,,,
 Eva VR,nieuwe aanwinsten,2021-0019_1-6,,,,,,,,,"Van huffel, Albert*Thiery, Henri*Maes (Sint-Amandsberg)",ok,,,,
 Eva VR,nieuwe aanwinsten,2021-0019_2-6,,,,,,,,,"Van huffel, Albert*Thiery, Henri*Maes (Sint-Amandsberg)",ok,,,,
@@ -8649,11 +8641,11 @@ Eva VR,nieuwe aanwinsten,2021-0019_3-6,,,,,,,,,"Van huffel, Albert*Thiery, Henri
 Eva VR,nieuwe aanwinsten,2021-0019_4-6,,,,,,,,,"Van huffel, Albert*Thiery, Henri*Maes (Sint-Amandsberg)",ok,,,,
 Eva VR,nieuwe aanwinsten,2021-0019_5-6,,,,,,,,,"Van huffel, Albert*Thiery, Henri*Maes (Sint-Amandsberg)",ok,,,,
 Eva VR,nieuwe aanwinsten,2021-0019_6-6,,,,,,,,,"Van huffel, Albert*Thiery, Henri*Maes (Sint-Amandsberg)",ok,,,,
-Eva VR,nieuwe aanwinsten,2021-0020,,,,,,,,,"Hermans, Linde*Inconcept",Thijs,,,,
-Eva VR,nieuwe aanwinsten,2021-0021,,,,,,,,,"Alvarez, Anton",Thijs,,,,
+Eva VR,nieuwe aanwinsten,2021-0020,,,,,,,,,"Hermans, Linde*Inconcept",,,,,rechtenklaring Thijs
+Eva VR,nieuwe aanwinsten,2021-0021,,,,,,,,,"Alvarez, Anton",,,,,rechtenklaring Thijs
 Eva VR,nieuwe aanwinsten,2021-0022,,,,,,,,,Studio ThusThat,ok,Studio ThusThat,,,
-Eva VR,nieuwe aanwinsten,2021-0023,,,,,,,,,"Meindertsma, Christien",Thijs,,,,
-Eva VR,nieuwe aanwinsten,2021-0024_00-10,,,,,,,,,"Onderbeke, Tim*Onderbeke, Tim*Ponseele, Louisa Maria*Ponseele, Louisa Maria",Thijs,,,,
+Eva VR,nieuwe aanwinsten,2021-0023,,,,,,,,,"Meindertsma, Christien",,,,,rechtenklaring Thijs
+Eva VR,nieuwe aanwinsten,2021-0024_00-10,,,,,,,,,"Onderbeke, Tim*Onderbeke, Tim*Ponseele, Louisa Maria*Ponseele, Louisa Maria",,,,,rechtenklaring Thijs
 Eva VR,nieuwe aanwinsten,2021-0024_01-10,,,,,,,,,"Onderbeke, Tim*Onderbeke, Tim",,,,,
 Eva VR,nieuwe aanwinsten,2021-0024_02-10,,,,,,,,,"Onderbeke, Tim*Onderbeke, Tim",,,,,
 Eva VR,nieuwe aanwinsten,2021-0024_03-10,,,,,,,,,"Onderbeke, Tim*Onderbeke, Tim",,,,,
@@ -8666,7 +8658,7 @@ Eva VR,nieuwe aanwinsten,2021-0024_09-10,,,,,,,,,"Onderbeke, Tim*Onderbeke, Tim"
 Eva VR,nieuwe aanwinsten,2021-0024_10-10,,,,,,,,,"Onderbeke, Tim*Onderbeke, Tim",,,,,
 Eva VR,nieuwe aanwinsten,2021-0025,,,,,,,,,"Vanden Berghe, Bob",,,,,
 Eva VR,nieuwe aanwinsten,2021-0026,,,,,,,,,"Engels, Lucien*onbekend",,,,,
-Eva VR,nieuwe aanwinsten,2021-0027_0-5,,,,,,,,,"Busine, Zéphir*Manufacture de Boussu",Thijs,,,,
+Eva VR,nieuwe aanwinsten,2021-0027_0-5,,,,,,,,,"Busine, Zéphir*Manufacture de Boussu",,,,,rechtenklaring Thijs
 Eva VR,nieuwe aanwinsten,2021-0027_1-5,,,,,,,,,"Busine, Zéphir*Manufacture de Boussu",,,,,
 Eva VR,nieuwe aanwinsten,2021-0027_2-5,,,,,,,,,"Busine, Zéphir*Manufacture de Boussu",,,,,
 Eva VR,nieuwe aanwinsten,2021-0027_3-5,,,,,,,,,"Busine, Zéphir*Manufacture de Boussu",,,,,
@@ -8717,7 +8709,7 @@ Eva VR,nieuwe aanwinsten,2022-0010,,,,,,,,,Connected.Dots,,,,,
 Eva VR,nieuwe aanwinsten,2022-0020_0-2,,,,,,,,,"Van Beirendonck, Walter*Baas, Maarten*Lensvelt",,,,,
 Eva VR,nieuwe aanwinsten,2022-0020_1-2,,,,,,,,,"Van Beirendonck, Walter*Baas, Maarten*Lensvelt",,,,,
 Eva VR,nieuwe aanwinsten,2022-0020_2-2,,,,,,,,,"Van Beirendonck, Walter*Baas, Maarten*Lensvelt",,,,,
-Eva VR,nieuwe aanwinsten,2022-0021,,,,,,,,,"Nevi Pana, Erez",Thijs,,,,
+Eva VR,nieuwe aanwinsten,2022-0021,,,,,,,,,"Nevi Pana, Erez",,,,,rechtenklaring Thijs
 Eva VR,nieuwe aanwinsten,2022-0022_0-4,,,,,,,,,Bataille & ibens*Val-Saint-Lambert,,,,,
 Eva VR,nieuwe aanwinsten,2022-0022_1-4,,,,,,,,,Bataille & ibens*Val-Saint-Lambert,,,,,
 Eva VR,nieuwe aanwinsten,2022-0022_2-4,,,,,,,,,Bataille & ibens*Val-Saint-Lambert,,,,,
@@ -8740,14 +8732,14 @@ Eva VR,nieuwe aanwinsten,2022-0023_13-16,,,,,,,,,,,,,,
 Eva VR,nieuwe aanwinsten,2022-0023_14-16,,,,,,,,,,,,,,
 Eva VR,nieuwe aanwinsten,2022-0023_15-16,,,,,,,,,,,,,,
 Eva VR,nieuwe aanwinsten,2022-0023_16-16,,,,,,,,,"Beetz, Anne*Vandevelde, Titania",,,,,
-Eva VR,nieuwe aanwinsten,2022-0024,,,,,,,,,"Hans, Ineke*Circuform",Thijs,,,,
-Eva VR,nieuwe aanwinsten,2022-0025_0-3,,,,,,,,,"Pompili, Benedetta",Thijs,,,,
+Eva VR,nieuwe aanwinsten,2022-0024,,,,,,,,,"Hans, Ineke*Circuform",,,,,rechtenklaring Thijs
+Eva VR,nieuwe aanwinsten,2022-0025_0-3,,,,,,,,,"Pompili, Benedetta",,,,,rechtenklaring Thijs
 Eva VR,nieuwe aanwinsten,2022-0025_1-3,,,,,,,,,"Pompili, Benedetta",,,,,
 Eva VR,nieuwe aanwinsten,2022-0025_2-3,,,,,,,,,"Pompili, Benedetta",,,,,
 Eva VR,nieuwe aanwinsten,2022-0025_3-3,,,,,,,,,"Pompili, Benedetta",,,,,
-Eva VR,nieuwe aanwinsten,2022-0026,,,,,,,,,"Segerkrantz, Hannah",Thijs,,,,
-Eva VR,nieuwe aanwinsten,2022-0028,,,,,,,,,"Leenders, Anthony",Thijs,,,,
-Eva VR,nieuwe aanwinsten,2022-0031_00-11,,,,,,,,,"Lab AIR*de Kievith, Iris*Piscaer, Annemarie",Thijs,,,,
+Eva VR,nieuwe aanwinsten,2022-0026,,,,,,,,,"Segerkrantz, Hannah",,,,,rechtenklaring Thijs
+Eva VR,nieuwe aanwinsten,2022-0028,,,,,,,,,"Leenders, Anthony",,,,,rechtenklaring Thijs
+Eva VR,nieuwe aanwinsten,2022-0031_00-11,,,,,,,,,"Lab AIR*de Kievith, Iris*Piscaer, Annemarie",,,,,rechtenklaring Thijs
 Eva VR,nieuwe aanwinsten,2022-0031_01-11,,,,,,,,,"Lab AIR*de Kievith, Iris*Piscaer, Annemarie",,,,,
 Eva VR,nieuwe aanwinsten,2022-0031_02-11,,,,,,,,,"Lab AIR*de Kievith, Iris*Piscaer, Annemarie",,,,,
 Eva VR,nieuwe aanwinsten,2022-0031_03-11,,,,,,,,,"Lab AIR*de Kievith, Iris*Piscaer, Annemarie",,,,,
@@ -8759,8 +8751,8 @@ Eva VR,nieuwe aanwinsten,2022-0031_08-11,,,,,,,,,"Lab AIR*de Kievith, Iris*Pisca
 Eva VR,nieuwe aanwinsten,2022-0031_09-11,,,,,,,,,"Lab AIR*de Kievith, Iris*Piscaer, Annemarie",,,,,
 Eva VR,nieuwe aanwinsten,2022-0031_10-11,,,,,,,,,"Lab AIR*de Kievith, Iris*Piscaer, Annemarie",,,,,
 Eva VR,nieuwe aanwinsten,2022-0031_11-11,,,,,,,,,"Lab AIR*de Kievith, Iris*Piscaer, Annemarie",,,,,
-Eva VR,nieuwe aanwinsten,2022-0032,,,,,,,,,BC materials*BC materials,Thijs,,,,
-Eva VR,nieuwe aanwinsten,2022-0033,,,,,,,,,"Tytgat, Veerle*Manoeuvre",Thijs,,,,
+Eva VR,nieuwe aanwinsten,2022-0032,,,,,,,,,BC materials*BC materials,,,,,rechtenklaring Thijs
+Eva VR,nieuwe aanwinsten,2022-0033,,,,,,,,,"Tytgat, Veerle*Manoeuvre",,,,,rechtenklaring Thijs
 Eva VR,nieuwe aanwinsten,2022-0034_0-3,,,,,,,,,"David, Amandine*David, Amandine*Hofman, Esmé*Hofman, Esmé*van Tubergen, Joris*van Tubergen, Joris",,,,,
 Eva VR,nieuwe aanwinsten,2022-0034_1-3,,,,,,,,,"David, Amandine*David, Amandine*Hofman, Esmé*Hofman, Esmé*van Tubergen, Joris*van Tubergen, Joris",,,,,
 Eva VR,nieuwe aanwinsten,2022-0034_2-3,,,,,,,,,"David, Amandine*David, Amandine*van Tubergen, Joris*van Tubergen, Joris",,,,,
@@ -8769,9 +8761,9 @@ Eva VR,nieuwe aanwinsten,2022-0035,,,,,,,,,"Verplanken, Frank*Verplanken, Frank"
 Eva VR,nieuwe aanwinsten,2022-0054_0-2,,,,,,,,,"Engels, Lucien*onbekend",,,,,
 Eva VR,nieuwe aanwinsten,2022-0054_1-2,,,,,,,,,"Engels, Lucien",,,,,
 Eva VR,nieuwe aanwinsten,2022-0054_2-2,,,,,,,,,"Engels, Lucien",,,,,
-Eva VR,nieuwe aanwinsten,2022-0055_0-2,,,,,,,,,"Sabbe, Randoald*Sabbe, Randoald*De Wit, Johan*De Wit, Johan",Thijs,,,,
+Eva VR,nieuwe aanwinsten,2022-0055_0-2,,,,,,,,,"Sabbe, Randoald*Sabbe, Randoald*De Wit, Johan*De Wit, Johan",,,,,rechtenklaring Thijs
 Eva VR,nieuwe aanwinsten,2022-0055_1-2,,,,,,,,,"Sabbe, Randoald*Sabbe, Randoald",,,,,
-Eva VR,nieuwe aanwinsten,2022-0055_2-2,,,,,,,,,"De Wit, Johan*De Wit, Johan",Thijs,,,,
+Eva VR,nieuwe aanwinsten,2022-0055_2-2,,,,,,,,,"De Wit, Johan*De Wit, Johan",,,,,rechtenklaring Thijs
 Eva VR,nieuwe aanwinsten,2022-0056,,,,,,,,,"Van Loocke, Antoine",,,,,
 Eva VR,nieuwe aanwinsten,2022-0087,,,,,,,,,"Bataille, Claire*Ibens, Paul*Bataille & ibens",,,,,
 Eva VR,nieuwe aanwinsten,2022-0088,,,,,,,,,"Branzi, Andrea*Design Gallery Milano",,,,,
