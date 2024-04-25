@@ -5532,7 +5532,7 @@ Sam,meubels,enkelvoudig object,3267,publiek,ok,DL - ok,ok,ok,ok,3267$1,onbekend*
 Sam,meubels,enkelvoudig object,3268,publiek,ok,DL - ok,nieuwe foto; ok,ok,"meerdere foto's: achterkant, scharnieren?",3268$1,onbekend*onbekend,ok,,ok 2023-02-01,ok 2023-02-01,
 Sam,meubels,enkelvoudig object,3276,publiek,ok,DL - ok,ok,ok,ok,3276,onbekend*onbekend,ok,,ok 29-1,ok 29-1,
 Sam,meubels,enkelvoudig object,3280,publiek,ok,DL - ok,ok,ok,ok,3280,onbekend*onbekend,ok,,ok 29-1,ok 29-1,
-Sam,meubels,enkelvoudig object,3289,publiek,ok,DL - ok,ok,ok,ok,3289$1,onbekend*onbekend,ok,,ok 2023-02-01,ok 2023-02-01,
+Sam,meubels,enkelvoudig object,3289,publiek,ok,DL - ok,nieuwe foto nemen van geheel met twee delen? ,ok,ok,3289$1,onbekend*onbekend,ok,,ok 2023-02-01,ok 2023-02-01,
 Sam,meubels,enkelvoudig object,3293,publiek,ok,DL - ok,ok,ok,ok,3293,onbekend*onbekend,ok,,ok 29-1,ok 29-1,
 Sam,meubels,enkelvoudig object,3296,publiek,ok,DL - ok,ok,ok,ok,3296,onbekend*onbekend,ok,,ok 29-1,ok 29-1,
 Sam,meubels,enkelvoudig object,3308,publiek,ok,DL - ok,ok,ok,ok,3308$1,onbekend*onbekend,ok,,ok 29-1,ok 29-1,
@@ -5555,8 +5555,8 @@ Sam,meubels,enkelvoudig object,3788,publiek,ok,DL - ok,ok,ok,ok,3788,onbekend*on
 Sam,meubels,enkelvoudig object,3789,publiek,ok,DL - ok,ok,ok,ok,3789,onbekend*onbekend,ok,,ok 29-1,ok 29-1,
 Sam,meubels,enkelvoudig object,3790,publiek,ok,DL - ok,ok,ok,ok,3790,onbekend*onbekend,ok,,ok 29-1,ok 29-1,
 Sam,meubels,enkelvoudig object,3853,publiek,ok,DL - ok,ok,ok,ok,3853,onbekend*onbekend,ok,,ok 29-1,ok 29-1,
-Sam,meubels,enkelvoudig object,DMG_T_00629_ORANJE,publiek,"DMGT info overschrijven naar fiche 3289 + fragment voorheen deelnummer bij nummers en relaties aanvullen (DMG_T) , labels samen aan 2 delen samen hangen, aantal: 2 + in titel en beschirjving
-Foto's! ",DL - ok,ok,ok,ok,DMG_T_00629_ORANJE$1,onbekend*onbekend,ok,,ok 8-11,ok 8-11,
+Sam,meubels,enkelvoudig object,DMG_T_00629_ORANJE,publiek,"
+Foto's! ",DL - ok,ok,ok,ok,DMG_T_00629_ORANJE$1,onbekend*onbekend,ok,,ok 8-11,ok 8-11,"bestaat niet meer, samengevoegd met 3289"
 Sam,meubels,enkelvoudig object,0005,publiek,ok,RF - OK,nieuwe foto,x,nee,,onbekend*onbekend,ok,,,,
 Sam,meubels,enkelvoudig object,0030,publiek,ok,RF - OK,ok,ok,ok,0030,onbekend*onbekend,ok,,ok 8-11,ok 8-11,
 Sam,meubels,enkelvoudig object,0031,publiek,ok,RF - OK,ok,ok,ok,0031,onbekend*onbekend,ok,,ok 8-11,ok 8-11,
@@ -7336,12 +7336,12 @@ Sam,meubels,enkelvoudig object,3905,publiek,ok,RF - OK,ok,ok,ok,3905,onbekend*on
 Sam,meubels,enkelvoudig object,3917,publiek,ok,EVB - ok,nieuwe foto nemen,x,,,"Verenghen, Polydore*Verenghen, Polydore",ok,,,,
 Sam,meubels,enkelvoudig object,3923,publiek,ok,OK - RF,nieuwe foto,x,nee,,"Chevrie, Alexandre*Chevrie, Alexandre",ok,,,,
 Sam,meubels,,3938,publiek,ok,EVB - ok,ok,ok,,3938$6,"De Ruyver, Simon*De Ruyver, Simon",ok,,ok 2023-09-28,ok 2023-09-28,
-Sam,meubels,,2024-0030_0-2,publiek,"navragen Marijke of Bernadette - horen deze allemaal samen? - vragen Hannah paarse zetels bib - GHE: stoelen zijn anders, horen niet bij zetel en kast (Ruth bekijkt nog, wel definitief nummer geven)",EVB - ok,nieuwe groepsfoto,ok,,DMG_T_00218_0-4,onbekend*onbekend,ok,,,,fotobestandsnaam checken
-Sam,meubels,,2024-0030_1-2,niet-publiek,"navragen Marijke of Bernadette - horen deze allemaal samen? - vragen Hannah paarse zetels bib - GHE: stoelen zijn anders, horen niet bij zetel en kast (Ruth bekijkt nog, wel definitief nummer geven)",EVB - ok,photoshoppen; ok,ok,,DMG_T_00218_3-4,onbekend*onbekend,ok,,,,fotobestandsnaam checken
-Sam,meubels,,2024-0030_2-2,niet-publiek,"navragen Marijke of Bernadette - horen deze allemaal samen? - vragen Hannah paarse zetels bib - GHE: stoelen zijn anders, horen niet bij zetel en kast (Ruth bekijkt nog, wel definitief nummer geven)",EVB - ok,photoshoppen; ok,ok,,DMG_T_00218_4-4,onbekend*onbekend,ok,,,,fotobestandsnaam checken
+Sam,meubels,,2024-0030_0-2,publiek,"navragen Marijke of Bernadette - horen deze allemaal samen? - vragen Hannah paarse zetels bib - GHE: stoelen zijn anders, horen niet bij zetel en kast (Ruth bekijkt nog, wel definitief nummer geven)",EVB - ok,nieuwe groepsfoto,ok,,,onbekend*onbekend,ok,,,,fotobestandsnaam checken
+Sam,meubels,,2024-0030_1-2,niet-publiek,"navragen Marijke of Bernadette - horen deze allemaal samen? - vragen Hannah paarse zetels bib - GHE: stoelen zijn anders, horen niet bij zetel en kast (Ruth bekijkt nog, wel definitief nummer geven)",EVB - ok,photoshoppen; ok,ok,,2024-0030_1-2,onbekend*onbekend,ok,,,,fotobestandsnaam checken
+Sam,meubels,,2024-0030_2-2,niet-publiek,"navragen Marijke of Bernadette - horen deze allemaal samen? - vragen Hannah paarse zetels bib - GHE: stoelen zijn anders, horen niet bij zetel en kast (Ruth bekijkt nog, wel definitief nummer geven)",EVB - ok,photoshoppen; ok,ok,,2024-0030_2-2,onbekend*onbekend,ok,,,,fotobestandsnaam checken
 Sam,meubels,,2024-0031_0-2,publiek,"navragen Marijke of Bernadette - horen deze allemaal samen? - vragen Hannah paarse zetels bib - GHE: stoelen zijn anders, horen niet bij zetel en kast (Ruth bekijkt nog, wel definitief nummer geven)",EVB - ok,nieuwe groepsfoto,,,,onbekend*onbekend,ok,,,,
-Sam,meubels,,2024-0031_1-2,niet-publiek,"navragen Marijke of Bernadette - horen deze allemaal samen? - vragen Hannah paarse zetels bib - GHE: stoelen zijn anders, horen niet bij zetel en kast (Ruth bekijkt nog, wel definitief nummer geven)",EVB - ok,photoshoppen; ok,ok,,DMG_T_00218_1-4,onbekend*onbekend,ok,,,,fotobestandsnaam checken
-Sam,meubels,,2024-0031_2-2,niet-publiek,"navragen Marijke of Bernadette - horen deze allemaal samen? - vragen Hannah paarse zetels bib - GHE: stoelen zijn anders, horen niet bij zetel en kast (Ruth bekijkt nog, wel definitief nummer geven)",EVB - ok,photoshoppen; ok,ok,,DMG_T_00218_2-4,onbekend*onbekend,ok,,,,fotobestandsnaam checken
+Sam,meubels,,2024-0031_1-2,niet-publiek,"navragen Marijke of Bernadette - horen deze allemaal samen? - vragen Hannah paarse zetels bib - GHE: stoelen zijn anders, horen niet bij zetel en kast (Ruth bekijkt nog, wel definitief nummer geven)",EVB - ok,photoshoppen; ok,ok,,2024-0031_1-2,onbekend*onbekend,ok,,,,fotobestandsnaam checken
+Sam,meubels,,2024-0031_2-2,niet-publiek,"navragen Marijke of Bernadette - horen deze allemaal samen? - vragen Hannah paarse zetels bib - GHE: stoelen zijn anders, horen niet bij zetel en kast (Ruth bekijkt nog, wel definitief nummer geven)",EVB - ok,photoshoppen; ok,ok,,2024-0031_2-2,onbekend*onbekend,ok,,,,fotobestandsnaam checken
 Sam,meubels,,DMG_T_01323_ORANJE,publiek,ok,bulk,nieuwe foto?,x,,,Kint*Kint,ok,,,,
 Sam,meubels,,DMG_T_01329_ORANJE,publiek,ok,bulk,ok,ok,,DMG_T_01329,Kint*Kint,ok,,,,
 Sam,meubels,,DMG_T_01330_ORANJE,publiek,ok,bulk,foto van totaal nodig,x,,,"onbekend*Beernaert, Auguste",ok,,,,
@@ -7425,6 +7425,7 @@ Sam,meubels,,DMG_T_01334_2_ORANJE,publiek,"foto nodig, welke stukken zijn dit? (
 Sam,meubels,,DMG_T_01336_ORANJE,niet-publiek,bulk - Kint? (zie afstoting reden),bulk,ok,ok,,DMG_T_01336$4,onbekend*onbekend,,,,,
 Sam,meubels,,DMG_T_01333_ORANJE,publiek,??,,ok,ok,,DMG_T_01333$1,,,,,,
 ,,,,,1940-1950,,,,,,,,,,,
+Sam,meubels,,2024-0032,publiek,,,,,,,,,,,,
 Marie,"kantoor (binnen- en buitenshuis), meubels",enkelvoudig object,DMG_T_00102_ORANJE,publiek,"(modernisme) - opschrift ""88-56""? - (DMG_T's hernummeren?)",EVB - ok,photoshoppen,x,ok,DMG_T_00102_ORANJE,,,,,,
 Marie,"kantoor (binnen- en buitenshuis), meubels",enkelvoudig object,DMG_T_00103_ORANJE,publiek,(modernisme) - geen opschrift te zien,EVB - ok,photoshoppen,x,ok,DMG_T_00103_ORANJE,,,,,,
 Sam,meubels,,2017-0108_0-2,publiek,jaren 1960?,EVB - ok,foto,x,,,,,,,,
