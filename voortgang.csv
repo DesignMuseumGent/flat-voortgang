@@ -5589,9 +5589,8 @@ Marie,,collectiepresentatie - migratie,,2010-0099,publiek,ok,,nieuwe foto na res
 ,,,,,,,,,,,,,,,,,,,
 Sam,,collectiepresentatie - intro modellenmuseum,enkelvoudig object,0909,publiek,(textiel) beschrijving,,"nieuwe foto na restauratie, in DING",ok,ok,ok,0909$1,"Woedstad, Gaston*Woedstad, Gaston",ok,,,,,JA
 Sam,,,enkelvoudig object,1485,publiek,beschrijving,,,ok,ok,ok,1485$1,"Provins, Léon*Provins, Léon",ok,,,,,
-Marie,,collectiepresentatie - modellenmuseum,enkelvoudig object,1586,publiek,beschrijving,,,ok,ok,ok,1586$1,"Provins, Léon",ok,,,,,JA
+,,,,,,,,,,,,,,,,,,,
 Sam,,,enkelvoudig object,1593,publiek,beschrijving,,,ok,ok,ok,1593$1,"De Meyer, Richard",ok,Richard De Meyer,,,,
-Sam,,collectiepresentatie - intro modellenmuseum,enkelvoudig object,1521,publiek,"beschrijving, titel? (in papieren dossier staat 'Bol')",,,foto verbeteren; ok,nummer,ok,1521$3,"De Meyer, Richard",ok,Richard De Meyer,,,,JA
 Sam,,,enkelvoudig object,0021,publiek,ok,,,ok,ok,ok,0021,onbekend,ok,,ok 2022-10-17,ok 2022-10-17,,
 Sam,,,enkelvoudig object,0198,publiek,datering,,,draaien,ok,ok,0198,onbekend,ok,,,,,
 Sam,,,enkelvoudig object,0234,publiek,datering,,,ok,ok,ok,0234,onbekend,ok,,,,,
@@ -11272,33 +11271,59 @@ Katrijn,,Azië,,1241_1-2,niet publiek,,,,ok,,,1241_1-2$1; 1241_1-2$2,,,,,,,
 Katrijn,,Azië,,1241_2-2,niet publiek,,,,ok,,,1241_2-2$1; 1241_2-2$2,,,,,,,
 Katrijn,,Azië,,1242_2-2,publiek,,ok,,ok,,,1242_2-2$1; 1242_2-2$2,,ok,,,,,
 Katrijn,,Azië,,1243,publiek,,ok,,ok,,,1243$1; 1243$2,,,,,,,
-Katrijn,,Azië,,,,,,,,,,,,,,,,,
-Katrijn,,Azië,,,,,,,,,,,,,,,,,
-Katrijn,,Azië,,,,,,,,,,,,,,,,,
-Katrijn,,Azië,,,,,,,,,,,,,,,,,
-Katrijn,,Azië,,,,,,,,,,,,,,,,,
-Katrijn,,Azië,,,,,,,,,,,,,,,,,
-Katrijn,,Azië,,,,,,,,,,,,,,,,,
-Katrijn,,Azië,,,,,,,,,,,,,,,,,
-Katrijn,,Azië,,,,,,,,,,,,,,,,,
-Katrijn,,Azië,,,,,,,,,,,,,,,,,
-Katrijn,,Azië,,,,,,,,,,,,,,,,,
-Katrijn,,Azië,,,,,,,,,,,,,,,,,
-Katrijn,,Azië,,1244_38-53,publiek,,,,ok,,,1244_38-53$1; 1244_38-53$2,,ok,,,,,
-Katrijn,,Azië,,1244_39-53,publiek,,,,ok,,,1244_39-53$1; 1244_39-53$2,,ok,,,,,
-Katrijn,,Azië,,1244_40-53,publiek,,,,ok,,,1244_40-53$1; 1244_40-53$2,,ok,,,,,
-Katrijn,,Azië,,1244_41-53,publiek,,,,ok,,,1244_41-53$1; 1244_41-53$2,,ok,,,,,
-Katrijn,,Azië,,1244_42-53,publiek,,,,ok,,,1244_42-53$1; 1244_42-53$2,,ok,,,,,
-Katrijn,,Azië,,1244_43-53,publiek,,,,ok,,,1244_43-53$1; 1244_43-53$2,,ok,,,,,
-Katrijn,,Azië,,1244_44-53,publiek,,,,ok,,,1244_44-53$1; 1244_44-53$2,,ok,,,,,
-Katrijn,,Azië,,1244_45-53,publiek,,,,ok,,,1244_45-53$1; 1244_45-53$2,,ok,,,,,
-Katrijn,,Azië,,1244_46-53,publiek,,,,ok,,,1244_46-53$1; 1244_46-53$2,,ok,,,,,
-Katrijn,,Azië,,1244_47-53,publiek,,,,ok,,,1244_47-53$1; 1244_47-53$2,,ok,,,,,
-Katrijn,,Azië,,1244_48-53,publiek,,,,ok,,,1244_48-53$1; 1244_48-53$2,,ok,,,,,
-Katrijn,,Azië,,1244_49-53,publiek,,,,ok,,,1244_49-53$1; 1244_49-53$2,,ok,,,,,
-Katrijn,,Azië,,1244_50-53,publiek,,,,ok,,,1244_50-53$1; 1244_50-53$2,,ok,,,,,
-Katrijn,,Azië,,1244_51-53,publiek,,,,ok,,,1244_51-53$1; 1244_51-53$2,,ok,,,,,
-Katrijn,,Azië,,1244_52-53,publiek,,ok,,ok,,,1244_52-53$1,,ok,,,,,
+Katrijn,,Azië,,1244_00-53,publiek,,,,ok,,,1244_00-53$4,,ok,,,,,
+Katrijn,,Azië,,1244_01-53,niet publiek,,,,ok,,,1244_01-53$1; 1244_01-53$2,,ok,,,,,
+Katrijn,,Azië,,1244_02-53,niet publiek,,,,ok,,,1244_02-53$1; 1244_02-53$2,,ok,,,,,
+Katrijn,,Azië,,1244_03-53,niet publiek,,,,ok,,,1244_03-53$1; 1244_03-53$2,,ok,,,,,
+Katrijn,,Azië,,1244_04-53,niet publiek,,,,ok,,,1244_04-53$1; 1244_04-53$2,,ok,,,,,
+Katrijn,,Azië,,1244_05-53,niet publiek,,,,ok,,,1244_05-53$1; 1244_05-53$2,,ok,,,,,
+Katrijn,,Azië,,1244_06-53,niet publiek,,,,ok,,,1244_06-53$1; 1244_06-53$2,,ok,,,,,
+Katrijn,,Azië,,1244_07-53,niet publiek,,,,ok,,,1244_07-53$1; 1244_07-53$2,,ok,,,,,
+Katrijn,,Azië,,1244_08-53,niet publiek,,,,ok,,,1244_08-53$1; 1244_08-53$2,,ok,,,,,
+Katrijn,,Azië,,1244_09-53,niet publiek,,,,ok,,,1244_09-53$1; 1244_09-53$2,,ok,,,,,
+Katrijn,,Azië,,1244_10-53,,,,,ok,,,1244_10-53$1; 1244_10-53$2,,ok,,,,,
+Katrijn,,Azië,,1244_11-53,niet publiek,,,,ok,,,1244_11-53$1; 1244_11-53$2,,ok,,,,,
+Katrijn,,Azië,,1244_12-53,,,,,ok,,,1244_12-53$1; 1244_12-53$3,,ok,,,,,
+Katrijn,,Azië,,1244_13-53,niet publiek,,,,ok,,,1244_13-53$1; 1244_13-53$2,,ok,,,,,
+Katrijn,,Azië,,1244_14-53,,,,,ok,,,1244_14-53$1; 1244_14-54$2,,ok,,,,,
+Katrijn,,Azië,,1244_15-53,niet publiek,,,,ok,,,1244_15-53$1; 1244_15-53$2,,ok,,,,,
+Katrijn,,Azië,,1244_16-53,,,,,ok,,,1244_16-53$1; 1244_16-53$2,,ok,,,,,
+Katrijn,,Azië,,1244_17-53,niet publiek,,,,JPG bestand,,,1244_17-53$1; 1244_17-53$2,,ok,,,,,
+,,,,1244_18-52,,,,,ok,,,1244_18-53$1; 1244_18-53$2,,,,,,,
+,,,,1244_19-53,,,,,belichting?,,,1244_19-53$1; 1244_19-53$2,,ok,,,,,
+,,,,1244_20-53,,,,,belichting?,,,1244_20-53$1; 1244_20-53$2,,ok,,,,,
+,,,,1244_21-53,,,,,ok,,,1244_21-53$1; 1244_21-53$2,,ok,,,,,
+,,,,1244_22-53,,,,,ok,,,1244_22-53$1; 1244_22-53$2,,ok,,,,,
+,,,,1244_23-53,,,,,ok,,,1244_23-53$1; 1244_23-53$2,,ok,,,,,
+,,,,1244_24-53,,,,,ok,,,1244_24-53$1; 1244_24-53$2,,ok,,,,,
+,,,,1244_25-53,,,,,ok,,,1244_25-53$1; 1244_25-53$2,,ok,,,,,
+Katrijn,,Azië,,1244_26-53,,,,,ok,,,1244_26-53$1; 1244_26-53$2,,ok,,,,,
+Katrijn,,Azië,,1244_27-53,,,,,ok,,,1244_27-53$1; 1244_27-53$2,,ok,,,,,
+Katrijn,,Azië,,1244_28-53,,,,,ok,,,1244_28-53$1; 1244_28-53$2,,ok,,,,,
+Katrijn,,Azië,,1244_29-53,,,,,ok,,,1244_29-53$1; 1244_29-53$2,,ok,,,,,
+Katrijn,,Azië,,1244_30-53,,,,,ok,,,1244_30-53$1; 1244_30-53$2,,ok,,,,,
+Katrijn,,Azië,,1244_31-53,,,,,ok,,,1244_31-53$1; 1244_31-53$2,,ok,,,,,
+Katrijn,,Azië,,1244_32-53,,,,,belichting?,,,1244_32-53$1; 1244_32-53$2,,ok,,,,,
+Katrijn,,Azië,,1244_33-53,,,,,belichting?,,,1244_33-53$1; 1244_33-53$2,,ok,,,,,
+Katrijn,,Azië,,1244_34-53,,,,,ok,,,1244_34-53$2; 1244_34-53$1,,ok,,,,,
+Katrijn,,Azië,,1244_35-53,,,,,ok,,,1244_35-53$1; 1244_35-53$2,,ok,,,,,
+Katrijn,,Azië,,1244_36-53,,,,,ok,,,1244_36-53$1; 1244_36-53$2,,ok,,,,,
+Katrijn,,Azië,,1244_37-53,,,,,ok,,,1244_37-53$1; 1244_37-53$2,,ok,,,,,
+Katrijn,,Azië,,1244_38-53,,,,,ok,,,1244_38-53$1; 1244_38-53$2,,ok,,,,,
+Katrijn,,Azië,,1244_39-53,,,,,ok,,,1244_39-53$1; 1244_39-53$2,,ok,,,,,
+Katrijn,,Azië,,1244_40-53,,,,,ok,,,1244_40-53$1; 1244_40-53$2,,ok,,,,,
+Katrijn,,Azië,,1244_41-53,,,,,ok,,,1244_41-53$1; 1244_41-53$2,,ok,,,,,
+Katrijn,,Azië,,1244_42-53,,,,,ok,,,1244_42-53$1; 1244_42-53$2,,ok,,,,,
+Katrijn,,Azië,,1244_43-53,,,,,ok,,,1244_43-53$1; 1244_43-53$2,,ok,,,,,
+Katrijn,,Azië,,1244_44-53,,,,,ok,,,1244_44-53$1; 1244_44-53$2,,ok,,,,,
+Katrijn,,Azië,,1244_45-53,,,,,ok,,,1244_45-53$1; 1244_45-53$2,,ok,,,,,
+Katrijn,,Azië,,1244_46-53,,,,,ok,,,1244_46-53$1; 1244_46-53$2,,ok,,,,,
+Katrijn,,Azië,,1244_47-53,,,,,ok,,,1244_47-53$1; 1244_47-53$2,,ok,,,,,
+Katrijn,,Azië,,1244_48-53,,,,,ok,,,1244_48-53$1; 1244_48-53$2,,ok,,,,,
+Katrijn,,Azië,,1244_49-53,,,,,ok,,,1244_49-53$1; 1244_49-53$2,,ok,,,,,
+Katrijn,,Azië,,1244_50-53,,,,,ok,,,1244_50-53$1; 1244_50-53$2,,ok,,,,,
+Katrijn,,Azië,,1244_51-53,,,,,ok,,,1244_51-53$1; 1244_51-53$2,,ok,,,,,
+Katrijn,,Azië,,1244_52-53,,,ok,,ok,,,1244_52-53$1,,ok,,,,,
 Katrijn,,Azië,,1244_53-53,publiek,,ok,,ok,,,1244_53-53,,ok,,,,,
 Katrijn,,Azië,,1245,publiek,,ok,,ok,,,1245$1; 1245$2,onbekend,ok,,,,,
 Katrijn,,Azië,,1246,publiek,,ok,,ok,,,1246,,ok,,,,,
@@ -13661,17 +13686,10 @@ Annelies,,Antoine Van Loocke,,AVL_0015,publiek,ok,,,ok,,,AVL_0015,,ok,Antoine Va
 Annelies,,Antoine Van Loocke,,AVL_0016,publiek,ok,,,ok,,,AVL_0016,,ok,Antoine Van Loocke,,,,
 Marie,,collectiepresentatie - intro modellenmuseum,162,0162,,,,,nieuwe foto na restauratie,x,,0162,"Heins, Armand",ok,,,,,JA
 Sam,,collectiepresentatie - connecties verbindingen,935,0935,publiek,bekijken met Marijke,,"nieuwe foto na restauratie, mogelijk, in DING","nieuwe foto na restauratie, mogelijk",x,,,"Boulez, Jules*De Saedeleer, Elisabeth",ok,Jules Boulez,,,,JA
-Marie,,,,1241_0-2,,,,nieuwe foto na restaurati  ,nieuwe foto na restaurati  ,ok,,1241_0-2$1,,,,,,,JA
-Marie,,collectiepresentatie - intro modellenmuseum,1241_1-2,1241_1-2,,,,nieuwe foto na restaurati  ,nieuwe foto na restaurati  ,ok,,1241_1-2$3,,,,,,,JA
-Marie,,collectiepresentatie - intro modellenmuseum,1241_2-2,1241_2-2,,,,nieuwe foto na restaurati  ,nieuwe foto na restaurati  ,ok,,1241_2-2$3,,,,,,,JA
 Eva,,collectiepresentatie - migratie,1257,1257,,,,,"foto verbeteren of nieuwe foto (voor Eva ok, waarom niet voor Katrijn?)",x,,1257$2;1257$1;1257$3,,,,,,,JA
 Marie,,collectiepresentatie - imitatie kopie,1258,1258,,,,,nog foto nemen van liggend bord?,x,,1258$1,,ok,,,,,JA
-Marie,,collectiepresentatie - migratie,1394,1394,,,,,ok,ok,,1394$1,,ok,,,,,JA
-Marie,,collectiepresentatie - migratie,1411,1411,,,,,ok,ok,,1411$1,,,,,,,JA
 Marie,,collectiepresentatie - intro modellenmuseum,1516,1516,,,,,"foto ok, maar weerkaatsing lampen; ok",ok,,1516$1,,,,,,,JA
 Marie,,collectiepresentatie - intro modellenmuseum,1517,1517,,,,,"foto ok, maar weerkaatsing lampen; ok",ok,,1517$1,,,,,,,JA
-Marie,,collectiepresentatie - intro modellenmuseum,1545,1545,,,,,ok,ok,,1545$2,"Lachenal, Raoul*Lachenal, Raoul",ok,Raoul Lachenal,,,,JA
-Marie,,collectiepresentatie - intro modellenmuseum,1564,1564,,,,,ok,ok,,1564,"Linossier, Claudius",ok,,,,,JA
 Marie,,,,1908_0-2,,,,nieuwe foto na restauratie,nieuwe foto na restauratie,x,,,,ok,,,,,JA
 Marie,,collectiepresentatie - na comfort,1908_1-2,1908_1-2,,,,nieuwe foto na restauratie,nieuwe foto na restauratie,x,,1908_1-2$1,,ok,,,,,JA
 Marie,,collectiepresentatie - na comfort,1908_2-2,1908_2-2,,,,nieuwe foto na restauratie,nieuwe foto na restauratie,x,,1908_2-2$1,,ok,,,,,JA
@@ -13685,7 +13703,6 @@ Sam,,collectiepresentatie - migratie,1987-0455_3-5,1987-0455_3-5,,,,,ok,ok,,1987
 Sam,,collectiepresentatie - migratie,1987-0455_4-5,1987-0455_4-5,,,,,kleur; ok,ok,,1987-0455_4-5$1,"Wolfers, Philippe*Wolfers Frères",ok,,,,,JA
 Sam,,collectiepresentatie - migratie,1987-0455_5-5,1987-0455_5-5,,,,,ok,ok,,1987-0455_5-5,"Wolfers, Philippe*Wolfers Frères*Lemmens, Jean",ok,,,,,JA
 Marie,,collectiepresentatie - migratie,1987-1203,1987-1203,,,,,foto draaien in axiell; ok,ok,,1987-1203,onbekend,,,,,,JA
-Sam,,collectiepresentatie - migratie,1989-0001,1989-0001,,,,,ok,ok,,1989-0001,"Wolfers, Philippe*Wolfers Frères",ok,,,,,JA
 Sam,,collectiepresentatie - na comfort,,1991-0041_0-2,,,,,vreemde foto en bestand beschadigd,x,,,"Pesce, Gaetano*Cassina",,,,,,JA
 Sam,,collectiepresentatie - na comfort,,1991-0041_1-2,,,,,ok,ok,,1991-0041_1-2,"Pesce, Gaetano*Cassina",,,,,,JA
 Sam,,collectiepresentatie - na comfort,,1991-0041_2-2,,,,,ok,ok,,1991-0041_2-2,"Pesce, Gaetano*Cassina",,,,,,JA
@@ -13790,9 +13807,9 @@ Charlotte C,,sierobjecten,,1227_2-2,,,,,,,,,,,,,,,
 Charlotte C,,sierobjecten,,1233_0-2,,,,,,,,,,,,,,,
 Charlotte C,,sierobjecten,,1233_1-2,,,,,,,,,,,,,,,
 Charlotte C,,sierobjecten,,1233_2-2,,,,,,,,,,,,,,,
-Charlotte C,,sierobjecten,,1241_0-2,publiek,ok,,,ok,,,1241_0-2$1,,,,,,,
-Charlotte C,,sierobjecten,,1241_1-2,niet-publiek,ok,,,ok,,,1241_1-2$1,,,,,,,
-Charlotte C,,sierobjecten,,1241_2-2,niet-publiek,ok,,,ok,,,1241_2-2$1,,,,,,,
+Charlotte C - Marie,,sierobjecten,,1241_0-2,publiek,ok,,nieuwe foto na restauratie,nieuwe foto na restaurati  ,ok,,1241_0-2$1,,,,,,,JA
+Charlotte C - Marie,,sierobjecten,,1241_1-2,niet-publiek,ok,,nieuwe foto na restauratie,nieuwe foto na restaurati  ,ok,,1241_1-2$1,,,,,,,JA
+Charlotte C - Marie,,sierobjecten,,1241_2-2,niet-publiek,ok,,nieuwe foto na restauratie,nieuwe foto na restaurati  ,ok,,1241_2-2$1,,,,,,,JA
 Charlotte C,,sierobjecten,,1251,,,,,,,,,,ok,,,,,
 Charlotte C,,sierobjecten,,1252,,,,,,,,,,ok,,,,,
 Charlotte C,,sierobjecten,,1297,,,,,,,,,,ok,,,,,
@@ -13801,11 +13818,11 @@ Charlotte C,,sierobjecten,,1353_1-2,,,,,,,,,,,,,,,
 Charlotte C,,sierobjecten,,1353_2-2,,,,,,,,,,,,,,,
 Charlotte C,,sierobjecten,,1373,,,,,,,,,,ok,,,,,
 Charlotte C,,sierobjecten,,1384,,,,,,,,,,,,,,,
-Charlotte C,,sierobjecten,,1394,publiek,documentatie,,,ok,,,1394$1,,ok,,,,,
+Charlotte C - Marie,,sierobjecten,,1394,publiek,documentatie,,,ok,ok,,1394$1,,ok,,,,,JA
 Charlotte C,,sierobjecten,,1395,publiek,ok,,,ok,,,1395$1,"Delvaux, Laurent",ok,,,,,
 Charlotte C,,sierobjecten,,1397,,,,,,,,,,ok,,,,,
 Charlotte C,,sierobjecten,,1409,publiek,ok,,,ok,,,1409$1,"Kozan, Miyagawa*Kozan, Miyagawa",ok,,,,,
-Charlotte C,,sierobjecten,,1411,publiek,check opschrift,,,ok,,,1411$1,,,,,,,
+Charlotte C - Marie,,sierobjecten,,1411,publiek,check opschrift,,,ok,ok,,1411$1,,,,,,,JA
 Charlotte C,,sierobjecten,,1431,publiek,beschrijving aanvullen + documentatie,,,ok,,,1431;1431.tif,"Goupy, Marcel",ok,,,,,
 Charlotte C,,sierobjecten,,1436,publiek,documentatie,,,ok,,,1436$1,"Majorelle, Louis*Daum Frères",ok,,,,,
 Charlotte C,,sierobjecten,,1441,publiek,documentatie,,,ok,,,1441,"Schneider, Charles",ok,,,,,
@@ -13824,17 +13841,18 @@ Charlotte C,,sierobjecten,,1491,,,,,,,,,*,,,,,,
 Charlotte C,,sierobjecten,,1493,publiek,ok,,,ok,,,1493,"Dunand, Jean*Dunand, Jean",ok,,,,,
 Charlotte C,,sierobjecten,,1500,,,,,,,,,onbekend,,,,,,
 Charlotte C,,sierobjecten,,1521,publiek,ok,,,ok,,,1521$1,"De Meyer, Richard",ok,Richard De Meyer,,,,
+Sam,,collectiepresentatie - intro modellenmuseum,enkelvoudig object,1521,publiek,"beschrijving, titel? (in papieren dossier staat 'Bol')",,,foto verbeteren; ok,nummer,ok,1521$3,"De Meyer, Richard",ok,Richard De Meyer,,,,JA
 Charlotte C,,sierobjecten,,1522,,,,,,,,,,,,,,,
 Charlotte C,,sierobjecten,,1523,,,,,,,,,,,,,,,
 Charlotte C,,sierobjecten,,1528,publiek,check opschrift,,,ok,,,1528,"Luce, Jean",ok,Jean Luce,,,,
 Charlotte C,,sierobjecten,,1529,,,,,,,,,,,,,,,
 Charlotte C,,sierobjecten,,1543,,,,,,,,,,,,,,,
-Charlotte C,,sierobjecten,,1545,publiek,ok,,,ok,,,1545$1,"Lachenal, Raoul*Lachenal, Raoul",ok,Raoul Lachenal,,,,
+Charlotte C - Marie,,sierobjecten,,1545,publiek,ok,,,ok,ok,,1545$1,"Lachenal, Raoul*Lachenal, Raoul",ok,Raoul Lachenal,,,,JA
 Charlotte C,,sierobjecten,,1558,,,,,,,,,,,,,,,
-Charlotte C,,sierobjecten,,1564,publiek,ok,,,ok,,,1564,"Linossier, Claudius",ok,,,,,
+Charlotte C - Marie ,,sierobjecten,,1564,publiek,ok,,,ok,ok,,1564,"Linossier, Claudius",ok,,,,,JA
 Charlotte C,,sierobjecten,,1566,,,,,,,,,,,,,,,
 Charlotte C,,sierobjecten,,1576,,,,,,,,,,ok,,,,,
-Charlotte C,,sierobjecten,,1586,publiek,ok,,,ok,,,1586$1,"Provins, Léon",ok,,,,,
+Charlotte C - Marie ,,sierobjecten,,1586,publiek,ok,,,ok,ok,,1586$1,"Provins, Léon",ok,,,,,JA
 Charlotte C,,sierobjecten,,1587,publiek,check merk,,,ok,,,1587,"Capon, Eugène",ok,,,,,
 Charlotte C,,sierobjecten,,1591,publiek,documentatie,,,ok,,,1591,Salviati,,,,,,
 Charlotte C,,sierobjecten,,1592,publiek,documentatie,,,ok,,,1592$2,Salviati,,,,,,
@@ -13909,18 +13927,17 @@ Charlotte C,,sierobjecten,,1987-1397,publiek,beschrijving aanvullen,,,ok,,,1987-
 Charlotte C,,sierobjecten,,1987-1399,publiek,ontwerper?,,,ok,,,1987-1399$1,,,,,,,
 Charlotte C,,sierobjecten,,1987-1401,publiek,beschrijving en datering,,,ok,,,1987-1401,,,,,,,
 Charlotte C,,sierobjecten,,1987-1422,publiek,beschrijving en datering,,,ok,,,1987-1422$1,,,,,,,
-Charlotte C,,sierobjecten,,1987-1457,,,,,,,,,Heinrich,,,,,,
-Charlotte C,,sierobjecten,,1987-1458,,,,,,,,,,,,,,,
-Charlotte C,,sierobjecten,,1987-1459,,,,,,,,,Studio Fris,,,,,,
-Charlotte C,,sierobjecten,,1987-1460,,,,,,,,,Studio Fris,,,,,,
-Charlotte C,,sierobjecten,,1987-1465,,,,,,,,,"Felder, Joep",,,,,,
-Charlotte C,,sierobjecten,,1987-1522,,,,,,,,,,,,,,,
-Charlotte C,,sierobjecten,,1987-1552,,,,,,,,,,,,,,,
-Charlotte C,,sierobjecten,,1989-0001,publiek,ok,,,foto nemen merkteken,,,1989-0001,"Wolfers, Philippe*Wolfers Frères",ok,,,,,
-Charlotte C,,sierobjecten,,1989-0036,,,,,,,,,,,,,,,
-Charlotte C,,sierobjecten,,1991-0032,,,,,,,,,"Wirkkala, Tapio*Iittala",aangevraagd,Tapio Wirkkala,,,,
-Charlotte C,,sierobjecten,,1991-0033,,,,,,,,,"Wirkkala, Tapio*Iittala",aangevraagd,Tapio Wirkkala,,,,
-Charlotte C,,sierobjecten,,1991-0034,,,,,,,,,"Wirkkala, Tapio*Iittala",aangevraagd,Tapio Wirkkala,,,,
+Charlotte C,,sierobjecten,,1987-1457,publiek,beschrijving,,,ok,,,1987-1457$1,Heinrich,,,,,,
+Charlotte C,,sierobjecten,,1987-1458,publiek,beschrijving,,,ok,,,1987-1458$1,,,,,,,
+Charlotte C,,sierobjecten,,1987-1459,publiek,beschrijving,,,ok,,,1987-1459$1,Studio Fris,,,,,,
+Charlotte C,,sierobjecten,,1987-1460,publiek,beschrijving,,,donker,,,1987-1460$1,Studio Fris,,,,,,
+Charlotte C,,sierobjecten,,1987-1465,publiek,documentatie + objectnaam?,,,ok,,,1987-1465$1,"Felder, Joep",,,,,,
+Charlotte C,,sierobjecten,,1987-1522,publiek,check merk,,,foto draaien in Axiell,,,1987-1522,,,,,,,
+Charlotte C - Sam,,sierobjecten,,1989-0001,publiek,ok,,,foto nemen merkteken,ok,,1989-0001,"Wolfers, Philippe*Wolfers Frères",ok,,,,,JA
+Charlotte C,,sierobjecten,,1989-0036,publiek,beschrijving,,,ok,,,1989-0036,,,,,,,
+Charlotte C,,sierobjecten,,1991-0032,publiek,beschrijving + verwerving?,,,ok,,,1991-0032,"Wirkkala, Tapio*Iittala",aangevraagd,Tapio Wirkkala,,,,
+Charlotte C,,sierobjecten,,1991-0033,publiek,aanvullen,,,nieuwe foto nemen,,,,"Wirkkala, Tapio*Iittala",aangevraagd,Tapio Wirkkala,,,,
+Charlotte C,,sierobjecten,,1991-0034,publiek,aanvullen,,,ok,,,1991-0034,"Wirkkala, Tapio*Iittala",aangevraagd,Tapio Wirkkala,,,,
 Charlotte C,,sierobjecten,,1991-0039,,,,,,,,,"Fulvio, Bianconi*Venini",,,,,,
 Charlotte C,,sierobjecten,,1991-0040,,,,,,,,,"Fulvio, Bianconi*Venini",,,,,,
 Charlotte C,,sierobjecten,,1991-0046,,,,,,,,,"Aalto, Alvar*Iittala",,,,,,
