@@ -13125,7 +13125,7 @@ Annelies,tin,0746,publiek,,,,"net te klein, belichting;ok",ok,0476$2,onbekend*on
 Annelies,tin,0749,publiek,,,,"foto ok, extra foto van merkteken",x,0749,"Bartholomé, Auguste*Bartholomé, Auguste",ok,,,,,
 Annelies/Marie,tin,0750,publiek,,,,"foto ok, extra foto van decoratie van boven gezien",x,0750$1,"De Keghel, Jacques*De Keghel, Jacques",,,,,,JA
 Annelies,tin,0751,publiek,,,,kleur en belichting;ok,ok,0751$3,I.V.M.,ok,,,,,
-Annelies/Marie,tin,0752,publiek,,,,kleur en belichting;ok,ok,0752$4,,,,,,,JA
+Annelies/Marie,tin,0752,publiek,,,,kleur en belichting;ok,nummer,0752$6;0752$7,,,,,,,JA
 Annelies,tin,0753,publiek,,,,"foto's ok, extra foto merkteken binnenin",x,0753$2;0753$1;0753$3,onbekend*onbekend,ok,,,,,
 Annelies,tin,0755,publiek,,,,rozige foto;ok,ok,0755$3,onbekend*onbekend,,,,,,
 Annelies,tin,0756,publiek,,,,"foto ok, extra foto van bovenzijde zoals de andere borden",x,0756$1,onbekend*,ok,,,,,
@@ -13718,7 +13718,7 @@ Marie,collectiepresentatie - na comfort,3414,,,,"nieuwe foto na restauratie, in 
 Marie,collectiepresentatie - intro modellenmuseum,3415,,,,"nieuwe foto na restauratie, in DING",ok,x,3415$1,,,,,,,JA
 Marie,collectiepresentatie - intro modellenmuseum,3493,,,,,"foto ok, maar is spiegel niet te vuil?",x,3493,,,,,,,
 Marie,collectiepresentatie - na comfort,3874,,,,"nieuwe foto na restauratie, in DING",foto maken,x,,,,,,,,JA
-Sam,collectiepresentatie - intro modellenmuseum,4097,,,,"nieuwe foto na restauratie, restau klaar","nieuwe foto (deze bij ""intern""?)",x,,,ok,,,,,JA
+Sam,collectiepresentatie - intro modellenmuseum,4097,,,,"nieuwe foto na restauratie, restau klaar",nieuwe foto; ok,ok,4097$2;4097$1,,ok,,,,,JA
 Sam,collectiepresentatie - intro modellenmuseum,4122,,,,nieuwe foto na restauratie,nieuwe foto; ok,ok,4122$1,,ok,,,,,JA
 Sam,collectiepresentatie - intro modellenmuseum,4126_0-2,,,,,nieuwe foto; ok,ok,4126_0-2$1,,ok,,,,,JA
 Sam,collectiepresentatie - intro modellenmuseum,4126_1-2,,,,,nieuwe foto; ok,ok,4126_1-2$1,,ok,,,,,JA
@@ -13743,7 +13743,7 @@ Sam,collectiepresentatie - intro modellenmuseum,5223_2-2,,,,"nieuwe foto na rest
 Sam,collectiepresentatie - na comfort,5256_0-2,,,,nieuwe foto na restauratie,ok,x,,,,,,,,JA
 Sam,collectiepresentatie - na comfort,5256_1-2,,,,nieuwe foto na restauratie,ok,x,,,,,,,,JA
 Sam,collectiepresentatie - na comfort,5256_2-2,,,,nieuwe foto na restauratie,ok,x,,,,,,,,JA
-Sam,collectiepresentatie - intro modellenmuseum,5263,,,,"nieuwe foto na restauratie, restau klaar",nieuwe foto,x,,,,,,,,JA
+Sam,collectiepresentatie - intro modellenmuseum,5263,,,,"nieuwe foto na restauratie, restau klaar",nieuwe foto; ok,ok,5263$3;5263$2;5263$1,,,,,,,JA
 Sam,collectiepresentatie - intro modellenmuseum,5286_0-2,,zie opschriften in fotomap intern,,,foto's draaien in Axiell,x,5286_0-2,,,,,,,JA
 Sam,collectiepresentatie - intro modellenmuseum,5286_1-2,,,,nieuwe foto na restauratie,foto's draaien in Axiell,x,5286_1-2$1,,,,,,,JA
 Sam,collectiepresentatie - intro modellenmuseum,5286_2-2,,,,,foto's draaien in Axiell,x,5286_2-2,,,,,,,JA
