@@ -184,7 +184,7 @@ Mathilde/Sam,Mabel Elwes,2769,publiek,ok,,nieuwe foto na restauratie,nieuwe foto
 Mathilde,Mabel Elwes,2770,publiek,ok,,,,ok,2770$1,"Elwes, Mabel*L'Art Décoratif Céline Dangotte",ok,,ok 2022-09-13,ok 2022-09-13,,
 Mathilde,Mabel Elwes,2773,publiek,ok,,,,ok,2773,"Elwes, Mabel*L'Art Décoratif Céline Dangotte",ok,,ok 2022-10-13,ok 2022-10-13,,
 Mathilde,Mabel Elwes,2774,publiek,ok,,,geen foto > ok,ok,2774$1,"Elwes, Mabel*L'Art Décoratif Céline Dangotte",ok,,ok 2023-03-16,ok 2023-03-16,,
-Mathilde/Sam,Mabel Elwes,2775,publiek,ok,,nieuwe foto na restauratie,ok,ok,2775,"Elwes, Mabel*L'Art Décoratif Céline Dangotte",ok,,ok 2022-10-13,ok 2022-10-13,,JA
+Mathilde/Sam,Mabel Elwes,2775,publiek,ok,,nieuwe foto na restauratie,ok,nummer,2775$1;2775$2;2775$3,"Elwes, Mabel*L'Art Décoratif Céline Dangotte",ok,,ok 2022-10-13,ok 2022-10-13,,JA
 Mathilde,Mabel Elwes,2776,publiek,ok,,,,ok,2776,"Elwes, Mabel*L'Art Décoratif Céline Dangotte",ok,,ok 2022-10-13,ok 2022-10-13,,
 Mathilde,Mabel Elwes,2777,publiek,ok,,,,ok,2777,"Elwes, Mabel*Van de Voorde, Oscar*L'Art Décoratif Céline Dangotte",ok,,ok 2022-10-13,ok 2022-10-13,,
 Mathilde,Mabel Elwes,2778,publiek,ok,,,,ok,2778,"Elwes, Mabel*Van de Voorde, Oscar*L'Art Décoratif Céline Dangotte",ok,,ok 2022-10-13,ok 2022-10-13,,
@@ -4832,7 +4832,7 @@ Marie,jaren 1980,1985-0035,publiek,ok,,,,x,,"Fischer-Treyden, Elsa*Yang*Rosentha
 Marie,jaren 1980,1985-0036,publiek,ok,,,,x,,Yang*Rosenthal,ok,Yang,,,,
 Marie,art nouveau,0710,publiek,ok,,,is object in juiste positie gefotografeerd?,x,0710$1,"Hankar, Paul",ok,,ok,ok,,
 Marie,art nouveau,1985-0008_00,publiek,ok,,,,x,1985-0008_00,"Hankar, Paul*onbekend",ok,,ok,ok,,
-Marie,art nouveau,3973,publiek,,,,foto onscherp,x,,"Hankar, Paul",ok,,,,,JA
+Johanna,art nouveau,3973,publiek,ok,,,foto onscherp,x,,"Hankar, Paul",ok,,,,,JA
 Marie,art nouveau,3396,publiek,ok,,,ok,ok,3396,"Hankar, Paul*onbekend",ok,,ok 2022-10-17,ok 2022-10-17,,
 Marie,art nouveau,3397,publiek,ok,,,ok,ok,3397,"Hankar, Paul*Hankar, Paul",ok,,ok 2022-10-17,ok 2022-10-17,,
 Marie,art nouveau,3733,publiek,ok,,,ok,ok,3733,"Hankar, Paul*onbekend",ok,,ok 2022-10-17,ok 2022-10-17,,
@@ -5378,7 +5378,7 @@ Marie,art nouveau,1987-0104,publiek,ok,,,ok,ok,1987-0104$1,"Begeer, Carel Joseph
 Marie,art nouveau,1987-0131,publiek,vervaardiger,,,ok,ok,1987-0131$1;1987-0131$2,Koninklijke Utrechtse Fabriek van Zilverwerken C.J. Begeer*Koninklijke Utrechtse Fabriek van Zilverwerken C.J. Begeer,ok,,,,,
 Marie,art nouveau,1987-0138,publiek,vervaardiger,,,ok,ok,1987-0138$1,Koninklijke Utrechtse Fabriek van Zilverwerken C.J. Begeer*Koninklijke Utrechtse Fabriek van Zilverwerken C.J. Begeer,ok,,,,,
 Marie,art nouveau,1987-0144,publiek,vervaardiger,,,ok,ok,1987-0144$1,Koninklijke Utrechtse Fabriek van Zilverwerken C.J. Begeer*Koninklijke Utrechtse Fabriek van Zilverwerken C.J. Begeer,ok,,,,,
-Marie,art nouveau,1987-0247,publiek,vervaardiger,,"nieuwe foto na poetsen, in DING",ok,ok,1987-0247$1;1987-0247$2,Koninklijke Utrechtse Fabriek van Zilverwerken C.J. Begeer*Koninklijke Utrechtse Fabriek van Zilverwerken C.J. Begeer,ok,,,,,JA
+Marie,art nouveau,1987-0247,publiek,ok,,"nieuwe foto na poetsen, in DING",ok,ok,1987-0247$1;1987-0247$2,Koninklijke Utrechtse Fabriek van Zilverwerken C.J. Begeer*Koninklijke Utrechtse Fabriek van Zilverwerken C.J. Begeer,ok,,,,,JA
 Marie,art nouveau,1987-0248,publiek,vervaardiger,,,ok,ok,1987-0248$1;1987-0248$2,Koninklijke Utrechtse Fabriek van Zilverwerken C.J. Begeer*Koninklijke Utrechtse Fabriek van Zilverwerken C.J. Begeer,ok,,,,,
 Marie,art nouveau,1987-0249,publiek,vervaardiger,,,ok,ok,1987-0249$1;1987-0249$2,Koninklijke Utrechtse Fabriek van Zilverwerken C.J. Begeer*Koninklijke Utrechtse Fabriek van Zilverwerken C.J. Begeer,ok,,,,,
 Marie,art nouveau,1987-0250_0-6,publiek,vervaardiger,,,ok,ok,1987-0250_0-6$1,Koninklijke Utrechtse Fabriek van Zilverwerken C.J. Begeer*Koninklijke Utrechtse Fabriek van Zilverwerken C.J. Begeer,ok,,,,,
@@ -5388,9 +5388,9 @@ Marie,art nouveau,1987-0250_3-6,niet-publiek,vervaardiger,,,ok,ok,1987-0250_3-6$
 Marie,art nouveau,1987-0250_4-6,niet-publiek,vervaardiger,,,ok,ok,1987-0250_4-6$1;1987-0250_4-6$2,Koninklijke Utrechtse Fabriek van Zilverwerken C.J. Begeer*Koninklijke Utrechtse Fabriek van Zilverwerken C.J. Begeer,ok,,,,,
 Marie,art nouveau,1987-0250_5-6,niet-publiek,vervaardiger,,,ok,ok,1987-0250_5-6$1;1987-0250_5-6$2,Koninklijke Utrechtse Fabriek van Zilverwerken C.J. Begeer*Koninklijke Utrechtse Fabriek van Zilverwerken C.J. Begeer,ok,,,,,
 Marie,art nouveau,1987-0250_6-6,niet-publiek,vervaardiger,,,ok,ok,1987-0250_6-6$1;1987-0250_6-6$2,Koninklijke Utrechtse Fabriek van Zilverwerken C.J. Begeer*Koninklijke Utrechtse Fabriek van Zilverwerken C.J. Begeer,ok,,,,,
-Marie B. en Marie H.,art nouveau,1987-0273_0-2,publiek,vervaardiger,,"nieuwe foto na poetsen, in DING",ok,ok,1987-0273_0-2$1,Koninklijke Utrechtse Fabriek van Zilverwerken C.J. Begeer*Koninklijke Utrechtse Fabriek van Zilverwerken C.J. Begeer,ok,,,,,JA
-Marie B. en Marie H.,art nouveau,1987-0273_1-2,niet-publiek,vervaardiger,,"nieuwe foto na poetsen, in DING",ok,ok,1987-0273_1-2$1;1987-0273_1-2$2,Koninklijke Utrechtse Fabriek van Zilverwerken C.J. Begeer*Koninklijke Utrechtse Fabriek van Zilverwerken C.J. Begeer,ok,,,,,JA
-Marie B. en Marie H.,art nouveau,1987-0273_2-2,niet-publiek,vervaardiger,,"nieuwe foto na poetsen, in DING",ok,ok,1987-0273_2-2$1;1987-0273_2-2$2,Koninklijke Utrechtse Fabriek van Zilverwerken C.J. Begeer*Koninklijke Utrechtse Fabriek van Zilverwerken C.J. Begeer,ok,,,,,JA
+Marie B. en Marie H.,art nouveau,1987-0273_0-2,publiek,ok,,"nieuwe foto na poetsen, in DING",ok,ok,1987-0273_0-2$1,Koninklijke Utrechtse Fabriek van Zilverwerken C.J. Begeer*Koninklijke Utrechtse Fabriek van Zilverwerken C.J. Begeer,ok,,,,,JA
+Marie B. en Marie H.,art nouveau,1987-0273_1-2,niet-publiek,ok,,"nieuwe foto na poetsen, in DING",ok,ok,1987-0273_1-2$1;1987-0273_1-2$2,Koninklijke Utrechtse Fabriek van Zilverwerken C.J. Begeer*Koninklijke Utrechtse Fabriek van Zilverwerken C.J. Begeer,ok,,,,,JA
+Marie B. en Marie H.,art nouveau,1987-0273_2-2,niet-publiek,ok,,"nieuwe foto na poetsen, in DING",ok,ok,1987-0273_2-2$1;1987-0273_2-2$2,Koninklijke Utrechtse Fabriek van Zilverwerken C.J. Begeer*Koninklijke Utrechtse Fabriek van Zilverwerken C.J. Begeer,ok,,,,,JA
 Marie,art nouveau,1987-0279_0-2,publiek,ok,,,ok,ok,1987-0279_0-2$1,Koninklijke Utrechtse Fabriek van Zilverwerken C.J. Begeer*Koninklijke Utrechtse Fabriek van Zilverwerken C.J. Begeer,ok,,ok 2023-10-30,ok 2023-10-30,,
 Marie,art nouveau,1987-0279_1-2,niet-publiek,ok,,,ok,ok,1987-0279_1-2$1;1987-0279_1-2$2,Koninklijke Utrechtse Fabriek van Zilverwerken C.J. Begeer*Koninklijke Utrechtse Fabriek van Zilverwerken C.J. Begeer,ok,,ok 2023-10-30,nvt,,
 Marie,art nouveau,1987-0279_2-2,niet-publiek,ok,,,ok,ok,1987-0279_2-2$1;1987-0279_2-2$2,Koninklijke Utrechtse Fabriek van Zilverwerken C.J. Begeer*Koninklijke Utrechtse Fabriek van Zilverwerken C.J. Begeer,ok,,ok 2023-10-30,nvt,,
@@ -5583,7 +5583,7 @@ Sam,meubels,0954,publiek,ok,DL - ok,,ok,ok,0954,onbekend*onbekend,ok,,ok 29-1,ok
 Sam,meubels,0956,publiek,ok,DL - ok,,ok,ok,0956,onbekend*onbekend,ok,,ok 29-1,ok 29-1,,
 Sam,meubels,0957,publiek,ok,DL - ok,,ok,ok,0957,onbekend*onbekend,ok,,ok 29-1,ok 29-1,,
 Sam,meubels,0958,publiek,ok,DL - ok,,ok,ok,0958,onbekend*onbekend,ok,,ok 29-1,ok 29-1,,
-Sam,meubels,0959,publiek,ok,DL - ok,,ok,ok,0959,onbekend*onbekend,ok,,ok 27-1,ok 27-1,,JA
+Sam,meubels,0959,publiek,ok,DL - ok,,nieuwe foto na restauratie; ok,nummer,0959$4,onbekend*onbekend,ok,,ok 27-1,ok 27-1,,JA
 Sam,meubels,0960,publiek,ok,DL - ok,,ok,ok,0960,onbekend*onbekend,ok,,ok 29-1,ok 29-1,,
 Sam,meubels,0961,publiek,ok,DL - ok,,ok,ok,0961,onbekend*onbekend,ok,,ok 29-1,ok 29-1,,
 Sam,meubels,0962,publiek,ok,DL - ok,,ok,ok,0962$1,onbekend*onbekend,ok,,ok 29-1,ok 29-1,,
@@ -9522,7 +9522,7 @@ Eva VR,nieuwe aanwinsten,2020-0027_2-2,niet-publiek,,,,ok,ok,2020-0027_2-2$1,"Ki
 Eva VR,nieuwe aanwinsten,2020-0029,publiek,,,,ok,ok,2020-0029$4,"Boo, Bram",aangevraagd,Bram Boo,,,rechtenklaring Thijs,
 Eva VR,nieuwe aanwinsten,2020-0032,publiek,,,,ok,ok,2020-0032,"Spaans, Annemie",,,,,,
 Eva VR,nieuwe aanwinsten,2020-0033,publiek,,,,ok,ok,2020-0033$1,"Vermeersch, Robin",ok,Robin Vermeersch,,,rechtenklaring Thijs,
-"Eva VR, Johanna",nieuwe aanwinsten,2020-0034,publiek,,,,ok,ok,2020-0034,"Bo Bardi, Lina",,,,,,
+"Eva VR, Johanna",nieuwe aanwinsten,2020-0034,publiek,ok,,,ok,ok,2020-0034,"Bo Bardi, Lina",,,,,,
 Eva VR,nieuwe aanwinsten,2020-0036_0-7,publiek,,,,ok,ok,2020-0036_0-7,Sabena*Villeroy & Boch,,,,,,
 Eva VR,nieuwe aanwinsten,2020-0036_1-7,niet-publiek,,,,ok,ok,2020-0036_1-7,Sabena*Villeroy & Boch,,,,,,
 Eva VR,nieuwe aanwinsten,2020-0036_2-7,niet-publiek,,,,ok,ok,2020-0036_2-7,Sabena*Villeroy & Boch,,,,,,
@@ -11141,11 +11141,11 @@ Katrijn,Azië,5752_1-3,niet-publiek,ok,ok,,foto achterzijde,,5752_1-3$1; 5752_1-
 Katrijn,Azië,5752_2-3,niet-publiek,ok,ok,,foto achterzijde,,5752_2-3$1; 5752_2-3$2,onbekend*onbekend,,,,,,
 Katrijn,Azië,5752_3-3,niet-publiek,ok,ok,,foto achterzijde,,5752_3-3$1; 5752_3-3$2,onbekend*onbekend,,,,,,
 Katrijn,Azië,5753,publiek,ok,ok,,ok,,5753$1; 5753$2; 5753$3,onbekend*onbekend,,,,,,
-Katrijn,Azië?,5754,publiek,,,,ok,,5754$1,,,,,,,
-Katrijn,Azië?,5755,publiek,,,,ok,,5755$1,,,,,,,
+Katrijn,Azië?,5754,publiek,ok,ok,,ok,,5754$1,,,,,,,
+Katrijn,Azië?,5755,publiek,ok,ok,,ok,,5755$1,,,,,,,
 Katrijn,Azië,0092,publiek,,,,geen foto,,,,,,,,,
 Katrijn,Azië,1596,publiek,,,,"foto met de houten sokkel, onderzijde merkteken",,1596,,,,,,,
-Katrijn,Azië,1978-0078,,,,,,,,,,,,,,
+Katrijn,Azië,1978-0078,publiek,ok,ok,,ok,,1978-0078$1; 1978-0078$2,,,,,,,
 Katrijn,Azië,193_0012,,,,,,,,,,,,,,
 Katrijn,Azië,2005-0030,,,,,,,,onbekend,,,,,,
 Katrijn,Azië,2005-0031,,,,,,,,onbekend,,,,,,
@@ -13471,15 +13471,15 @@ Annelies,Antoine Van Loocke,AVL_0015,publiek,ok,,,ok,,AVL_0015,,ok,Antoine Van L
 Annelies,Antoine Van Loocke,AVL_0016,publiek,ok,,,ok,,AVL_0016,,ok,Antoine Van Loocke,,,,
 Marie,collectiepresentatie - intro modellenmuseum,0162,publiek,ok,,,nieuwe foto na restauratie; ok,ok,0162$2,"Heins, Armand*Heins, Armand",ok,,,ok 2026-06-03,,JA
 Sam,collectiepresentatie - connecties verbindingen,0935,publiek,ok,,"nieuwe foto na restauratie, mogelijk, in DING",nieuwe foto na restauratie; ok,ok,0935$2,"Boulez, Jules*Studio de Saedeleer",ok,Jules Boulez,,,,JA
-"Marie, Johanna",collectiepresentatie - imitatie kopie,1258,publiek,ok,,,nog foto nemen van liggend bord?,x,1258$1,onbekend*onbekend,ok,,,,,JA
+"Marie, Johanna",collectiepresentatie - imitatie kopie,1258,publiek,ok,,,nog foto nemen van liggend bord; ok,ok,1258$3;1258$4,onbekend*onbekend,ok,,,,,JA
 "Marie, Johanna",,1481,publiek,ok,,,ok,,1481$5,onbekend*onbekend,,,,,,
 "Marie, Johanna",collectiepresentatie - intro modellenmuseum,1516,publiek,ok,,,"foto ok, maar weerkaatsing lampen; ok",ok,1516$1,onbekend*onbekend,,,,,,JA
 "Marie, Johanna",collectiepresentatie - intro modellenmuseum,1517,publiek,ok,,,"foto ok, maar weerkaatsing lampen; ok",ok,1517$1,onbekend*onbekend,,,,,,JA
 "Marie, Johanna",,1518,publiek,ok,,,ok,,1518,onbekend*onbekend,,,,,,
 "Marie, Johanna",,1519,publiek,ok,,,ok,,1519,onbekend*onbekend,,,,,,
-"Marie, Johanna",collectiepresentatie - na comfort,1908_0-2,publiek,,,nieuwe foto na restauratie,nieuwe foto na restauratie: ok,ok,1908_0-2$2,onbekend*onbekend,ok,,,,,JA
-"Marie, Johanna",collectiepresentatie - na comfort,1908_1-2,niet-publiek,,,nieuwe foto na restauratie,nieuwe foto na restauratie: ok,ok,1908_1-2$2,onbekend*onbekend,ok,,,,,JA
-"Marie, Johanna",collectiepresentatie - na comfort,1908_2-2,niet-publiek,,,nieuwe foto na restauratie,nieuwe foto na restauratie: ok,ok,1908_2-2$2,onbekend*onbekend,ok,,,,,JA
+"Marie, Johanna",collectiepresentatie - na comfort,1908_0-2,publiek,ok,,nieuwe foto na restauratie,nieuwe foto na restauratie: ok,ok,1908_0-2$2,onbekend*onbekend,ok,,,,,JA
+"Marie, Johanna",collectiepresentatie - na comfort,1908_1-2,niet-publiek,ok,,nieuwe foto na restauratie,nieuwe foto na restauratie: ok,ok,1908_1-2$2,onbekend*onbekend,ok,,,,,JA
+"Marie, Johanna",collectiepresentatie - na comfort,1908_2-2,niet-publiek,ok,,nieuwe foto na restauratie,nieuwe foto na restauratie: ok,ok,1908_2-2$2,onbekend*onbekend,ok,,,,,JA
 Marie,collectiepresentatie - na comfort,1983,publiek,ok,,nieuwe foto na restauratie,nieuwe foto na restauratie,x,1983$1,onbekend*onbekend,ok,,,,,JA
 ,,,,,,,,,,,,,,,,
 Sam,collectiepresentatie - migratie,1987-0455_0-5,publiek,ok,,,is dit groot genoeg; ok,ok,1987-0455_0-5$3,"Wolfers, Philippe*Wolfers Frères",ok,,ok 2026-03-06,ok 2026-03-06,,JA
@@ -13556,7 +13556,7 @@ Sam,collectiepresentatie - na comfort,FH-0011_1-2,niet-publiek,ok,,nieuwe foto n
 Sam,collectiepresentatie - na comfort,FH-0011_2-2,niet-publiek,ok,,nieuwe foto na restauratie,ok,x,FH-0011_2-2,Moritz Hacker*Moritz Hacker,,,,,,JA
 Marie,collectiepresentatie - migratie,FH-0015,publiek,ok,,,nieuwe foto maken met neutrale achtergrond?,x,FH-0015,"Rousseau, Eugène*Léveillé, Ernest Baptiste",ok,,,,,JA
 Marie,collectiepresentatie - migratie,FH-0092,publiek,ok,,,ok,x,FH-0092,"Wolfers, Marcel*Lakatelier Marcel Wolfers",,,,,,JA
-"Marie, Johanna",collectiepresentatie - intro modellenmuseum,1609,publiek,,,"nieuwe foto na restauratie, restauratie al gebeurd
+"Marie, Johanna",collectiepresentatie - intro modellenmuseum,1609,publiek,ok,,"nieuwe foto na restauratie, restauratie al gebeurd
 ",nieuwe foto; ok,ok,1609$3;1609$4,onbekend*onbekend,,,,,,JA
 "Eva, Johanna",collectiepresentatie - imitatie kopie,2025-0008,publiek,ok,,,bewerk en upload; ok,ok,2025-0008$1;2025-0008$4,"Zeisel, Eva*Schramberger Majolika-Fabrik",ok,Eva Zeisel,,ok 2026-06-03,,JA
 "Sam, Johanna",collectiepresentatie - imitatie kopie,3046,publiek,ok,,,ok,ok,3046$1;3046$2,onbekend*Ebena,,,,,,JA
@@ -16382,7 +16382,7 @@ Johanna/Sam,"meubels, collectiepresentatie - plooien vouwen",1997-0094,publiek,o
 Johanna/Sam,"meubels, collectiepresentatie - plooien vouwen",1999-0081,publiek,ok,,,achtergrond opkuisen; ok,ok,1999-0081$1,"Starck, Philippe*Driade",ok,Philippe Starck,,ok 2026-06-03,,JA
 Johanna/Sam,"meubels, collectiepresentatie - connecties verbindingen",2002-0096,publiek,ok,,,te klein; ok,ok,2002-0096,"Wanders, Marcel*Cappellini",ok,Marcel Wanders,,ok 2026-06-03,,JA
 Johanna/Sam,"meubels, collectiepresentatie - plooien vouwen",2002-0087,publiek,ok,,,ok,ok,2002-0087,"schöning, stefan*Polyline",ok,stefan schöning,,ok 2026-06-03,,JA
-Johanna/Sam,meubels collectiepresentatie - na comfort,2011-0008,publiek,ok,,"nieuwe foto na restauratie, restauratie klaar",nieuwe foto na reiniging ,x,2011-0008,"Gaubert, Alain*Atelier Gaubert",,,,,,JA
+Johanna/Sam,meubels collectiepresentatie - na comfort,2011-0008,publiek,ok,,"nieuwe foto na restauratie, restauratie klaar",nieuwe foto na reiniging ; ok,ok,2011-0008$1;2011-0008$2,"Gaubert, Alain*Atelier Gaubert",,,,,,JA
 Eva/Johanna,"meubels, collectiepresentatie - migratie",1985-0063,publiek,ok,,,ok,ok,1985-0063$2,"Veranneman, Emiel*Veranneman, Emiel",,,,,,JA
 Eva/Johanna,"meubels, nieuwe aanwinsten",2019-0055,publiek,ok,,,ok,ok,2019-0055$1;2019-0055$3,onbekend*onbekend,aangevraagd,Peter Raacke,,,rechtenklaring Thijs,JA
 Johanna,,0048,,,,,,,,,,,,,,
