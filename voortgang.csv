@@ -7062,7 +7062,7 @@ Sam,meubels,3141,publiek,ok,WA - ok ,,,ok,3141,"Dumas, Paul-Alexandre*Dumas, Pau
 Sam,meubels,3142,publiek,ok,WA - ok ,,,ok,3142,"Dumas, Paul-Alexandre*Dumas, Paul-Alexandre",ok,,ok 2023-02-01,ok 2023-02-01,,
 Sam,art nouveau;meubels,3143,publiek,ok,WA - ok ,,,ok,3143,"Majorelle, Louis*Majorelle, Louis",ok,,ok 2023-05-12,ok 2023-05-12,,
 Sam,art nouveau;meubels,3144,publiek,ok,WA - ok ,,,ok,3144,"Majorelle, Louis*Majorelle, Louis",ok,,ok 2023-05-12,ok 2023-05-12,,
-Sam,meubels,3146,publiek,ok,WA - ok ,nieuwe foto na restauratie,,ok,3146,"Dumas, Paul-Alexandre*Dumas, Paul-Alexandre",ok,,ok 2023-02-01,ok 2023-02-01,,JA
+Sam,meubels,3146,publiek,ok,WA - ok ,nieuwe foto na restauratie,nieuwe foto na restauratie; ok,nummer,3146$1,"Dumas, Paul-Alexandre*Dumas, Paul-Alexandre",ok,,ok 2023-02-01,ok 2023-02-01,,JA
 Sam,"Horta, Victor;meubels",3147,publiek,ok,WA - ok ,,ok,ok,3147$1,"Horta, Victor*onbekend",ok,,ok 2023-05-12,ok 2023-05-12,,JA
 Sam,art nouveau;meubels,3148,publiek,ok,WA - ok ,,,ok,3148,"Majorelle, Louis*Majorelle, Louis",ok,,ok 2023-05-12,ok 2023-05-12,,
 Sam,meubels,3150,publiek,ok,WA - ok,,photoshoppen,ok,3150$1,"Van huffel, Albert*L'Art Décoratif Céline Dangotte",ok,,ok 2023-12-04,ok 2023-12-04,,
@@ -7435,7 +7435,7 @@ Sam,meubels,3749_4,niet-publiek,ok,ok - EVB,,photoshoppen; ok,ok,3749_4$1,onbeke
 Sam,meubels,3860,publiek,ok,RF - OK,,ok,ok,3860,onbekend*onbekend,ok,,ok 26-11,ok 26-11,,
 Sam,meubels,3883,publiek,ok,ok - EVB,,ok,ok,3883,onbekend*onbekend,ok,,ok 2023-09-01,ok 2023-09-01,,
 Sam,meubels,3905,publiek,ok,RF - OK,,ok,ok,3905,onbekend*onbekend,ok,,ok 26-11,ok 26-11,,
-Sam,meubels,3917,publiek,ok,EVB - ok,"nieuwe foto na restauratie, in DING",nieuwe foto nemen,x,,"Verenghen, Polydore*Verenghen, Polydore",ok,,,,,JA
+Sam,meubels,3917,publiek,ok,EVB - ok,"nieuwe foto na restauratie, in DING",nieuwe foto nemen; ok,ok,3917$4;3917$5;3917$7;3917$8,"Verenghen, Polydore*Verenghen, Polydore",ok,,,,,JA
 Sam,meubels,3923,publiek,ok,OK - RF,,nieuwe foto,x,,"Chevrie, Alexandre*Chevrie, Alexandre",ok,,,,,
 Sam,meubels,3938,publiek,ok,EVB - ok,,ok,ok,3938$6,"De Ruyver, Simon*De Ruyver, Simon",ok,,ok 2023-09-28,ok 2023-09-28,,
 Sam,meubels,2024-0030_0-2,publiek,ok,EVB - ok,,nieuwe groepsfoto; ok,ok,2024-0030_0-2,onbekend*onbekend,ok,,ok 2024-06-07,ok 2024-06-07,,
@@ -11040,9 +11040,9 @@ Katrijn,Azië,1238_0-2,publiek,ok,ok,,ok,x,1238_0-2$1;1238_0-2$2,onbekend*onbeke
 Katrijn,Azië,1238_1-2,niet-publiek,ok,ok,,ok,x,1238_1-2,onbekend*onbekend,ok,,,,,
 Katrijn,Azië,1238_2-2,niet-publiek,ok,ok,,ok,x,1238_2-2,onbekend*onbekend,ok,,,,,
 Katrijn,Azië,1240,publiek,ok,ok,,ok,x,1240,onbekend*onbekend,ok,,,,,
- Charlotte C, sierobjecten,1241_0-2,publiek,ok,,nieuwe foto na restauratie,nieuwe foto na restaurati  ,ok,1241_0-2,onbekend*onbekend,ok,,ok 2026-03-06,ok 2026-03-06,,
- Charlotte C, sierobjecten,1241_1-2,niet-publiek,ok,,nieuwe foto na restauratie,nieuwe foto na restaurati  ,ok,1241_1-2$1;1241_1-2$2,onbekend*onbekend,ok,,ok 2026-03-06,nvt,,
- Charlotte C, sierobjecten,1241_2-2,niet-publiek,ok,,nieuwe foto na restauratie,nieuwe foto na restaurati  ,ok,1241_2-2$1;1241_2-2$2,onbekend*onbekend,ok,,ok 2026-03-06,nvt,,
+ Charlotte C, sierobjecten,1241_0-2,publiek,ok,,nieuwe foto na restauratie,nieuwe foto na restauratie; ok,nummer,1241_0-2$2,onbekend*onbekend,ok,,ok 2026-03-06,ok 2026-03-06,,
+ Charlotte C, sierobjecten,1241_1-2,niet-publiek,ok,,nieuwe foto na restauratie,nieuwe foto na restauratie; ok,nummer,1241_1-2$4;1241_1-2$2,onbekend*onbekend,ok,,ok 2026-03-06,nvt,,
+ Charlotte C, sierobjecten,1241_2-2,niet-publiek,ok,,nieuwe foto na restauratie,nieuwe foto na restauratie; ok,nummer,1241_2-2$5;1241_2-2$2,onbekend*onbekend,ok,,ok 2026-03-06,nvt,,
 Katrijn,Azië,1242_2-2,publiek,ok,ok,,ok,x,1242_2-2$1;1242_2-2$2,onbekend*onbekend,ok,,,,,
 Katrijn,Azië,1243,publiek,ok,ok,,ok,x,1243$1;1243$2,onbekend*onbekend,ok,,,,,
 Katrijn,Azië,1244_00-53,publiek,ok,ok,,duidelijker?,x,1244_00-53$4,onbekend*onbekend,ok,,,,,
@@ -16734,8 +16734,8 @@ Johanna,meubels,2003-0002_6-6,niet-publiek,ok,,,ok,x,2003-0002_6-6,"Morrison, Ja
 Johanna,meubels,2003-0013,publiek,ok,,,foto maken,x,,"Wanders, Marcel*Moooi",ok,Marcel Wanders,,,,
 Johanna,Starck,2003-0030,publiek,ok,,,ok,x,2003-0030$1;2003-0030$2,"Starck, Philippe*Hoesch Design",ok,Philippe Starck,,,,
 Johanna,,2003-0031,publiek,ok,,,ok,ok,2003-0031$;2003-0031$2,onbekend*onbekend,,,,,,JA
-Johanna,,2003-0034,,,,,,x,,"Guhl, Willy*Eternit",,,,,,
-Johanna,,2003-0035,,,,,,x,,"Guhl, Willy*Eternit",,,,,,
+Johanna,meubels,2003-0034,publiek,ok,,,geen foto,x,,"Guhl, Willy*Eternit",,,,,,
+Johanna,meubels,2003-0035,publiek,check collectiebeelden: achtervoegsel rood,,,ok,x,2003-0035,"Guhl, Willy*Eternit",,,,,,
 Johanna,,2003-0046_4-4_ORANJE,,,,,,x,,"Bellini, Mario*Heller",ok,Mario Bellini,,,,
 Johanna,meubels,2003-0060,publiek,ok,,,ok,x,2003-0060,"Van Praet, Frans*Vosschemie",,,,,,
 Johanna,,2003-0065,,,,,,x,,"Quadens, Pol*Ipa",,,,,,
@@ -17009,6 +17009,7 @@ Johanna,,2019-0049_2-2 VERWIJDEREN,,,,,,x,,"Van Loocke, Antoine*Van Loocke, Anto
 Johanna,Nieuwe aanwinsten,2019-0057,publiek,,,,ok,ok,2019-0057$1;2019-0057$2,"De Bruyne, Pieter*onbekend",,,,,,
 Johanna,,2021-0053,,,,,,x,,,,,,,,
 Johanna,,2021-0055,,,,,,x,,,,,,,,
+Johanna,meubels,2022-0008,publiek,check locatie opschriften,,,Foto maken,,,"Guhl, Willy*Eternit",,,,,,
 Johanna,,2025-0021_0-6,,,,,,x,,"Pelgrims De Bigard, Dominique*Depraetere Industries*Vanoutryve & Cie*De Witte Lietaer*Santens",,,,,,
 Johanna,,2025-0021_1-6,,,,,,x,,"Pelgrims De Bigard, Dominique*Depraetere Industries*Vanoutryve & Cie*De Witte Lietaer*Santens",,,,,,
 Johanna,,2025-0021_2-6,,,,,,x,,"Pelgrims De Bigard, Dominique*Depraetere Industries*Vanoutryve & Cie*De Witte Lietaer*Santens",,,,,,
