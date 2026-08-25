@@ -5563,8 +5563,8 @@ Sam,meubels,0878,publiek,ok,DL - ok,,ok,ok,0878,onbekend*onbekend,ok,,ok 29-1,ok
 Sam,meubels,0879,publiek,ok,DL - ok,,ok,ok,0879,onbekend*onbekend,ok,,ok 29-1,ok 29-1,,
 Sam,meubels,0880,publiek,ok,DL - ok,,ok,ok,0880,onbekend*onbekend,ok,,ok 29-1,ok 29-1,,
 Sam,meubels,0881,publiek,ok,DL - ok,,ok,ok,0881,onbekend*onbekend,ok,,ok 29-1,ok 29-1,,
-Sam,meubels,0882,publiek,ok,DL - ok,"nieuwe foto na restauratie, klaar",ok,ok,0882,onbekend*onbekend,ok,,ok 29-1,ok 29-1,,JA
-Sam,meubels,0883,publiek,ok,DL - ok,"nieuwe foto na restauratie, klaar",ok,ok,0883,onbekend*onbekend,ok,,ok 29-1,ok 29-1,,JA
+Sam,meubels,0882,publiek,ok,DL - ok,"nieuwe foto na restauratie, klaar",ok,nummer,0882$7;0882$8;0882$9;0882$10,onbekend*onbekend,ok,,ok 29-1,ok 29-1,,JA
+Sam,meubels,0883,publiek,ok,DL - ok,"nieuwe foto na restauratie, klaar",ok,nummer,0883$7;0883$8;0883$9;0883$10,onbekend*onbekend,ok,,ok 29-1,ok 29-1,,JA
 Sam,meubels,0892,publiek,ok,DL - ok,,ok,ok,0892,onbekend*onbekend,ok,,ok 29-1,ok 29-1,,
 Sam,meubels,0893,publiek,ok,DL - ok,,ok,ok,0893,onbekend*onbekend,ok,,ok 2023-02-01,ok 2023-02-01,,
 Sam,meubels,0895,publiek,ok,DL - ok,,ok,ok,0895,onbekend*onbekend,ok,,ok 2023-02-01,ok 2023-02-01,,
@@ -13481,7 +13481,7 @@ Sam ,collectiepresentatie - imitatie kopie,2005-0010,publiek,ok,,"nieuwe foto na
 Sam,collectiepresentatie - imitatie kopie,2014-0027_0-3,publiek,ok,,,ok,ok,2014-0027_0-3,Demeyere*Demeyere,ok,,ok 2026-03-06,ok 2026-03-06,,JA
 Sam,collectiepresentatie - imitatie kopie,2014-0027_1-3,niet-publiek,ok,,,merktekenfoto is enkel bij 1-3,ok,2014-0027_1-3,Demeyere*Demeyere,ok,,ok 2026-03-06,nvt,,JA
 Sam,collectiepresentatie - imitatie kopie,2014-0027_2-3,niet-publiek,ok,,,merktekenfoto is enkel bij 1-4,ok,2014-0027_2-3,Demeyere*Demeyere,ok,,ok 2026-03-06,nvt,,JA
-Sam,collectiepresentatie - imitatie kopie,2014-0027_3-3,niet-publiek,ok,,,deksel staat er niet goed op - merktekenfoto is enkel bij 1-3,x,,Demeyere*Demeyere,ok,,,,,JA
+Sam,collectiepresentatie - imitatie kopie,2014-0027_3-3,niet-publiek,ok,,,deksel staat er niet goed op ; ok,ok,2014-0027_3-3$2,Demeyere*Demeyere,ok,,,,,JA
 Sam,collectiepresentatie - connecties verbindingen,2016-0010_1-2,publiek,ok,,,ok,nummer,2016-0010_1-2$4;2016-0010_1-2$5;2016-0010_1-2$6;2016-0010_1-2$7;2016-0010_1-2$1;;2016-0010_1-2$10,"Studio Klarenbeek & Dros*Klarenbeek, Eric*Dros, Maartje*Studio Klarenbeek & Dros",ok,Eric Klarenbeek; Maartje Dros,ok 2026-03-06,ok 2026-03-06,,JA
 Eva,collectiepresentatie - imitatie kopie,2022-0093,publiek,ok,,,ok,ok,2022-0093$1,"David, Amandine*Hofman, Esmé*van Tubergen, Joris*David, Amandine*Hofman, Esmé*van Tubergen, Joris",aangevraagd,Amandine David; Esmé Hofman; Joris van Tubergen,,,,JA
 "Eva, Johanna",collectiepresentatie - plooien vouwen,2024-0101,publiek,ok,,,bewerk en upload,x,,"Verroken, André*Verroken, André",,,,,,JA
@@ -13824,7 +13824,7 @@ Eva,collectiepresentatie - imitatie kopie,2024-0045_5-8,niet-publiek,ok,,,ok,ok,
 Eva,collectiepresentatie - imitatie kopie,2024-0045_6-8,niet-publiek,ok,,,ok,ok,2024-0045_6-8$1,"Studio Klarenbeek & Dros*Klarenbeek, Eric*Dros, Maartje*Studio Klarenbeek & Dros*Atelier Luma",ok,Eric Klarenbeek; Maartje Dros,ok 2026-03-06,nvt,,JA
 Eva,collectiepresentatie - imitatie kopie,2024-0045_7-8,niet-publiek,ok,,,ok,ok,2024-0045_7-8$1,"Studio Klarenbeek & Dros*Klarenbeek, Eric*Dros, Maartje*Studio Klarenbeek & Dros*Atelier Luma",ok,Eric Klarenbeek; Maartje Dros,ok 2026-03-06,nvt,,JA
 Eva,collectiepresentatie - imitatie kopie,2024-0045_8-8,niet-publiek,ok,,,ok,ok,2024-0045_8-8$1,"Studio Klarenbeek & Dros*Klarenbeek, Eric*Dros, Maartje*Studio Klarenbeek & Dros*Atelier Luma",ok,Eric Klarenbeek; Maartje Dros,ok 2026-03-06,nvt,,JA
-"Marie, Johanna",collectiepresentatie - na comfort,DMG_T_01434,publiek,,,,,,,,,,,,,JA
+"Marie, Johanna",collectiepresentatie - na comfort,DMG_T_01434,publiek,ok,,,,,,,,,,,,JA
 "Eva, Johanna",collectiepresentatie - migratie,2026-0002_0-7,publiek,ok,,,,,,"Unfold*Warnier, Claire*Verbruggen, Dries*Keep, Jonathan*Simpson, Keith*Emerging Objects*Rael, Ronald*San Fratello, Virginia*FabCraft Design Lab*Kai Yu, Kamm*Lu, Tzu-Yi*Liu, Zhao-Wei*Can, Emre*Bauman, Shlomit*Dover, Noam*Ohaly, Itay",,,,,,JA
 "Eva, Johanna",collectiepresentatie - migratie,2026-0002_1-7,niet-publiek,ok,,,,,,"Keep, Jonathan*",,,,,,JA
 "Eva, Johanna",collectiepresentatie - migratie,2026-0002_2-7,niet-publiek,ok,,,,,,"Simpson, Keith*",,,,,,JA
@@ -16553,9 +16553,9 @@ Johanna,,1991-0045,,,,,,x,,"Aerts, Leo*Wijnen, Ingrid*B&B Italia",,,,,,
 Johanna,meubels,1992-0054,publiek,ok,,,photoshop; ok,ok,1992-0054$2,"Veranneman, Emiel*De Coene Decor",,,,,,
 Johanna,meubels,1992-0055,publiek,ok,,,ok,x,1992-0055,"Dewulf, Koenraad*Andeko",,,,,,
 Johanna,meubels,1992-0060,publiek,ok,,,"ok 1992-0060$4, 1992-0060$6 te weinig pixels, rest afb oke",x,1992-0060$1;1992-0060$1;1992-0060$2;1992-0060$3;1992-0060$5;1992-0060$7;1992-0060,"De Bruyne, Pieter*Pieter De Bruyne",,,,,,
-Johanna,,1992-0169,,,,,,x,,"Leeman, Walter*Kusch + Co",,,,,,
-Johanna,,1992-0170,,,,,,x,,"Leeman, Walter*Kusch + Co",,,,,,
-Johanna,,1992-0171,,,,,,x,,"Leeman, Walter*Kusch + Co",,,,,,
+Johanna,meubels,1992-0169,publiek,ok,,,ok,x,1992-0169,"Leeman, Walter*Kusch + Co",,,,,,
+Johanna,,1992-0170,publiek,ok,,,ok,x,1992-0170,"Leeman, Walter*Kusch + Co",,,,,,
+Johanna,,1992-0171,publiek,ok,,,ok,x,1992-0171,"Leeman, Walter*Kusch + Co",,,,,,
 Johanna,meubels,1992-0195_0-3,publiek,ok,,,Foto samen?,x,,"Van Praet, Frans",,,,,,
 Johanna,meubels,1992-0195_1-3,niet-publiek,ok,,,ok,x,1992-0195_1-3,"Van Praet, Frans*Belgo Chrom",,,,,,
 Johanna,meubels,1992-0195_2-3,niet-publiek,ok,,,ok,x,1992-0195_2-3,"Van Praet, Frans*Belgo Chrom",,,,,,
@@ -16757,10 +16757,10 @@ Johanna,,2003-0104,,,,,,x,,"Dely, Joël*Verjans",,,,,,
 Johanna,,2003-0121,,,,,,x,,onbekend,ok,,,,,
 Johanna,,2003-0149,publiek,ok,,,ok,x,2003-0149,"Arad, Ron*Kartell",ok,Ron Arad,,,,
 Johanna,meubels,2003-0163,publiek,ok,,,ok,x,2003-0163,"Arad, Ron*onbekend",ok,Ron Arad,,,,
-Johanna,,2004-0026_0-3,,,,,,x,,"van Matérn, Catarina*Askhagen, Stefan*Kinnarps",,,,,,
-Johanna,,2004-0026_1-3,,,,,,x,,"van Matérn, Catarina*Askhagen, Stefan*Kinnarps",,,,,,
-Johanna,,2004-0026_2-3,,,,,,x,,"van Matérn, Catarina*Askhagen, Stefan*Kinnarps",,,,,,
-Johanna,,2004-0026_3-3,,,,,,x,,"van Matérn, Catarina*Askhagen, Stefan*Kinnarps",,,,,,
+Johanna,,2004-0026_0-3,publiek,ok,,,ok,x,2004-0026_0-3,"van Matérn, Catarina*Askhagen, Stefan*Kinnarps",,,,,,
+Johanna,,2004-0026_1-3,niet-publiek,ok,,,Geen afb,x,,"van Matérn, Catarina*Askhagen, Stefan*Kinnarps",,,,,,
+Johanna,,2004-0026_2-3,niet-publiek,ok,,,Geen afb,x,,"van Matérn, Catarina*Askhagen, Stefan*Kinnarps",,,,,,
+Johanna,,2004-0026_3-3,niet-publiek,ok,,,Geen afb,x,,"van Matérn, Catarina*Askhagen, Stefan*Kinnarps",,,,,,
 Johanna,meubels,2004-0031_0-2,publiek,ok,,,ok,x,2004-0031_0-2$1,"Eldøy, Olav*Stokke",,,,,,
 Johanna,meubels,2004-0031_1-2,niet-publiek,ok,,,ok,x,2004-0031_1-2$1,"Eldøy, Olav*Stokke",,,,,,
 Johanna,meubels,2004-0031_2-2,niet-publiek,ok,,,ok,x,2004-0031_2-2$1,"Eldøy, Olav*Stokke",,,,,,
