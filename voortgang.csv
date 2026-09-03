@@ -1332,12 +1332,12 @@ Marie,jaren 1970,1977-0094,publiek,ok,x,,ok,ok,1977-0094$1,"Delaunay, Sonia*Artc
 Marie,jaren 1960,1978-0009,publiek,ok,x,,ok,ok,1978-0009,"De Bruyne, Pieter*Arteluce",,,,,,
 Marie,jaren 1970,1978-0097,publiek,ok,x,,ok,ok,1978-0097,"Lenoir, Lut*Lenoir, Lut",ok,Lut Lenoir,ok 09-02-2023,ok 09-02-2023,,
 Marie,jaren 1970,1978-0098,publiek,ok,x,,ok,ok,1978-0098,"Six, Ingrid*Six, Ingrid",ok,Ingrid Six,ok 08-04-2022,ok 08-04-2022,,
-Marie,jaren 1970,,publiek,ok,,,ok,ok,1978-0102_0-5,,,,ok 16-2-2022,ok 16-2-2022,,
-Marie,jaren 1970,,niet-publiek,ok,,,ok,ok,1978-0102_1-5$1,,,,ok 2023-07-07,nvt,,
-Marie,jaren 1970,,niet-publiek,ok,,,ok,ok,1978-0102_2-5$1,,,,ok 2023-07-07,nvt,,
-Marie,jaren 1970,,niet-publiek,ok,,,ok,ok,1978-0102_3-5$1,,,,ok 2023-07-07,nvt,,
-Marie,jaren 1970,,niet-publiek,ok,,,ok,ok,1978-0102_4-5$1,,,,ok 2023-07-07,nvt,,
-Marie,jaren 1970,,niet-publiek,ok,,,ok,ok,1978-0102_5-5$1,,,,ok 2023-07-07,nvt,,
+Marie,jaren 1970,1978-0102_0-5,publiek,ok,,,ok,ok,1978-0102_0-5,"Pauwels, Achiel*Pauwels, Achiel",ok,Achiel Pauwels,ok 16-2-2022,ok 16-2-2022,,
+Marie,jaren 1970,1978-0102_1-5,niet-publiek,ok,,,ok,ok,1978-0102_1-5$1,"Pauwels, Achiel*Pauwels, Achiel",ok,Achiel Pauwels,ok 2023-07-07,nvt,,
+Marie,jaren 1970,1978-0102_2-5,niet-publiek,ok,,,ok,ok,1978-0102_2-5$1,"Pauwels, Achiel*Pauwels, Achiel",ok,Achiel Pauwels,ok 2023-07-07,nvt,,
+Marie,jaren 1970,1978-0102_3-5,niet-publiek,ok,,,ok,ok,1978-0102_3-5$1,"Pauwels, Achiel*Pauwels, Achiel",ok,Achiel Pauwels,ok 2023-07-07,nvt,,
+Marie,jaren 1970,1978-0102_4-5,niet-publiek,ok,,,ok,ok,1978-0102_4-5$1,"Pauwels, Achiel*Pauwels, Achiel",ok,Achiel Pauwels,ok 2023-07-07,nvt,,
+Marie,jaren 1970,1978-0102_5-5,niet-publiek,ok,,,ok,ok,1978-0102_5-5$1,"Pauwels, Achiel*Pauwels, Achiel",ok,Achiel Pauwels,ok 2023-07-07,nvt,,
 Marie,jaren 1970,1978-0103,publiek,ok,x,,ok,ok,1978-0103$1,"Dionyse, Carmen*Dionyse, Carmen",ok,Carmen Dionyse,ok 27-9,ok 27-9,,
 Marie,jaren 1970,1978-0104,publiek,ok,x,,ok,ok,1978-0104$2,"Dionyse, Carmen*Dionyse, Carmen",ok,Carmen Dionyse,ok 2023-02-27,ok 2023-02-27,,
 Marie,jaren 1970,1979-0003,publiek,datering check,,,ok,ok,1979-0003$3,"Lauwaert, Yvette*Lauwaert, Yvette",ok,Yvette Lauwaert,ok 26-10-2022,ok 26-10-2022,,
@@ -7667,7 +7667,7 @@ Sam,meubels,2006-0102_1-2,niet-publiek,ok,,,belichting;ok,ok,2006-0102_1-2$1,"Ch
 Sam,meubels,2006-0102_2-2,niet-publiek,ok,,,photoshop;ok,ok,2006-0102_2-2$1,"Charles & Ray Eames*Eames, Ray*Eames, Charles*Vitra",,,,,,
 Sam,meubels,2007-0054_0,publiek,ok,,,ok,ok,2007-0054_1;2007-0054_2,"Charles & Ray Eames*Eames, Ray*Eames, Charles*Vitra",,,,,,JA
 Sam,meubels,2007-0054_1,niet-publiek,ok,,,ok,ok,2007-0054_1,"Charles & Ray Eames*Eames, Ray*Eames, Charles*Vitra",,,,,,JA
-Sam,meubels,2007-0054_2,niet-publiek,ok,,,ok,ok,2007-0054_2,onbekend*onbekend,,,,,,JA
+Sam,meubels,2007-0054_2,niet-publiek,ok,,,ok,ok,2007-0054_2,onbekend*onbekend,ok,,,,,JA
 Sam,meubels,2008-0003_0-2,publiek,ok,,,photoshop,x,,"Mathsson, Bruno*Dux",ok,Bruno Mathsson International AB,,,,
 Sam,meubels,2008-0003_1-2,niet-publiek,ok,,,photoshop,x,,"Mathsson, Bruno*Dux",ok,Bruno Mathsson International AB,,,,
 Sam,meubels,2008-0003_2-2,niet-publiek,ok,,,photoshop,x,,"Mathsson, Bruno*Dux",ok,Bruno Mathsson International AB,,,,
@@ -9609,9 +9609,9 @@ Eva VR,nieuwe aanwinsten,2022-0031_10-11,niet-publiek,,,,ok,ok,2022-0031_10-11$1
 Eva VR,nieuwe aanwinsten,2022-0031_11-11,niet-publiek,,,,ok,ok,2022-0031_11-11$1,"Lab AIR*de Kievith, Iris*Piscaer, Annemarie",ok,Lab AIR; Iris de Kievith; Annemarie Piscaer,,,,
 Eva VR,nieuwe aanwinsten,2022-0032,publiek, ,,,ok,ok,2022-0032$1,BC materials*BC materials,,,,,rechtenklaring Thijs,
 "Eva VR, Johanna",nieuwe aanwinsten,2022-0033,publiek,ok,,,ok,ok,2022-0033$1,"Tytgat, Veerle*Manoeuvre",,,,,rechtenklaring Thijs,JA
-Eva VR,nieuwe aanwinsten,2022-0034_0-2,publiek,,,,ok,ok,2022-0034_0-2$1,"David, Amandine*David, Amandine*Hofman, Esmé*Hofman, Esmé*van Tubergen, Joris*van Tubergen, Joris",deels geklaard,Amandine David; Esmé Hofman; Joris van Tubergen,,,,JA
-Eva VR,nieuwe aanwinsten,2022-0034_1-2,niet-publiek,,,,ok,ok,2022-0034_1-2$1;2022-0034_1-2$2;2022-0034_1-2$3,"David, Amandine*David, Amandine*van Tubergen, Joris*van Tubergen, Joris",deels geklaard,Amandine David; Esmé Hofman; Joris van Tubergen,,,,JA
-Eva VR,nieuwe aanwinsten,2022-0034_2-2,niet-publiek,,,,ok,ok,2022-0034_2-2$1,"David, Amandine*David, Amandine*van Tubergen, Joris*van Tubergen, Joris",deels geklaard,Amandine David; Esmé Hofman; Joris van Tubergen,,,,JA
+Eva VR,nieuwe aanwinsten,2022-0034_0-2,publiek,ok,,,ok,ok,2022-0034_0-2$1,"David, Amandine*David, Amandine*Hofman, Esmé*Hofman, Esmé*van Tubergen, Joris*van Tubergen, Joris",deels geklaard,Amandine David; Esmé Hofman; Joris van Tubergen,,,,JA
+Eva VR,nieuwe aanwinsten,2022-0034_1-2,niet-publiek,ok,,,ok,ok,2022-0034_1-2$1;2022-0034_1-2$2;2022-0034_1-2$3,"David, Amandine*David, Amandine*van Tubergen, Joris*van Tubergen, Joris",deels geklaard,Amandine David; Esmé Hofman; Joris van Tubergen,,,,JA
+Eva VR,nieuwe aanwinsten,2022-0034_2-2,niet-publiek,ok,,,ok,ok,2022-0034_2-2$1,"David, Amandine*David, Amandine*van Tubergen, Joris*van Tubergen, Joris",deels geklaard,Amandine David; Esmé Hofman; Joris van Tubergen,,,,JA
 Eva VR,nieuwe aanwinsten,2022-0035,publiek,,,,ok,ok,2022-0035$2,"Verplanken, Frank*Verplanken, Frank",,,,,,
 Eva VR,nieuwe aanwinsten,2022-0054_0-2,publiek,ok?,,,ok,ok,2022-0054_0-2,"Engels, Lucien*onbekend",,,,,,
 Eva VR,nieuwe aanwinsten,2022-0054_1-2,niet-publiek,ok?,,,ok,ok,2022-0054_1-2,"Engels, Lucien*onbekend",,,,,,
@@ -11131,18 +11131,18 @@ Katrijn/Charlotte C,Sierobjecten,1353_2-2,niet-publiek,ok,ok,,achtergrond lichte
 Katrijn,Sierobjecten/Azië,1500,,,,,nieuwe foto onderkant,,1500$1;1500$2,onbekend*onbekend,ok,,,,,
 Katrijn,Azië,1509,,,,,"foto onderkant, bovenkant",,1509,onbekend*onbekend,,,,,,
 Katrijn,Azië,1543,,,,,foto onderkant,,1543,onbekend*onbekend,,,,,,
-Katrijn,Azië,1558,publiek,ok,ok,,ok,,1558$1; 1558$2,onbekend*onbekend,,,,,,
-Katrijn,Azië,5750_0-3,publiek,ok,ok,,nieuwe foto,,,onbekend*onbekend,,,,,,
-Katrijn,Azië,5750_1-3,niet-publiek,ok,ok,,ok,,5750_1-3$1; 5750_1-3$2; 5750_1-3$3,onbekend*onbekend,,,,,,
-Katrijn,Azië,5750_2-3,niet-publiek,ok,ok,,ok,,5750_2-3$1; 5750_2-3$2; 5750_2-3$3,onbekend*onbekend,,,,,,
-Katrijn,Azië,5750_3-3,niet-publiek,ok,ok,,ok,,5750_3-3$1; 5750_3-3$2; 5750_3-3$3,onbekend*onbekend,,,,,,
-Katrijn,Azië,5752_0-3,publiek,ok,ok,,ok,,5752_0-3; 5752_0-3$2,onbekend*onbekend,,,,,,
-Katrijn,Azië,5752_1-3,niet-publiek,ok,ok,,foto achterzijde,,5752_1-3$1; 5752_1-3$2,onbekend*onbekend,,,,,,
-Katrijn,Azië,5752_2-3,niet-publiek,ok,ok,,foto achterzijde,,5752_2-3$1; 5752_2-3$2,onbekend*onbekend,,,,,,
-Katrijn,Azië,5752_3-3,niet-publiek,ok,ok,,foto achterzijde,,5752_3-3$1; 5752_3-3$2,onbekend*onbekend,,,,,,
-Katrijn,Azië,5753,publiek,ok,ok,,ok,,5753$1; 5753$2; 5753$3,onbekend*onbekend,,,,,,
-Katrijn,Azië?,5754,publiek,ok,ok,,ok,,5754$1,onbekend*onbekend,,,,,,
-Katrijn,Azië?,5755,publiek,ok,ok,,ok,,5755$1,onbekend*onbekend,,,,,,
+Katrijn,Azië,1558,publiek,ok,ok,,ok,,1558$1; 1558$2,onbekend*onbekend,ok,,,,,
+Katrijn,Azië,5750_0-3,publiek,ok,ok,,nieuwe foto,,,onbekend*onbekend,ok,,,,,
+Katrijn,Azië,5750_1-3,niet-publiek,ok,ok,,ok,,5750_1-3$1; 5750_1-3$2; 5750_1-3$3,onbekend*onbekend,ok,,,,,
+Katrijn,Azië,5750_2-3,niet-publiek,ok,ok,,ok,,5750_2-3$1; 5750_2-3$2; 5750_2-3$3,onbekend*onbekend,ok,,,,,
+Katrijn,Azië,5750_3-3,niet-publiek,ok,ok,,ok,,5750_3-3$1; 5750_3-3$2; 5750_3-3$3,onbekend*onbekend,ok,,,,,
+Katrijn,Azië,5752_0-3,publiek,ok,ok,,ok,,5752_0-3; 5752_0-3$2,onbekend*onbekend,ok,,,,,
+Katrijn,Azië,5752_1-3,niet-publiek,ok,ok,,foto achterzijde,,5752_1-3$1; 5752_1-3$2,onbekend*onbekend,ok,,,,,
+Katrijn,Azië,5752_2-3,niet-publiek,ok,ok,,foto achterzijde,,5752_2-3$1; 5752_2-3$2,onbekend*onbekend,ok,,,,,
+Katrijn,Azië,5752_3-3,niet-publiek,ok,ok,,foto achterzijde,,5752_3-3$1; 5752_3-3$2,onbekend*onbekend,ok,,,,,
+Katrijn,Azië,5753,publiek,ok,ok,,ok,,5753$1; 5753$2; 5753$3,onbekend*onbekend,ok,,,,,
+Katrijn,Azië?,5754,publiek,ok,ok,,ok,,5754$1,onbekend*onbekend,ok,,,,,
+Katrijn,Azië?,5755,publiek,ok,ok,,ok,,5755$1,onbekend*onbekend,ok,,,,,
 Katrijn,Azië,0092,publiek,,,,geen foto,,,,,,,,,
 Katrijn,Azië,1596,publiek,,,,"foto met de houten sokkel, onderzijde merkteken",,1596,onbekend*onbekend,,,,,,
 Katrijn,Azië,1978-0078,publiek,ok,ok,,ok,,1978-0078$1; 1978-0078$2,onbekend*onbekend,,,,,,
@@ -12560,7 +12560,7 @@ Jakob,keramiek,1407,publiek,ok,,,achtergrond en kleur; ok,ok,1407$2,onbekend*onb
 Jakob,keramiek,1464,publiek,ok,,,ok,ok,1464$2;1464$1,onbekend*onbekend,ok,,ok 2025-08-04,ok 2025-08-04,,
 Jakob,keramiek,1471,publiek,ok,,,belichting;ok,ok,1471$3,onbekend*onbekend,ok,,ok 2025-08-04,ok 2025-08-04,,
 Jakob,keramiek,1486,publiek,ok,,,ok,ok,1486$3,Manufacture nationale de Sèvres*Manufacture nationale de Sèvres,ok,,ok 2025-08-04,ok 2025-08-04,,
-Jakob,keramiek,1540,publiek,ok,,,ok,ok,1540$1,onbekend,,,,,,
+Jakob,keramiek,1540,publiek,ok,,,ok,ok,1540$1,onbekend,ok,,,,,
 Jakob,keramiek,1554,publiek,ok,,,ok,ok,1554$1,"Hermans, Robert*Hermans, Robert",ok,Robert Hermans,ok 2026-07-10,ok 2026-06-03,,
 Jakob,keramiek,1560,publiek,"vermoedelijk buiten periode, te bekijken door expert",,,ok,ok,1560$1,onbekend*onbekend,ok,,,,,
 Jakob,keramiek,1580,publiek,ok,,,achtergrond; ok,ok,1580$2,"Dubar, Louis*Maes (Sint-Amandsberg)",ok,,ok 2025-08-04,ok 2025-08-04,,
@@ -13457,11 +13457,11 @@ Annelies,Antoine Van Loocke,AVL_0016,publiek,ok,,,ok,,AVL_0016,,ok,Antoine Van L
 Marie,collectiepresentatie - intro modellenmuseum,0162,publiek,ok,,,nieuwe foto na restauratie; ok,ok,0162$2,"Heins, Armand*Heins, Armand",ok,,ok 2026-07-10,ok 2026-06-03,,JA
 Sam,collectiepresentatie - connecties verbindingen,0935,publiek,ok,,"nieuwe foto na restauratie, mogelijk, in DING",nieuwe foto na restauratie; ok,ok,0935$2,"Boulez, Jules*Studio de Saedeleer",ok,Jules Boulez,ok 2026-07-10,ok 2026-07-10,,JA
 "Marie, Johanna",collectiepresentatie - imitatie kopie,1258,publiek,ok,,,nog foto nemen van liggend bord; ok,ok,1258$3;1258$4,onbekend*onbekend,ok,,ok 2026-07-10,ok 2026-07-10,,JA
-"Marie, Johanna",,1481,publiek,ok,,,ok,,1481$5,onbekend*onbekend,,,,,,
-"Marie, Johanna",collectiepresentatie - intro modellenmuseum,1516,publiek,ok,,,"foto ok, maar weerkaatsing lampen; ok",ok,1516$1,onbekend*onbekend,,,,,,JA
-"Marie, Johanna",collectiepresentatie - intro modellenmuseum,1517,publiek,ok,,,"foto ok, maar weerkaatsing lampen; ok",ok,1517$1,onbekend*onbekend,,,,,,JA
-"Marie, Johanna",,1518,publiek,ok,,,ok,,1518,onbekend*onbekend,,,,,,
-"Marie, Johanna",,1519,publiek,ok,,,ok,,1519,onbekend*onbekend,,,,,,
+"Marie, Johanna",,1481,publiek,ok,,,ok,,1481$5,onbekend*onbekend,ok,,,,,
+"Marie, Johanna",collectiepresentatie - intro modellenmuseum,1516,publiek,ok,,,"foto ok, maar weerkaatsing lampen; ok",ok,1516$1,onbekend*onbekend,ok,,,,,JA
+"Marie, Johanna",collectiepresentatie - intro modellenmuseum,1517,publiek,ok,,,"foto ok, maar weerkaatsing lampen; ok",ok,1517$1,onbekend*onbekend,ok,,,,,JA
+"Marie, Johanna",,1518,publiek,ok,,,ok,,1518,onbekend*onbekend,ok,,,,,
+"Marie, Johanna",,1519,publiek,ok,,,ok,,1519,onbekend*onbekend,ok,,,,,
 "Marie, Johanna",collectiepresentatie - na comfort,1908_0-2,publiek,ok,,nieuwe foto na restauratie,nieuwe foto na restauratie: ok,ok,1908_0-2$2,onbekend*onbekend,ok,,ok 2026-07-10,ok 2026-07-10,,JA
 "Marie, Johanna",collectiepresentatie - na comfort,1908_1-2,niet-publiek,ok,,nieuwe foto na restauratie,nieuwe foto na restauratie: ok,ok,1908_1-2$2,onbekend*onbekend,ok,,ok 2026-07-10,nvt,,JA
 "Marie, Johanna",collectiepresentatie - na comfort,1908_2-2,niet-publiek,ok,,nieuwe foto na restauratie,nieuwe foto na restauratie: ok,ok,1908_2-2$2,onbekend*onbekend,ok,,ok 2026-07-10,nvt,,JA
@@ -13473,7 +13473,7 @@ Sam,collectiepresentatie - migratie,1987-0455_2-5,niet-publiek,ok,,,ok,ok,1987-0
 Sam,collectiepresentatie - migratie,1987-0455_3-5,niet-publiek,ok,,,ok,ok,1987-0455_3-5,"Wolfers, Philippe*Wolfers Frères",ok,,ok 2026-03-06,nvt,,JA
 Sam,collectiepresentatie - migratie,1987-0455_4-5,niet-publiek,ok,,,kleur; ok,ok,1987-0455_4-5$1,"Wolfers, Philippe*Wolfers Frères",ok,,ok 2026-03-06,nvt,,JA
 Sam,collectiepresentatie - migratie,1987-0455_5-5,niet-publiek,ok,,,ok,ok,1987-0455_5-5,"Wolfers, Philippe*Wolfers Frères*Lemmens, Jean",ok,,ok 2026-03-06,nvt,,JA
-"Marie, Johanna",collectiepresentatie - migratie,1987-1203,publiek,ok,,,foto draaien in axiell; ok,ok,1987-1203,onbekend*onbekend,,,,,,JA
+"Marie, Johanna",collectiepresentatie - migratie,1987-1203,publiek,ok,,,foto draaien in axiell; ok,ok,1987-1203,onbekend*onbekend,ok,,,,,JA
 Sam,collectiepresentatie - imitatie kopie,2001-0150,,,,,ok,ok,2001-0150$1;2001-0150$2,Ebena,,,,,,
 "Eva, Johanna",collectiepresentatie - plooien vouwen,2004-0108,publiek,ok,,,ok,ok,2004-0108$1,"Van Severen, Maarten*Light",ok,Maarten Van Severen,ok 2026-07-10,ok 2026-06-03,,JA
 Sam ,collectiepresentatie - imitatie kopie,2005-0010,publiek,ok,,"nieuwe foto na reiniging, in DING",nieuwe foto na reiniging,ok,2005-0010$17,"Wolfers, Philippe*De Rudder, Isidore*Louis Wolfers Père et Fils",ok,,,,,JA
@@ -13494,9 +13494,9 @@ Sam,collectiepresentatie - na comfort,2640,publiek,ok,,,nieuwe foto; ok,ok,2640$
 Sam,collectiepresentatie - connecties verbindingen,2783,publiek,ok,,,"nieuwe foto, juiste richting (zie logo); ok",ok,2783$3,"Van huffel, Albert*L'Art Décoratif Céline Dangotte",ok,,ok 2026-07-10,ok 2026-06-03,,JA
 Sam,collectiepresentatie - intro modellenmuseum,2823,publiek,ok,,,donkere foto; ok,ok,2823$1,"Bergmans, Jacques*Bergmans, Jacques",,,,,,JA
 Marie,collectiepresentatie - na comfort,3414,publiek,ok,,"nieuwe foto na restauratie, in DING",foto ok of neutrale achtergrond?,ok,3414$3,onbekend*onbekend,ok,,ok 2026-07-10,ok 2026-07-10,,JA
-Marie,collectiepresentatie - intro modellenmuseum,3415,publiek,ok,,"nieuwe foto na restauratie, in DING",ok,ok,3415$3,onbekend*onbekend,,,,,,JA
+Marie,collectiepresentatie - intro modellenmuseum,3415,publiek,ok,,"nieuwe foto na restauratie, in DING",ok,ok,3415$3,onbekend*onbekend,ok,,,,,JA
 Marie,collectiepresentatie - intro modellenmuseum,3493,,,,,"foto ok, maar is spiegel niet te vuil?",x,3493,,,,,,,
-Marie,collectiepresentatie - na comfort,3874,publiek,ok,,"nieuwe foto na restauratie, in DING",foto maken; ok,ok,3874$1,onbekend*onbekend,,,,,,JA
+Marie,collectiepresentatie - na comfort,3874,publiek,ok,,"nieuwe foto na restauratie, in DING",foto maken; ok,ok,3874$1,onbekend*onbekend,ok,,,,,JA
 Sam,collectiepresentatie - intro modellenmuseum,4097,publiek,ok,,"nieuwe foto na restauratie, restau klaar",nieuwe foto; ok,ok,4097$2;4097$1,onbekend*onbekend,ok,,ok 2026-03-06,ok 2026-03-06,,JA
 Sam,collectiepresentatie - intro modellenmuseum,4122,publiek,ok,,nieuwe foto na restauratie,nieuwe foto; ok,ok,4122$1,onbekend*onbekend,ok,,ok 2026-03-06,ok 2026-03-06,,JA
 Sam,collectiepresentatie - intro modellenmuseum,4126_0-2,publiek,ok,,,nieuwe foto; ok,ok,4126_0-2$1,onbekend*onbekend,ok,,ok 2026-07-10,ok 2026-06-03,,JA
@@ -13517,34 +13517,34 @@ Sam,collectiepresentatie - intro modellenmuseum,4238,publiek,ok,,"nieuwe foto na
 Sam,collectiepresentatie - intro modellenmuseum,4256,publiek,ok,,"nieuwe foto na restauratie, restau klaar",nieuwe foto; ok,ok,4256$1,onbekend*onbekend,ok,,ok 2026-03-06,ok 2026-03-06,,JA
 Sam,,4358,,,,,ok,ok,4358,onbekend,,,,,,
 Sam,collectiepresentatie - imitatie/kopie,4365,publiek,ok,,,foto verbeteren; ok,ok,4365$1,onbekend*onbekend,ok,,ok 2026-07-10,ok 2026-06-03,,JA
-Sam,collectiepresentatie - intro modellenmuseum,5223_0-2,publiek,ok,,,nieuwe foto; ok,ok,5223_0-2$1,onbekend*onbekend,,,,,,JA
-Sam,collectiepresentatie - intro modellenmuseum,5223_1-2,niet-publiek,ok,,,nieuwe foto; ok,ok,5223_1-2$1,onbekend*onbekend,,,,,,JA
+Sam,collectiepresentatie - intro modellenmuseum,5223_0-2,publiek,ok,,,nieuwe foto; ok,ok,5223_0-2$1,onbekend*onbekend,ok,,,,,JA
+Sam,collectiepresentatie - intro modellenmuseum,5223_1-2,niet-publiek,ok,,,nieuwe foto; ok,ok,5223_1-2$1,onbekend*onbekend,ok,,,,,JA
 Sam,collectiepresentatie - intro modellenmuseum,5223_2-2,publiek,ok,,"nieuwe foto na restauratie, restau klaar",nieuwe foto; ok,ok,5223_2-2$1,onbekend*onbekend,ok,,ok 2026-03-06,ok 2026-03-06,,JA
-Sam,collectiepresentatie - na comfort,5256_0-2,publiek,ok,,nieuwe foto na restauratie,ok,ok,5256_0-2$1,onbekend*onbekend,,,,,,JA
-Sam,collectiepresentatie - na comfort,5256_1-2,niet-publiek,ok,,nieuwe foto na restauratie,pomponnen naar beneden; ok,ok,5256_1-2$1,onbekend*onbekend,,,,,,JA
-Sam,collectiepresentatie - na comfort,5256_2-2,niet-publiek,ok,,nieuwe foto na restauratie,pomponnen naar beneden; ok,ok,5256_2-2$1,onbekend*onbekend,,,,,,JA
+Sam,collectiepresentatie - na comfort,5256_0-2,publiek,ok,,nieuwe foto na restauratie,ok,ok,5256_0-2$1,onbekend*onbekend,ok,,,,,JA
+Sam,collectiepresentatie - na comfort,5256_1-2,niet-publiek,ok,,nieuwe foto na restauratie,pomponnen naar beneden; ok,ok,5256_1-2$1,onbekend*onbekend,ok,,,,,JA
+Sam,collectiepresentatie - na comfort,5256_2-2,niet-publiek,ok,,nieuwe foto na restauratie,pomponnen naar beneden; ok,ok,5256_2-2$1,onbekend*onbekend,ok,,,,,JA
 Sam,collectiepresentatie - intro modellenmuseum,5263,publiek,ok,,"nieuwe foto na restauratie, restau klaar",nieuwe foto; ok,ok,5263$3;5263$2;5263$1,onbekend*onbekend,ok,,ok 2026-03-06,ok 2026-03-06,,JA
-Sam,collectiepresentatie - intro modellenmuseum,5286_0-2,publiek,ok,,,foto's draaien in Axiell; nieuwe foto; ok,ok,5286_0-2$1,onbekend*onbekend,,,,,,JA
+Sam,collectiepresentatie - intro modellenmuseum,5286_0-2,publiek,ok,,,foto's draaien in Axiell; nieuwe foto; ok,ok,5286_0-2$1,onbekend*onbekend,ok,,,,,JA
 Sam,collectiepresentatie - intro modellenmuseum,5286_1-2,niet-publiek,ok,,nieuwe foto na restauratie,foto's draaien in Axiell; nieuwe foto; ok,ok,5286_1-2$1,onbekend*onbekend,ok,,ok 2026-03-06,ok 2026-03-06,,JA
-Sam,collectiepresentatie - intro modellenmuseum,5286_2-2,niet-publiek,ok,,,foto's draaien in Axiell; nieuwe foto; ok,ok,5286_2-2$1,onbekend*onbekend,,,,,,JA
+Sam,collectiepresentatie - intro modellenmuseum,5286_2-2,niet-publiek,ok,,,foto's draaien in Axiell; nieuwe foto; ok,ok,5286_2-2$1,onbekend*onbekend,ok,,,,,JA
 Sam,collectiepresentatie - na comfort,5306,publiek,ok,,"nieuwe foto na restauratie, restau klaar",nieuwe foto; ok,ok,5306$1,onbekend*onbekend,ok,,ok 2026-03-06,ok 2026-03-06,,JA
 Sam,collectiepresentatie - intro modellenmuseum,5323,publiek,ok,,"nieuwe foto na restauratie, restau klaar",nieuwe foto; ok,ok,5323$1,onbekend*onbekend,ok,,ok 2026-07-10,ok 2026-06-03,,JA
 Sam,collectiepresentatie - na comfort,6469,publiek,ok,,nieuwe foto na restauratie,foto draaien horizontaal; ok,ok,6469$1,onbekend*onbekend,ok,,ok 2026-07-10,ok 2026-06-03,,JA
-"Marie, Johanna",collectiepresentatie - na comfort,DMG_T_01383,publiek,ok,,enkel de stukken die op zaal komen worden gereinigd: wat met foto?,foto maken,x,,onbekend*onbekend,,,,,,JA
-"Marie, Johanna",collectiepresentatie - na comfort,DMG_T_01384,publiek,ok,,enkel de stukken die op zaal komen worden gereinigd: wat met foto?,ok,x,DMG_T_01384$1,onbekend*onbekend,,,,,,JA
-"Marie, Johanna",collectiepresentatie - na comfort,DMG_T_01385,publiek,ok,,enkel de stukken die op zaal komen worden gereinigd: wat met foto?,ok,x,DMG_T_01385$1,onbekend*onbekend,,,,,,JA
+"Marie, Johanna",collectiepresentatie - na comfort,DMG_T_01383,publiek,ok,,enkel de stukken die op zaal komen worden gereinigd: wat met foto?,foto maken,x,,onbekend*onbekend,ok,,,,,JA
+"Marie, Johanna",collectiepresentatie - na comfort,DMG_T_01384,publiek,ok,,enkel de stukken die op zaal komen worden gereinigd: wat met foto?,ok,x,DMG_T_01384$1,onbekend*onbekend,ok,,,,,JA
+"Marie, Johanna",collectiepresentatie - na comfort,DMG_T_01385,publiek,ok,,enkel de stukken die op zaal komen worden gereinigd: wat met foto?,ok,x,DMG_T_01385$1,onbekend*onbekend,ok,,,,,JA
 Sam,,DMG_T_T_0041_0-2,,,,,nieuwe foto,x,,,,,,,,
 Sam,,DMG_T_T_0041_1-2,,,,,donker,x,,,,,,,,
 Sam,,DMG_T_T_0041_2-2,,,,,donker,x,,,,,,,,
-Sam,collectiepresentatie - na comfort,FH-0011_0-2,publiek,ok,,nieuwe foto na restauratie,ok,ok,FH-0011_0-2$1;FH-0011_0-2$2,Moritz Hacker*Moritz Hacker,,,,,,JA
-Sam,collectiepresentatie - na comfort,FH-0011_1-2,niet-publiek,ok,,nieuwe foto na restauratie,ok,ok,FH-0011_1-2$1;FH-0011_1-2$2,Moritz Hacker*Moritz Hacker,,,,,,JA
-Sam,collectiepresentatie - na comfort,FH-0011_2-2,niet-publiek,ok,,nieuwe foto na restauratie,ok,ok,FH-0011_2-2$1;FH-0011_2-2$2,Moritz Hacker*Moritz Hacker,,,,,,JA
+Sam,collectiepresentatie - na comfort,FH-0011_0-2,publiek,ok,,nieuwe foto na restauratie,ok,ok,FH-0011_0-2$1;FH-0011_0-2$2,Moritz Hacker*Moritz Hacker,ok,,,,,JA
+Sam,collectiepresentatie - na comfort,FH-0011_1-2,niet-publiek,ok,,nieuwe foto na restauratie,ok,ok,FH-0011_1-2$1;FH-0011_1-2$2,Moritz Hacker*Moritz Hacker,ok,,,,,JA
+Sam,collectiepresentatie - na comfort,FH-0011_2-2,niet-publiek,ok,,nieuwe foto na restauratie,ok,ok,FH-0011_2-2$1;FH-0011_2-2$2,Moritz Hacker*Moritz Hacker,ok,,,,,JA
 Marie,collectiepresentatie - migratie,FH-0015,publiek,ok,,,nieuwe foto maken met neutrale achtergrond; ok,ok,FH-0015$1;FH-0015$2;FH-0015$3;FH-0015$4,"Rousseau, Eugène*Léveillé, Ernest Baptiste",ok,,,,,JA
 Marie,collectiepresentatie - migratie,FH-0092,publiek,ok,,,ok,x,FH-0092,"Wolfers, Marcel*Lakatelier Marcel Wolfers",,,,,,JA
 "Marie, Johanna",collectiepresentatie - intro modellenmuseum,1609,publiek,ok,,"nieuwe foto na restauratie, restauratie al gebeurd
-",nieuwe foto; ok,ok,1609$3;1609$4,onbekend*onbekend,,,,,,JA
+",nieuwe foto; ok,ok,1609$3;1609$4,onbekend*onbekend,ok,,,,,JA
 "Eva, Johanna",collectiepresentatie - imitatie kopie,2025-0008,publiek,ok,,,bewerk en upload; ok,ok,2025-0008$1;2025-0008$4,"Zeisel, Eva*Schramberger Majolika-Fabrik",ok,Eva Zeisel,ok 2026-07-10,ok 2026-06-03,,JA
-"Sam, Johanna",collectiepresentatie - imitatie kopie,3046,publiek,ok,,,ok,ok,3046$1;3046$2,onbekend*Ebena,,,,,,JA
+"Sam, Johanna",collectiepresentatie - imitatie kopie,3046,publiek,ok,,,ok,ok,3046$1;3046$2,onbekend*Ebena,ok,,,,,JA
 Charlotte C,sierobjecten,0191,publiek,ok,,,ok,x,0191,onbekend*onbekend,ok,,,,,
 Charlotte C,sierobjecten,0192,publiek,ok,,,ok,x,0192,onbekend*onbekend,ok,,,,,
 Charlotte C,sierobjecten,0193,publiek,ok,,,ok,x,0193,onbekend*onbekend,ok,,,,,
@@ -13563,7 +13563,7 @@ Charlotte C - Marie,sierobjecten,1394,publiek,ok,,,ok,ok,1394$1,onbekend*onbeken
 Charlotte C,sierobjecten,1395,publiek,ok,,,ok,ok,1395$1,"Delvaux, Laurent*Delvaux, Laurent",ok,,ok 2026-03-06,ok 2026-03-06,,
 Charlotte C,sierobjecten,1397,publiek,ok,,,ok,x,1397,onbekend*onbekend,ok,,,,,
 Charlotte C,sierobjecten,1409,publiek,ok,,,ok,ok,1409$1,"Kozan, Miyagawa*Kozan, Miyagawa",ok,,ok 2026-03-06,ok 2026-03-06,,
-"Charlotte C, Marie, Johanna",sierobjecten,1411,publiek,ok,,,ok,ok,1411$1,onbekend*onbekend,,,,,,JA
+"Charlotte C, Marie, Johanna",sierobjecten,1411,publiek,ok,,,ok,ok,1411$1,onbekend*onbekend,ok,,,,,JA
 Charlotte C,sierobjecten,1431,publiek,ok,,,tif achtergrond opkuisen en omzetten,x,1431;1431$1.tif,"Goupy, Marcel*Rouard, Georges",ok,,,,,
 Charlotte C,sierobjecten,1436,publiek,ok,,,ok,ok,1436$1,"Majorelle, Louis*Daum Frères",ok,,ok 2026-03-06,ok 2026-03-06,,
 Charlotte C,sierobjecten,1441,publiek,ok,,,ok,ok,1441,"Schneider, Charles*Verreries Schneider",ok,,ok 2026-03-06,ok 2026-03-06,,
@@ -13824,7 +13824,7 @@ Eva,collectiepresentatie - imitatie kopie,2024-0045_5-8,niet-publiek,ok,,,ok,ok,
 Eva,collectiepresentatie - imitatie kopie,2024-0045_6-8,niet-publiek,ok,,,ok,ok,2024-0045_6-8$1,"Studio Klarenbeek & Dros*Klarenbeek, Eric*Dros, Maartje*Studio Klarenbeek & Dros*Atelier Luma",ok,Eric Klarenbeek; Maartje Dros,ok 2026-03-06,nvt,,JA
 Eva,collectiepresentatie - imitatie kopie,2024-0045_7-8,niet-publiek,ok,,,ok,ok,2024-0045_7-8$1,"Studio Klarenbeek & Dros*Klarenbeek, Eric*Dros, Maartje*Studio Klarenbeek & Dros*Atelier Luma",ok,Eric Klarenbeek; Maartje Dros,ok 2026-03-06,nvt,,JA
 Eva,collectiepresentatie - imitatie kopie,2024-0045_8-8,niet-publiek,ok,,,ok,ok,2024-0045_8-8$1,"Studio Klarenbeek & Dros*Klarenbeek, Eric*Dros, Maartje*Studio Klarenbeek & Dros*Atelier Luma",ok,Eric Klarenbeek; Maartje Dros,ok 2026-03-06,nvt,,JA
-"Marie, Johanna",collectiepresentatie - na comfort,DMG_T_01434,publiek,ok,,,,,,onbekend*onbekend,,,,,,JA
+"Marie, Johanna",collectiepresentatie - na comfort,DMG_T_01434,publiek,ok,,,,,,onbekend*onbekend,ok,,,,,JA
 "Eva, Johanna",collectiepresentatie - migratie,2026-0002_0-7,publiek,ok,,,ok,ok,2026-0002_0-7$1;2026-0002_0-7$2;2026-0002_0-7$3,"Unfold*Warnier, Claire*Verbruggen, Dries*Keep, Jonathan*Simpson, Keith*Emerging Objects*Rael, Ronald*San Fratello, Virginia*FabCraft Design Lab*Kai Yu, Kamm*Lu, Tzu-Yi*Liu, Zhao-Wei*Can, Emre*Bauman, Shlomit*Dover, Noam*Ohaly, Itay*Unfold*Keep, Jonathan*Simpson, Keith*Emerging Objects*FabCraft Design Lab*Can, Emre*Bauman, Shlomit*Dover, Noam*Ohaly, Itay",,,,,,JA
 "Eva, Johanna",collectiepresentatie - migratie,2026-0002_1-7,niet-publiek,ok,,,ok,ok,2026-0002_1-7$1;,"Keep, Jonathan*Keep, Jonathan",,,,,,JA
 "Eva, Johanna",collectiepresentatie - migratie,2026-0002_2-7,niet-publiek,ok,,,ok,ok,2026-0002_2-7$1,"Simpson, Keith*Simpson, Keith",,,,,,JA
@@ -13833,7 +13833,7 @@ Eva,collectiepresentatie - imitatie kopie,2024-0045_8-8,niet-publiek,ok,,,ok,ok,
 "Eva, Johanna",collectiepresentatie - migratie,2026-0002_5-7,niet-publiek,ok,,,ok,ok,2026-0002_5-7$1;2026-0002_5-7$2;2026-0002_5-7$3,"Can, Emre*Can, Emre",,,,,,JA
 "Eva, Johanna",collectiepresentatie - migratie,2026-0002_6-7,niet-publiek,ok,,,ok,ok,2026-0002_6-7$1;2026-0002_6-7$2;2026-0002_6-7$3,"Bauman, Shlomit*Dover, Noam*Ohaly, Itay*Bauman, Shlomit*Dover, Noam*Ohaly, Itay",,,,,,JA
 "Eva, Johanna",collectiepresentatie - migratie,2026-0002_7-7,niet-publiek,ok,,,ok,ok,2026-0002_7-7$1,"Unfold*Warnier, Claire*Verbruggen, Dries*Unfold",,,,,,JA
-"Marie, Johanna",collectiepresentatie,2026-0001,publiek,ok,,,ok,ok,2026-0001 ,onbekend*onbekend,,,,,,JA
+"Marie, Johanna",collectiepresentatie,2026-0001,publiek,ok,,,ok,ok,2026-0001 ,onbekend*onbekend,ok,,,,,JA
 "Eva, Johanna",collectiepresentatie - comfort,2026-0003_0-3,publiek,ok,,,foto maken; ok,ok,2026-0003_0-3;2026-0003-0004-0005$1;2026-0003-0004-0005$2,"Morin, Louise*Atelier Mulieris",,,,,,JA
 "Eva, Johanna",collectiepresentatie - comfort,2026-0003_1-3,Niet-publiek,ok,,,foto maken; ok,ok,2026-0003_1-3$1;2026-0003_1-3$2;2026-0003_1-3$3;2026-0003_1-3$4;2026-0003_1-3$5,"Morin, Louise*Atelier Mulieris",,,,,,JA
 "Eva, Johanna",collectiepresentatie - comfort,2026-0003_2-3,Niet-publiek,ok,,,foto maken; ok,ok,2026-0003_2-3,"Morin, Louise*Atelier Mulieris",,,,,,JA
@@ -13848,7 +13848,7 @@ Eva,collectiepresentatie - imitatie kopie,2024-0045_8-8,niet-publiek,ok,,,ok,ok,
 "Eva, Johanna",collectiepresentatie - comfort,2026-0005_3-3,Niet-publiek,ok,,,foto maken; ok,ok,2026-0005_3-3$1;2026-0005_3-3$2,"Morin, Louise*Atelier Mulieris",,,,,,JA
 "Eva, Johanna",collectiepresentatie - plooien,2026-0006,publiek,ok,,,foto maken,,,"Venlet, Richard*Maniera",,,,,,JA
 "Eva, Johanna",collectiepresentatie - plooien,2026-0007,publiek,ok,,,foto maken; ok,ok,2026-0007$1;2026-0007$2;2026-0007$3,MOS Architects*Maniera,,,,,,JA
-Sam,collectiepresentatie - plooien,2026-0008,publiek,ok,,,foto nemen; ok,ok,2026-0008;2026-0008$1,Gebrüder Thonet*Gebrüder Thonet,,,,,,JA
+Sam,collectiepresentatie - plooien,2026-0008,publiek,ok,,,foto nemen; ok,ok,2026-0008;2026-0008$1,Gebrüder Thonet*Gebrüder Thonet,ok,,,,,JA
 Marie Harteel,Tafelgerei,0667_0-2,,,,,,x,,,,,,,,
 Marie Harteel,Tafelgerei,0667_1-2,,,,,,x,,,,,,,,
 Marie Harteel,Tafelgerei,0667_2-2,,,,,,x,,,,,,,,
@@ -16370,7 +16370,7 @@ Johanna/Sam,"meubels, collectiepresentatie - connecties verbindingen",2002-0096,
 Johanna/Sam,"meubels, collectiepresentatie - plooien vouwen",2002-0087,publiek,ok,,,ok,ok,2002-0087,"schöning, stefan*Polyline",ok,stefan schöning,ok 2026-07-10,ok 2026-06-03,,JA
 Johanna/Sam,meubels collectiepresentatie - na comfort,2011-0008,publiek,ok,,"nieuwe foto na restauratie, restauratie klaar",nieuwe foto na reiniging ; ok,ok,2011-0008$1;2011-0008$2,"Gaubert, Alain*Atelier Gaubert",,,,,,JA
 Eva/Johanna,"meubels, collectiepresentatie - migratie",1985-0063,publiek,ok,,,ok,ok,1985-0063$2,"Veranneman, Emiel*Veranneman, Emiel",,,,,,JA
-Eva/Johanna,"meubels, nieuwe aanwinsten",2019-0055,publiek,ok,,,ok,ok,2019-0055$1;2019-0055$3,onbekend*onbekend,aangevraagd,Peter Raacke,,,rechtenklaring Thijs,JA
+Eva/Johanna,"meubels, nieuwe aanwinsten",2019-0055,publiek,ok,,,ok,ok,2019-0055$1;2019-0055$3,onbekend*onbekend,ok,,,,rechtenklaring Thijs,JA
 Johanna,,0048,,,,,,x,,,,,,,,
 Johanna,,0792,,,,,,x,,,,,,,,
 Johanna,,1976-0163,,,,,,x,,de Sede,,,,,,
@@ -16601,8 +16601,8 @@ Johanna,meubels,1996-0002_2-3,niet-publiek,ok,,,ok,x,1996-0002_2-3,"Van Praet, F
 Johanna,meubels,1996-0002_3-3,niet-publiek,ok,,,ok,x,1996-0002_3-3,"Van Praet, Frans*onbekend",,,,,,
 Johanna,,1996-0005,,,,,,x,,"Dessauvage, Tjok*Atelier Vera Vermeersch",,,,,,
 Johanna,Starck,1996-0018,publiek,ok,,,ok,x,1996-0018$1;1996-0018$2;1996-0018$3;1996-0018$4;1996-0018,"Starck, Philippe*Aprilia",ok,Philippe Starck,,,,
-Johanna,,1996-0021,,,,,,x,,"Van Reeth, Bob*Baumans",,,,,,
-Johanna,,1996-0022,,,,,,x,,"Wittocx, Herman*Wittocx, Herman",,,,,,
+Johanna,meubels,1996-0021,publiek,ok,,,ok,x,1996-0021,"Van Reeth, Bob*Baumans",,,,,,
+Johanna,meubels,1996-0022,publiek,ok,,,ok,x,1996-0022,"Wittocx, Herman*Wittocx, Herman",,,,,,
 Johanna,,1997-0007_0-3,publiek,ok,,,Geen foto,x,,Bataille & ibens*Bulo,,,,,,
 Johanna,,1997-0007_1-3,niet-publiek,check onderdelen: lamp?,,,Foto koppelen aan Axiell,x,1997-0007_1-3,Bataille & ibens*Bulo,,,,,,
 Johanna,,1997-0007_2-3,niet-publiek,ok,,,ok,ok,1997-0007_2-3$1,Bataille & ibens*Bulo,,,,,,
@@ -16733,7 +16733,7 @@ Johanna,meubels,2003-0002_5-6,niet-publiek,ok,,,ok,x,2003-0002_5-6,"Morrison, Ja
 Johanna,meubels,2003-0002_6-6,niet-publiek,ok,,,ok,x,2003-0002_6-6,"Morrison, Jasper*Magis",,,,,,
 Johanna,meubels,2003-0013,publiek,ok,,,foto maken,x,,"Wanders, Marcel*Moooi",ok,Marcel Wanders,,,,
 Johanna,Starck,2003-0030,publiek,ok,,,ok,x,2003-0030$1;2003-0030$2,"Starck, Philippe*Hoesch Design",ok,Philippe Starck,,,,
-Johanna,,2003-0031,publiek,ok,,,ok,ok,2003-0031$;2003-0031$2,onbekend*onbekend,,,,,,JA
+Johanna,,2003-0031,publiek,ok,,,ok,ok,2003-0031$;2003-0031$2,onbekend*onbekend,ok,,,,,JA
 Johanna,meubels,2003-0034,publiek,ok,,,geen foto,x,,"Guhl, Willy*Eternit",,,,,,
 Johanna,meubels,2003-0035,publiek,check collectiebeelden: achtervoegsel rood,,,ok,x,2003-0035,"Guhl, Willy*Eternit",,,,,,
 Johanna,,2003-0046_4-4_ORANJE,,,,,,x,,"Bellini, Mario*Heller",ok,Mario Bellini,,,,
@@ -18022,11 +18022,11 @@ Johanna,,SCH-0804,,,,,,x,,"Van Praet, Frans",,,,,,
 Johanna,textiel,4926,publiek,ok,,,nieuwe foto ; ok,ok,4926$2,"Woedstad, Gaston*Woedstad, Gaston",ok,,,,,
 "Thijs, Johanna",,2009-0282,publiek,ok,,,nieuwe foto ; ok,ok,2009-0282$1;2009-0282$2;2009-0282$3;2009-0282$4,"Cats, J.*onbekend",,,,,,
 Johanna,,1922,publiek,ok,,,ok,x,1922$1;1922$2;1922$3;1922$4,onbekend*onbekend,ok,,,,,JA
-Johanna,,1987-1539,publiek,ok,,,ok,x,1987-1539$1;1987-1539$2,onbekend*onbekend,,,,,,JA
-Johanna,,2001-0092,publiek,ok,,,ok,ok,2001-0092$1,onbekend*onbekend,,,,,,JA
-Johanna,,2015-0029,publiek,ok,,,ok,ok,2015-0029$3;2015-0020$4,onbekend*Vynckier,,,,,,JA
+Johanna,,1987-1539,publiek,ok,,,ok,x,1987-1539$1;1987-1539$2,onbekend*onbekend,ok,,,,,JA
+Johanna,,2001-0092,publiek,ok,,,ok,ok,2001-0092$1,onbekend*onbekend,ok,,,,,JA
+Johanna,,2015-0029,publiek,ok,,,ok,ok,2015-0029$3;2015-0020$4,onbekend*Vynckier,ok,,,,,JA
 Johanna,meubels,2015-0149,publiek,ok,,,ok,ok,2015-0149$1;2015-0149$2,"Storms, Ben*Storms, Ben",,,,,,JA
-Sam,collectiepresentatie - verbindingen ,2819,publiek,ok ,,,ok,x,2819$1,onbekend*onbekend,,,,,,JA
+Sam,collectiepresentatie - verbindingen ,2819,publiek,ok ,,,ok,x,2819$1,onbekend*onbekend,ok,,,,,JA
 Johanna,,3843_0-2,publiek,ok,,,Controleren: foto's beetje scheef?,x,,onbekend*onbekend,ok,,,,,
-Johanna,,3843_1-2,niet-publiek,ok,,,Controleren: foto's beetje scheef?,x,,onbekend*onbekend,,,,,,
-Johanna,,3843_2-2,niet-publiek,ok,,,Controleren: foto's beetje scheef?,x,,onbekend*onbekend,,,,,,
+Johanna,,3843_1-2,niet-publiek,ok,,,Controleren: foto's beetje scheef?,x,,onbekend*onbekend,ok,,,,,
+Johanna,,3843_2-2,niet-publiek,ok,,,Controleren: foto's beetje scheef?,x,,onbekend*onbekend,ok,,,,,
